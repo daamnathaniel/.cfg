@@ -1,0 +1,9 @@
+{
+	/*"font_size": 10,*/
+	"color_scheme": "Packages/Color Scheme - Sleeplessmind/Sleeplessmind.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"font_size": 12,
+}

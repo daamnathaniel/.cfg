@@ -1,0 +1,4 @@
+{
+ "default.configured.audio.source": { "name": "alsa_input.pci-0000_00_1b.0.analog-stereo" },
+ "default.configured.audio.sink": { "name": "alsa_output.usb-DisplayLink_Dell_Universal_Dock_D6000_1810188662-02.iec958-stereo" }
+}

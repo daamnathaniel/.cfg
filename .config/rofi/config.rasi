@@ -1,0 +1,7 @@
+configuration {
+ modi: "window,drun,ssh,combi,windowcd,run,keys,file-browser";
+ theme: "solarized";
+ font: "Hack 10";
+ combi-modi: "window,drun,ssh,windowcd,run,keys,file-browser";
+ }
+@import "/usr/share/rofi/themes/solarized.rasi"

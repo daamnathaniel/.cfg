@@ -1,0 +1,348 @@
+
+# Read `man 5 sway` for a complete reference.
+
+# Variables
+set $mod Mod4
+set $met Mod4 Mod1
+set $left KP_Left
+set $down KP_Down
+set $up KP_Up
+set $right KP_Right
+set $prev KP_Prior
+set $next KP_Next
+set $home KP_Home
+set $end KP_End
+set $start KP_Begin
+
+set $term termite
+set $menu dmenu_path | dmenu | xargs swaymsg exec --
+set $rofi rofi -show run
+
+set $resize Resize: (left) shrink width, (right) grow width, (up) shrink height, (down) grow height
+set $layout Layout: (h) splith, (v) splitv, (s) stacking, (t) tabbed, (d) default 
+set $toggle Toggle: (space) focus mode, (f) fullscreen, (F) lfullscreen global, (l) toggle, (s) toggle split, (t) stacking/tabbed, (S) split, (k) sticky, (d) tiling drag, (b) border 
+set $system System: (l) lock, (e) exit, (s) suspend, (h) hibernate, (r) reboot, (o) power-off
+set $apps Apps: (b) brave, (B) --incognito, (s) subl, (p) pavucontrol
+
+# TERM, CODE, READ, WEB, COM, FILES, MEDIA (audio, video, images), MON, MISC (gimp, inkscpae)
+set $ws1  workspace  1: misc
+set $ws2  workspace  2: misc
+set $ws3  workspace  3: com
+set $ws4  workspace  4: misc
+set $ws5  workspace  5: misc
+set $ws6  workspace  6: misc
+set $ws7  workspace  7: mon
+set $ws8  workspace  8: misc
+set $ws9  workspace  9: misc
+set $ws0  workspace  0: misc
+
+# Solarized common
+set $yellow        #b58900
+set $orange        #cb4b16
+set $red           #dc322f
+set $magenta       #d33682
+set $violet        #6c71c4
+set $blue          #268bd2
+set $cyan          #2aa198
+set $green         #859900
+
+# Solarized dark
+set $basez3        #002b36
+set $basez2        #073642
+set $basez1        #586e75
+set $basez0        #657b83
+set $base0         #839496
+set $base1         #93a1a1
+set $base2         #eee8d5
+set $base3         #fdf6e3
+
+# Settings
+xwayland force
+focus_follows_mouse always
+floating_modifier $mod normal
+workspace_layout tabbed
+workspace_auto_back_and_forth yes
+focus_on_window_activation urgent
+default_border pixel 3
+default_floating_border normal
+hide_edge_borders smart
+gaps inner 10
+smart_gaps on
+
+
+# Window assignments
+for_window [window_role="pop-up"] floating enable
+for_window [window_role="bubble"] floating enable
+for_window [window_role="task_dialog"] floating enable
+for_window [window_role="Preferences"] floating enable
+for_window [window_type="dialog"] floating enable
+for_window [window_type="menu"] floating enable
+for_window [instance="update_installer"] floating enable
+
+# Workspace assignments
+assign [class="^Brave$"] $ws1
+
+# Output configuration
+output DP-3 {
+    mode 1920x1080 
+    pos 0,0 
+    background ~/.config/sway/wallpaper_left.jpg fill
+}
+output DP-4 {
+    mode 1920x1080 
+    pos 1920,0 
+    background ~/.config/sway/wallpaper_right.jpg fill
+}
+output eDP-1 {
+    disable 
+    position 3840,0
+}
+
+# Input configuration
+input * {
+    xkb_layout "us"
+    xkb_options "caps:shiftlock,numpad:microsoft,shift:both_capslock_cancel,ctrl:nocaps,ctrl:lctrl_meta"
+}
+
+input "2:1:PS/2_Generic_Mouse" events disabled
+input "1:1:AT_Translated_Set_2_keyboard" events disabled
+input "2:7:SynPS/2_Synaptics_TouchPad" events disabled
+
+
+
+mode "default" {
+  bindsym {
+    # Shortcuts
+    $mod+Return exec $term
+    $mod+d exec $menu
+    $met+d exec rofi
+
+
+    $mod+Shift+grave move scratchpad
+    $mod+grave scratchpad show
+
+    $mod+q kill
+    $mod+Shift+c reload
+
+    $mod+Shift+Escape exec swaynag -t warning -m 'You pressed the exit shortcut. Do you really want to exit sway? This will end your Wayland session.' -b 'Yes, exit sway' 'swaymsg exit'
+
+    --release Caps_Lock exec pkill -SIGRTMIN+11 i3blocks
+    --release Num_Lock exec pkill -SIGRTMIN+11 i3blocks
+
+
+    # Moving around:
+    # Jump to urgent window
+    $mod+x [urgent=latest] focus
+
+    # Move your focus around
+    $mod+$left focus left
+    $mod+$down focus down
+    $mod+$up focus up
+    $mod+$right focus right
+
+    $mod+$next focus next
+    $mod+$prev focus prev
+    
+    $mod+c focus child
+    $mod+p focus parent
+
+    # Swap focus between the tiling area and the floating area
+    $mod+space focus mode_toggle
+
+    
+    # Move the focused window with the same, but add Shift
+    $mod+Shift+$left move left
+    $mod+Shift+$down move down
+    $mod+Shift+$up move up
+    $mod+Shift+$right move right
+
+
+    # Workspaces:
+    $mod+1 $ws1
+    $mod+2 $ws2
+    $mod+3 $ws3
+    $mod+4 $ws4
+    $mod+5 $ws5
+    $mod+6 $ws6
+    $mod+7 $ws7
+    $mod+8 $ws8
+    $mod+9 $ws9
+    $mod+0 $ws0
+
+    $mod+Shift+1 move container to $ws1
+    $mod+Shift+2 move container to $ws2
+    $mod+Shift+3 move container to $ws3
+    $mod+Shift+4 move container to $ws4
+    $mod+Shift+5 move container to $ws5
+    $mod+Shift+6 move container to $ws6
+    $mod+Shift+7 move container to $ws7
+    $mod+Shift+8 move container to $ws8
+    $mod+Shift+9 move container to $ws9
+    $mod+Shift+0 move container to $ws0
+
+    $mod+tab workspace next_on_output
+    $mod+Shift+tab workspace prev_on_output
+
+
+    # Modes
+    $mod+r mode "$resize"
+    $mod+l mode "$layout"
+    $mod+t mode "$toggle"
+    $mod+s mode "$system"
+    $mod+a mode "$apps"
+  }
+}
+
+
+
+# Resizing containers:
+mode "$resize" { 
+  bindsym {
+    $left focus left
+    $down focus down
+    $up focus up
+    $right focus right
+
+    $mod+$left   resize shrink width 10px
+    $mod+$down   resize grow height 10px
+    $mod+$up     resize shrink height 10px
+    $mod+$right  resize grow width 10px
+
+    Shift+$left  move left
+    Shift+$down  move down
+    Shift+$up    move up
+    Shift+$right move right
+
+    # Return to default
+    Escape mode "default"
+  }
+}
+
+
+# layout:
+mode "$layout" {
+  bindsym {
+    h       layout splith,          mode "default"
+    v       layout splitv,          mode "default"
+    s       layout stacking,        mode "default"
+    t       layout tabbed,          mode "default"
+
+    # Return to default
+    Escape mode "default"
+  }
+}
+
+
+# toggle:
+mode "$toggle" {
+  bindsym {
+    space   floating toggle,          mode "default"
+    f       fullscreen toggle,        mode "default"
+    shift+f fullscreen toggle global, mode "default"
+    l       layout toggle,            mode "default"
+    s       layout toggle split,      mode "default"
+    t       layout toggle all,        mode "default"
+    shift+s split toggle,             mode "default"
+    k       sticky toggle,            mode "default"
+    d       tiling_drag toggle,       mode "default"
+    b       border toggle,            mode "default"
+
+    # Return to default
+    Escape mode "default"
+  }
+}
+
+
+# system:
+mode "$system" {
+  bindsym {
+    l exec  swaylock, mode "default"
+    e exit
+    s exec  swaylock && systemctl suspend, mode "default"
+    h exec  swaylock && systemctl hibernate, mode "default"
+    r exec  systemctl reboot
+    o exec  systemctl poweroff
+
+    # Return to default
+    Escape mode "default"
+  }
+}
+
+
+# Apps:
+mode "$apps" {
+  bindsym {
+    b exec brave, mode "default"
+    Shift+b exec brave --incognito, mode "default"
+    s exec subl, mode "default"
+    p exec pavucontrol, mode "default"
+    r exec termite -e ranger, mode "default"
+    e exec termite -e micro, mode "default"
+    Shift+e exec subl, mode "default"
+    h exec termite -e htop, mode "default"
+
+    # Return to default
+    Escape mode "default"
+  }
+}
+
+
+
+set $cl_high #009ddc
+set $cl_indi #d9d8d8
+set $cl_back #231f20
+set $cl_fore #d9d8d8
+set $cl_urge #ee2e24
+
+# Colors                border   bg       text     indi     childborder
+client.focused          $cl_high $cl_high $cl_fore $cl_indi $cl_high
+client.focused_inactive $cl_back $cl_back $cl_fore $cl_back $cl_back
+client.unfocused        $cl_back $cl_back $cl_fore $cl_back $cl_back
+client.urgent           $cl_urge $cl_urge $cl_fore $cl_urge $cl_urge
+
+
+
+# Status bar #
+
+bar {
+  position bottom
+  id bottombar
+  status_command  i3status
+  colors {
+    background $basez3
+    statusline $basez0
+    separator  $basez0
+    focused_workspace  $basez1 $basez1 $base1
+    active_workspace   $basez1 $basez1 $base1
+    inactive_workspace $basez2 $basez2 $basez1
+    urgent_workspace   $red    $red    $base3
+  }
+}
+
+bar {
+  position top
+  id topbar
+  status_command i3blocks -c ~/.config/i3blocks/config
+  colors {
+    background $basez3
+    statusline $basez0
+    separator  $basez0
+    focused_workspace  $basez1 $basez1 $base1
+    active_workspace   $basez1 $basez1 $base1
+    inactive_workspace $basez2 $basez2 $basez1
+    urgent_workspace   $red    $red    $base3
+  }
+}
+
+
+# Autostart
+exec --no-startup-id mako
+exec_always autotiling
+
+include /etc/sway/config.d/*
+
+
+
+
+
+

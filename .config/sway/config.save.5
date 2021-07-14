@@ -1,0 +1,235 @@
+
+# Variables
+# =========
+	set $mod		Mod4
+	set $term		alacritty
+	set $browser	env GDK_BACKEND=wayland brave
+	set $bin		~/.local/bin
+	set $file		alacritty -e ranger
+	set $menu		dmenu_path | dmenu | xargs swaymsg exec --
+	set $rofi       rofi -show run
+	set $left		KP_Left
+	set $down		KP_Down
+	set $up			KP_Up
+	set $right		KP_Right
+	set $prev		KP_Prior
+	set $next		KP_Next
+	set $home		KP_Home
+	set $end		KP_End
+	set $start		KP_Begin
+
+	set $windows Window management: (left) resize left, (down) resize down, (up) resize up, (right) resize right, (q) kill, (s) stacking, (t) tabbed, (g) toggle split, (h) splith, (v) splitv, (f) fullscreen, (shift+f) fullscreen global, (space) floating, (shift+space) focus mode
+
+	set $applications Applications: (return) terminal, (shift+return) floating term, (b) browser, (B) incognito browser, (n) nmtui, (f) file browser, (p) screenshot, (z) screencast start, (shift+z) screencast stop, (d) menu, (shift+d) menu, (s) sgtk-menu
+
+
+
+# Settings
+# =========
+	floating_modifier $mod normal
+	xwayland force
+	focus_follows_mouse always
+	floating_modifier $mod normal
+	workspace_layout tabbed
+	workspace_auto_back_and_forth yes
+	focus_on_window_activation urgent
+	default_border pixel 3
+	default_floating_border normal
+	hide_edge_borders smart
+	gaps inner 10
+	smart_gaps on
+
+
+# Startup Programs:
+# =================
+	exec mako --max-visible 10 --width 350 --border-color=#00ff00 --background-color=#000000 --default-timeout 6000
+	exec_always autotiling
+
+	# Shutdown displays when idle
+	exec_always swayidle -w \
+		timeout 600 'swaymsg "output * dpms off"' \
+		timeout 630 'swaylock -f -c 3f6375' \
+		resume 'swaymsg "output * dpms on"' \
+		before-sleep 'swaylock -f -c 3f6375'
+
+	exec light -S 25
+
+	# gtk theme
+	exec gsettings set org.gnome.desktop.interface gtk-theme 'Arc-Dark'  
+	exec gsettings set org.gnome.desktop.interface icon-theme 'Papirus-Dark'
+
+
+
+# Default:
+# =============
+
+
+  bindsym {
+	$mod+Shift+grave	move scratchpad
+	$mod+grave			scratchpad show
+	$mod+Return			exec $term
+	$mod+Shift+Return	exec $bin/floating-term.sh
+	$mod+d				exec $menu
+	$mod+s				exec sgtk-menu -f -a
+
+	$mod+w				mode '$windows'
+	$mod+a				mode '$applications'
+
+	$mod+q				kill
+	$mod+Shift+c		reload
+	$mod+Shift+e		exec zenity --question --text "Are you sure you wish to exit sway?" && swaymsg exit
+
+# Moving around:
+# ==============
+	# Move your focus around
+	$mod+$left			focus left
+	$mod+$down			focus down
+	$mod+$up			focus up
+	$mod+$right			focus right
+
+	# Move windows around
+	$mod+Shift+$left	move left
+	$mod+Shift+$down	move down
+	$mod+Shift+$up		move up
+	$mod+Shift+$right	move right
+
+# Workspaces:
+# ===========
+	# Switch to workspace
+	$mod+1 workspace 1
+	$mod+2 workspace 2
+	$mod+3 workspace 3
+	$mod+4 workspace 4
+	$mod+5 workspace 5
+	$mod+6 workspace 6
+	$mod+7 workspace 7
+	$mod+8 workspace 8
+	$mod+9 workspace 9
+	$mod+0 workspace 10
+
+	# Move focused container to workspace
+	$mod+Shift+1 move container to workspace 1
+	$mod+Shift+2 move container to workspace 2
+	$mod+Shift+3 move container to workspace 3
+	$mod+Shift+4 move container to workspace 4
+	$mod+Shift+5 move container to workspace 5
+	$mod+Shift+6 move container to workspace 6
+	$mod+Shift+7 move container to workspace 7
+	$mod+Shift+8 move container to workspace 8
+	$mod+Shift+9 move container to workspace 9
+	$mod+Shift+0 move container to workspace 10
+
+# Multi-media keys:
+# =================
+	#XF86AudioMute			exec ~/.local/bin/audio.sh mute
+	#XF86AudioRaiseVolume	exec $bin/audio.sh add && $bin/audio.sh get | $bin/wob.sh > $SWAYSOCK.wob
+	#XF86AudioLowerVolume  exec $bin/audio.sh sub && $bin/audio.sh get | $bin/wob.sh > $SWAYSOCK.wob
+	XF86AudioRaiseVolume	exec amixer -q -D pulse sset Master 5%+ && pkill -RTMIN+10 i3blocks 
+	XF86AudioLowerVolume	exec amixer -q -D pulse sset Master 5%- && pkill -RTMIN+10 i3blocks
+	XF86AudioMute			exec amixer -q -D pulse sset Master toggle && pkill -RTMIN+10 i3blocks
+
+
+	Print					exec grim ~/Pictures/$(date +%Y%m%d%h%m%s).png
+	XF86MonBrightnessDown	exec light -U 10 && light -G | cut -d'.' -f1 > $SWAYSOCK.wob
+	XF86MonBrightnessUp		exec light -A 10 && light -G | cut -d'.' -f1 > $SWAYSOCK.wob
+	XF86PowerOff			exec zenity --question --text "Are you sure you wish to shut down now?" && shutdown now
+
+  
+  }
+
+
+
+# Window management:
+# ------------------
+	mode "$windows" {
+	  bindsym {
+		o				exec $bin/swayresize.sh left
+		i				exec $bin/swayresize.sh down
+		u				exec $bin/swayresize.sh up
+		y				exec $bin/swayresize.sh right
+		s				layout stacking
+		t				layout tabbed
+		g				layout toggle split
+		b				splith
+		v				splitv
+		f				fullscreen
+		shift+f			fullscreen global
+		space			floating toggle
+		shift+space		focus mode_toggle
+		
+		Escape mode "default"
+	  }
+	}
+
+
+# Launching apllications:
+# ----------------------
+	mode "$applications" {
+	  bindsym {
+		w				exec $browser
+		shift+w			exec $browser --incognito
+		p				exec pavucontrol
+		n				exec $bin/floating-term.sh nmtui
+		f				exec $file
+		s				exec $bin/screenshot
+		z				exec $bin/screencast.sh start
+		shift+z			exec $bin/screencast.sh stop
+		
+		Escape mode "default"
+	  }
+	}
+
+# Window settings:
+# ================
+	for_window [app_id="^.*"]					border pixel 1
+	for_window [app_id="^.*_floating"]			floating enable
+	for_window [app_id="brave"]					inhibit_idle fullscreen
+	for_window [app_id="zenity"]				floating enable
+
+
+# Output settings:
+# ================
+	output eDP-1	pos 3840 0 disable
+	output DP-4	pos 1920 0 res 1920x1080 background wr.jpg fill
+	output DP-3 pos 0	 0 res 1920x1080 background wl.jpg fill
+
+
+# Input settings:
+# ===============
+	input * {
+	    xkb_layout "us"
+	    xkb_options "caps:shiftlock,numpad:microsoft,shift:both_capslock_cancel,ctrl:nocaps,ctrl:lctrl_meta"
+	}
+
+	input "2:1:PS/2_Generic_Mouse" events disabled
+	input "1:1:AT_Translated_Set_2_keyboard" events disabled
+	input "2:7:SynPS/2_Synaptics_TouchPad" events disabled
+
+
+
+# Status bar:
+# ===========
+	bar {
+	  position top
+	  status_command i3status
+	  font monospace 10
+	  colors {
+		statusline			#ffffff
+		background			#000000
+		focused_workspace	#000000 #000000 #00ff00
+		inactive_workspace	#000000 #000000 #ffff00
+		active_workspace	#000000 #000000 #ffff00
+	}
+}
+
+
+include ~/.cache/wal/colors-sway
+# class                     border      backgr.     text        indicator   child_border
+    client.focused          $foreground $background $color4     $foreground $foreground
+    client.focused_inactive $color8     $background $foreground $color8     $color8
+    client.unfocused        $color8     $background $foreground $color8     $color8
+    client.urgent           $foreground $background $color1     $foreground $foreground
+
+
+
+include /etc/sway/config.d/*

@@ -1,0 +1,1301 @@
+{
+	"folder_history":
+	[
+		"/home/adam/c/CLI/wrds",
+		"/home/adam/.config/sway",
+		"/home/adam/Downloads/dotfiles-sway-master/.config/sway",
+		"/home/adam",
+		"/home/adam/c/reference",
+		"/home/adam/c/CLI/__wrds",
+		"/home/adam/c/CLI/words",
+		"/home/adam/c/worlds-best-restaurants-cli-gem/lib/wrds",
+		"/home/adam/c/labs/ruby-music-library-cli-online-web-sp-000",
+		"/home/adam/c/CLI/wrds_2",
+		"/home/adam/c/wrds/lib",
+		"/home/adam/c/wrds",
+		"/home/adam/c/cli/wrds",
+		"/home/adam/c/labs/ruby-variable-assignment-online-web-sp-000",
+		"/home/adam/c/labs/css-grid-lab-online-web-sp-000",
+		"/home/adam/c/design_patterns_in_ruby_code",
+		"/home/adam/c/word"
+	],
+	"last_version": 4107,
+	"last_window_id": 42,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 0.0,
+		"new_window_maximized": false,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"split",
+						"splitv"
+					],
+					[
+						"w",
+						"w"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"packagin",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 124.0,
+				"history":
+				[
+					"cd ~\nsublime",
+					"exit",
+					"cd ~",
+					"cd !",
+					"help",
+					"?",
+					"whoami",
+					"fish",
+					"exit",
+					"ruby",
+					"class API",
+					"require 'blanket'",
+					"exit",
+					"irb",
+					"require blanket",
+					"require 'blanket'",
+					"pry",
+					"shell",
+					"fish"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/adam/.config/i3blocks/bandwidth3/README.md",
+				"/home/adam/roficonfig.rasi",
+				"/home/adam/.config/termite/config",
+				"/home/adam/.tool-versions",
+				"/home/adam/Downloads/dotfiles-sway-master/.config/sway/config",
+				"/home/adam/.config/sway/configrah",
+				"/home/adam/.config/waybar/config2",
+				"/home/adam/.config/waybar/config",
+				"/home/adam/.config/waybar/config_",
+				"/home/adam/.config/i3status/config",
+				"/home/adam/.config/i3blocks/shutdown_menu/i3blocks.conf",
+				"/home/adam/.config/i3blocks/shutdown_menu/shutdown_menu",
+				"/home/adam/.config/sway/config",
+				"/home/adam/.config/i3blocks/calendar/screenshot1.png",
+				"/home/adam/.config/i3blocks/wifi/README.md",
+				"/home/adam/.config/sway/testingconfig",
+				"/home/adam/c/CLI/wrds/wrds.gemspec",
+				"/etc/pacman.d/mirrorlist",
+				"/home/adam/c/reference/design_patterns_in_ruby_code/13/ex10_habitat.rb",
+				"/home/adam/c/reference/api.rb",
+				"/home/adam/c/CLI/wrds/lib/wrds/query.rb",
+				"/home/adam/c/CLI/wrds_2/bin/s.rb",
+				"/home/adam/c/CLI/wrds/lib/wrds/cli.rb",
+				"/home/adam/c/CLI/wrds/bin/wrds",
+				"/home/adam/c/CLI/wrds_2/bin/builder.rb",
+				"/home/adam/c/CLI/wrds_2/bin/wrds.rb",
+				"/home/adam/c/CLI/wrds_2/bin/facade.rb",
+				"/home/adam/c/CLI/wrds/README.md",
+				"/home/adam/c/CLI/wrds/lib/version.rb",
+				"/home/adam/c/CLI/wrds/lib/wrds.rb",
+				"/home/adam/c/CLI/wrds/INSIGHT.txt",
+				"/home/adam/c/CLI/wrds/config/environment.rb",
+				"/home/adam/c/wrds/lib/wrds/api.rb",
+				"/home/adam/c/wrds/lib/wrds/cli.rb",
+				"/home/adam/c/wrds/lib/command.rb",
+				"/home/adam/c/wrds/lib/wrds.rb",
+				"/home/adam/c/wrds/config/environment.rb",
+				"/home/adam/c/wrds/config/untitled.rxml",
+				"/home/adam/poscovid.txt",
+				"/home/adam/c/wrds/config/test.rb",
+				"/home/adam/c/wrds/lib/untitled2.rb",
+				"/home/adam/c/wrds/lib/scratch.rb",
+				"/home/adam/c/wrds/lib/untitled.rb",
+				"/home/adam/c/wrds/lib/testing.rb",
+				"/home/adam/c/wrds/wrds.gemspec",
+				"/home/adam/c/wrds/bin/wrds",
+				"/home/adam/c/wrds/lib/wrds/version.rb",
+				"/home/adam/c/wrds/test/wrds_test.rb",
+				"/home/adam/c/wrds/test/test_helper.rb",
+				"/home/adam/c/word/lib/wrd.rb",
+				"/home/adam/c/word/config/environment.rb",
+				"/home/adam/c/word/bin/wrd",
+				"/home/adam/c/word/checklist"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"bindsym ",
+					"$mod+",
+					"bindsym "
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 42.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 108.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 71.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"split",
+						"splitv"
+					],
+					[
+						"w",
+						"w"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "\n# Variables\n# =========\n\tset $mod\t\t\tMod4\n\tset $term\t\t\talacritty\n\tset $browser\tenv GDK_BACKEND=wayland brave\n\tset $bin\t\t\t~/.local/bin\n\tset $file\t\t\talacritty -e ranger\n\tset $menu\t\t\tdmenu_path | dmenu | xargs swaymsg exec --\n\tset $rofi      rofi -show run\n\tset $left\t\t\tKP_Left\n\tset $down\t\t\tKP_Down\n\tset $up\t\t\t\tKP_Up\n\tset $right\t\tKP_Right\n\tset $prev\t\t\tKP_Prior\n\tset $next\t\t\tKP_Next\n\tset $home\t\t\tKP_Home\n\tset $end\t\t\tKP_End\n\tset $start\t\tKP_Begin\n\n\tset $windows Window management: (left) resize left, (down) resize down, (up) resize up, (right) resize right, (q) kill, (s) stacking, (t) tabbed, (g) toggle split, (h) splith, (v) splitv, (f) fullscreen, (shift+f) fullscreen global, (space) floating, (shift+space) focus mode\n\n\tset $applications Applications: (return) terminal, (shift+return) floating term, (b) browser, (B) incognito browser, (n) nmtui, (f) file browser, (p) screenshot, (z) screencast start, (shift+z) screencast stop, (d) menu, (shift+d) menu, (s) sgtk-menu\n\n\n\n# Settings\n# =========\n\tfloating_modifier $mod normal\n\txwayland force\n\tfocus_follows_mouse always\n\tfloating_modifier $mod normal\n\tworkspace_layout tabbed\n\tworkspace_auto_back_and_forth yes\n\tfocus_on_window_activation urgent\n\tdefault_border pixel 3\n\tdefault_floating_border normal\n\thide_edge_borders smart\n\tgaps inner 10\n\tsmart_gaps on\n\n\n# Startup Programs:\n# =================\n\texec mako --max-visible 10 --width 350 --border-color=#00ff00 --background-color=#000000 --default-timeout 6000\n\texec_always autotiling\n\n\t# Shutdown displays when idle\n\texec_always swayidle -w \\\n\t\ttimeout 600 'swaymsg \"output * dpms off\"' \\\n\t\ttimeout 630 'swaylock -f -c 3f6375' \\\n\t\tresume 'swaymsg \"output * dpms on\"' \\\n\t\tbefore-sleep 'swaylock -f -c 3f6375'\n\n\texec light -S 25\n\n\t# gtk theme\n\texec gsettings set org.gnome.desktop.interface gtk-theme 'Arc-Dark'  \n\texec gsettings set org.gnome.desktop.interface icon-theme 'Papirus-Dark'\n\n\n\n# Default:\n# =============\n\n\n  bindsym {\n\t$mod+Shift+grave\tmove scratchpad\n\t$mod+grave\t\t\tscratchpad show\n\t$mod+Return\t\t\texec $term\n\t$mod+Shift+Return\texec $bin/floating-term.sh\n\t$mod+d\t\t\t\texec $menu\n\t$mod+s\t\t\t\texec sgtk-menu -f -a\n\n\t$mod+w\t\t\t\tmode '$windows'\n\t$mod+a\t\t\t\tmode '$applications'\n\n\t$mod+q\t\t\t\tkill\n\t$mod+Shift+c\t\treload\n\t$mod+Shift+e\t\texec zenity --question --text \"Are you sure you wish to exit sway?\" && swaymsg exit\n\n# Moving around:\n# ==============\n\t# Move your focus around\n\t$mod+$left\t\t\tfocus left\n\t$mod+$down\t\t\tfocus down\n\t$mod+$up\t\t\tfocus up\n\t$mod+$right\t\t\tfocus right\n\n\t# Move windows around\n\t$mod+Shift+$left\tmove left\n\t$mod+Shift+$down\tmove down\n\t$mod+Shift+$up\t\tmove up\n\t$mod+Shift+$right\tmove right\n\n# Workspaces:\n# ===========\n\t# Switch to workspace\n\t$mod+1 workspace 1\n\t$mod+2 workspace 2\n\t$mod+3 workspace 3\n\t$mod+4 workspace 4\n\t$mod+5 workspace 5\n\t$mod+6 workspace 6\n\t$mod+7 workspace 7\n\t$mod+8 workspace 8\n\t$mod+9 workspace 9\n\t$mod+0 workspace 10\n\n\t# Move focused container to workspace\n\t$mod+Shift+1 move container to workspace 1\n\t$mod+Shift+2 move container to workspace 2\n\t$mod+Shift+3 move container to workspace 3\n\t$mod+Shift+4 move container to workspace 4\n\t$mod+Shift+5 move container to workspace 5\n\t$mod+Shift+6 move container to workspace 6\n\t$mod+Shift+7 move container to workspace 7\n\t$mod+Shift+8 move container to workspace 8\n\t$mod+Shift+9 move container to workspace 9\n\t$mod+Shift+0 move container to workspace 10\n\n# Multi-media keys:\n# =================\n\t#XF86AudioMute\t\t\texec ~/.local/bin/audio.sh mute\n\t#XF86AudioRaiseVolume\texec $bin/audio.sh add && $bin/audio.sh get | $bin/wob.sh > $SWAYSOCK.wob\n\t#XF86AudioLowerVolume  exec $bin/audio.sh sub && $bin/audio.sh get | $bin/wob.sh > $SWAYSOCK.wob\n\tXF86AudioRaiseVolume\texec amixer -q -D pulse sset Master 5%+ && pkill -RTMIN+10 i3blocks \n\tXF86AudioLowerVolume\texec amixer -q -D pulse sset Master 5%- && pkill -RTMIN+10 i3blocks\n\tXF86AudioMute\t\t\texec amixer -q -D pulse sset Master toggle && pkill -RTMIN+10 i3blocks\n\n\n\tPrint\t\t\t\t\texec grim ~/Pictures/$(date +%Y%m%d%h%m%s).png\n\tXF86MonBrightnessDown\texec light -U 10 && light -G | cut -d'.' -f1 > $SWAYSOCK.wob\n\tXF86MonBrightnessUp\t\texec light -A 10 && light -G | cut -d'.' -f1 > $SWAYSOCK.wob\n\tXF86PowerOff\t\t\texec zenity --question --text \"Are you sure you wish to shut down now?\" && shutdown now\n\n  \n  }\n\n\n\n# Window management:\n# ------------------\n\tmode \"$windows\" {\n\t  bindsym {\n\t\to\t\t\t\texec $bin/swayresize.sh left\n\t\ti\t\t\t\texec $bin/swayresize.sh down\n\t\tu\t\t\t\texec $bin/swayresize.sh up\n\t\ty\t\t\t\texec $bin/swayresize.sh right\n\t\ts\t\t\t\tlayout stacking\n\t\tt\t\t\t\tlayout tabbed\n\t\tg\t\t\t\tlayout toggle split\n\t\tb\t\t\t\tsplith\n\t\tv\t\t\t\tsplitv\n\t\tf\t\t\t\tfullscreen\n\t\tshift+f\t\t\tfullscreen global\n\t\tspace\t\t\tfloating toggle\n\t\tshift+space\t\tfocus mode_toggle\n\t\t\n\t\tEscape mode \"default\"\n\t  }\n\t}\n\n\n# Launching apllications:\n# ----------------------\n\tmode \"$applications\" {\n\t  bindsym {\n\t\tw\t\t\t\texec $browser\n\t\tshift+w\t\t\texec $browser --incognito\n\t\tp\t\t\t\texec pavucontrol\n\t\tn\t\t\t\texec $bin/floating-term.sh nmtui\n\t\tf\t\t\t\texec $file\n\t\ts\t\t\t\texec $bin/screenshot\n\t\tz\t\t\t\texec $bin/screencast.sh start\n\t\tshift+z\t\t\texec $bin/screencast.sh stop\n\t\t\n\t\tEscape mode \"default\"\n\t  }\n\t}\n\n# Window settings:\n# ================\n\tfor_window [app_id=\"^.*\"]\t\t\t\t\tborder pixel 1\n\tfor_window [app_id=\"^.*_floating\"]\t\t\tfloating enable\n\tfor_window [app_id=\"brave\"]\t\t\t\t\tinhibit_idle fullscreen\n\tfor_window [app_id=\"zenity\"]\t\t\t\tfloating enable\n\n\n# Output settings:\n# ================\n\toutput eDP-1\tpos 3840 0 disable\n\toutput DP-4\tpos 1920 0 res 1920x1080 background wr.jpg fill\n\toutput DP-3 pos 0\t 0 res 1920x1080 background wl.jpg fill\n\n\n# Input settings:\n# ===============\n\tinput * {\n\t    xkb_layout \"us\"\n\t    xkb_options \"caps:shiftlock,numpad:microsoft,shift:both_capslock_cancel,ctrl:nocaps,ctrl:lctrl_meta\"\n\t}\n\n\tinput \"2:1:PS/2_Generic_Mouse\" events disabled\n\tinput \"1:1:AT_Translated_Set_2_keyboard\" events disabled\n\tinput \"2:7:SynPS/2_Synaptics_TouchPad\" events disabled\n\n\n\n# Status bar:\n# ===========\n\tbar {\n\t  position bottom\n\t  status_command i3status\n\t  font monospace 10\n\t  colors {\n\t\tstatusline\t\t\t#ffffff\n\t\tbackground\t\t\t#000000\n\t\tfocused_workspace\t#000000 #000000 #00ff00\n\t\tinactive_workspace\t#000000 #000000 #ffff00\n\t\tactive_workspace\t#000000 #000000 #ffff00\n\t}\n}\n\n\ninclude ~/.cache/wal/colors-sway\n#output \"*\" background $wallpaper fill\n\n# class                     border      backgr.     text        indicator   child_border\n    client.focused          $foreground $background $color4     $foreground $foreground\n    client.focused_inactive $color8     $background $foreground $color8     $color8\n    client.unfocused        $color8     $background $foreground $color8     $color8\n    client.urgent           $foreground $background $color1     $foreground $foreground\n\n\n\ninclude /etc/sway/config.d/*\n",
+					"file": "/home/adam/.config/sway/config",
+					"file_size": 6687,
+					"file_write_time": 132705922989298222,
+					"settings":
+					{
+						"buffer_size": 6698,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": "\t"
+							},
+							"AQAAACQAAAAAAAAAJQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAJAAAAAAAAAAkAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": "\t"
+							},
+							"AQAAADYAAAAAAAAANwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							1,
+							"insert",
+							{
+								"characters": "\t"
+							},
+							"AQAAAHgAAAAAAAAAeQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAeAAAAAAAAAB4AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							1,
+							"insert",
+							{
+								"characters": "\t"
+							},
+							"AQAAAJIAAAAAAAAAkwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAkgAAAAAAAACSAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							18,
+							1,
+							"insert",
+							{
+								"characters": "\t"
+							},
+							"AQAAALIAAAAAAAAAswAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAsgAAAAAAAACyAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							21,
+							1,
+							"left_delete",
+							null,
+							"AQAAAO8AAAAAAAAA7wAAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAA8AAAAAAAAADwAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"insert",
+							{
+								"characters": "\t"
+							},
+							"AQAAAAoBAAAAAAAACwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACgEAAAAAAAAKAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							27,
+							1,
+							"insert",
+							{
+								"characters": "\t"
+							},
+							"AQAAAB8BAAAAAAAAIAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAHwEAAAAAAAAfAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							30,
+							1,
+							"insert",
+							{
+								"characters": "\t"
+							},
+							"AQAAADMBAAAAAAAANAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMwEAAAAAAAAzAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							33,
+							1,
+							"insert",
+							{
+								"characters": "\t"
+							},
+							"AQAAAFwBAAAAAAAAXQEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAXAEAAAAAAABcAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							36,
+							1,
+							"insert",
+							{
+								"characters": "\t"
+							},
+							"AQAAAHIBAAAAAAAAcwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAcgEAAAAAAAByAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							39,
+							1,
+							"insert",
+							{
+								"characters": "\t"
+							},
+							"AQAAAIcBAAAAAAAAiAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAhwEAAAAAAACHAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							42,
+							1,
+							"insert",
+							{
+								"characters": "\t"
+							},
+							"AQAAAJsBAAAAAAAAnAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAmwEAAAAAAACbAQAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"packagin",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 124.0,
+				"history":
+				[
+					"cd ~\nsublime",
+					"exit",
+					"cd ~",
+					"cd !",
+					"help",
+					"?",
+					"whoami",
+					"fish",
+					"exit",
+					"ruby",
+					"class API",
+					"require 'blanket'",
+					"exit",
+					"irb",
+					"require blanket",
+					"require 'blanket'",
+					"pry",
+					"shell",
+					"fish"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/adam/.config/sway"
+			],
+			"file_history":
+			[
+				"/home/adam/.config/i3blocks/bandwidth3/README.md",
+				"/home/adam/roficonfig.rasi",
+				"/home/adam/.config/termite/config",
+				"/home/adam/.tool-versions",
+				"/home/adam/Downloads/dotfiles-sway-master/.config/sway/config",
+				"/home/adam/.config/sway/configrah",
+				"/home/adam/.config/waybar/config2",
+				"/home/adam/.config/waybar/config",
+				"/home/adam/.config/waybar/config_",
+				"/home/adam/.config/i3status/config",
+				"/home/adam/.config/i3blocks/shutdown_menu/i3blocks.conf",
+				"/home/adam/.config/i3blocks/shutdown_menu/shutdown_menu",
+				"/home/adam/.config/sway/config",
+				"/home/adam/.config/i3blocks/calendar/screenshot1.png",
+				"/home/adam/.config/i3blocks/wifi/README.md",
+				"/home/adam/.config/sway/testingconfig",
+				"/home/adam/c/CLI/wrds/wrds.gemspec",
+				"/etc/pacman.d/mirrorlist",
+				"/home/adam/c/reference/design_patterns_in_ruby_code/13/ex10_habitat.rb",
+				"/home/adam/c/reference/api.rb",
+				"/home/adam/c/CLI/wrds/lib/wrds/query.rb",
+				"/home/adam/c/CLI/wrds_2/bin/s.rb",
+				"/home/adam/c/CLI/wrds/lib/wrds/cli.rb",
+				"/home/adam/c/CLI/wrds/bin/wrds",
+				"/home/adam/c/CLI/wrds_2/bin/builder.rb",
+				"/home/adam/c/CLI/wrds_2/bin/wrds.rb",
+				"/home/adam/c/CLI/wrds_2/bin/facade.rb",
+				"/home/adam/c/CLI/wrds/README.md",
+				"/home/adam/c/CLI/wrds/lib/version.rb",
+				"/home/adam/c/CLI/wrds/lib/wrds.rb",
+				"/home/adam/c/CLI/wrds/INSIGHT.txt",
+				"/home/adam/c/CLI/wrds/config/environment.rb",
+				"/home/adam/c/wrds/lib/wrds/api.rb",
+				"/home/adam/c/wrds/lib/wrds/cli.rb",
+				"/home/adam/c/wrds/lib/command.rb",
+				"/home/adam/c/wrds/lib/wrds.rb",
+				"/home/adam/c/wrds/config/environment.rb",
+				"/home/adam/c/wrds/config/untitled.rxml",
+				"/home/adam/poscovid.txt",
+				"/home/adam/c/wrds/config/test.rb",
+				"/home/adam/c/wrds/lib/untitled2.rb",
+				"/home/adam/c/wrds/lib/scratch.rb",
+				"/home/adam/c/wrds/lib/untitled.rb",
+				"/home/adam/c/wrds/lib/testing.rb",
+				"/home/adam/c/wrds/wrds.gemspec",
+				"/home/adam/c/wrds/bin/wrds",
+				"/home/adam/c/wrds/lib/wrds/version.rb",
+				"/home/adam/c/wrds/test/wrds_test.rb",
+				"/home/adam/c/wrds/test/test_helper.rb",
+				"/home/adam/c/word/lib/wrd.rb",
+				"/home/adam/c/word/config/environment.rb",
+				"/home/adam/c/word/bin/wrd",
+				"/home/adam/c/word/checklist"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/adam/.config/sway"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/adam/.config/sway/config",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6698,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										432,
+										432
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 42.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 108.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,800,600,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 254.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 41,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"split",
+						"splitv"
+					],
+					[
+						"w",
+						"w"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "\n# Variables\n# =========\n\tset $mod\t\tMod4\n\tset $term\t\talacritty\n\tset $browser\tenv GDK_BACKEND=wayland brave\n\tset $bin\t\t~/.local/bin\n\tset $file\t\talacritty -e ranger\n\tset $menu\t\tdmenu_path | dmenu | xargs swaymsg exec --\n\tset $rofi       rofi -show run\n\tset $left \t\tKP_Left\n\tset $down \t\tKP_Down\n\tset $up \t\tKP_Up\n\tset $right \t\tKP_Right\n\tset $prev \t\tKP_Prior\n\tset $next \t\tKP_Next\n\tset $home \t\tKP_Home\n\tset $end \t\tKP_End\n\tset $start \t\tKP_Begin\n\n\tset $ws1  workspace 1: misc\n\tset $ws2  workspace 2: misc\n\tset $ws3  workspace 3: misc\n\tset $ws4  workspace 4: misc\n\tset $ws5  workspace 5: misc\n\tset $ws6  workspace 6: misc\n\tset $ws7  workspace 7: misc\n\tset $ws8  workspace 8: misc\n\tset $ws9  workspace 9: misc\n\tset $ws0  workspace 0: misc\n\n\n\n\n\n\n\n\tset $window Window management: (left) resize left, (down) resize down, (up) resize up, (right) resize right, (q) kill, (s) stacking, (t) tabbed, (g) toggle split, (h) splith, (v) splitv, (f) fullscreen, (shift+f) fullscreen global, (space) floating, (shift+space) focus mode\n\n\tset $application Applications: (return) terminal, (shiqt+return) floating term, (b) browser, (B) incognito browser, (n) nmtui, (f) file browser, (p) screenshot, (z) screencast start, (shift+z) screencast stop, (d) menu, (shift+d) menu, (s) sgtk-menu\n\n\n# Settings\n# =========\n\tfloating_modifier $mod normal\n\txwayland force\n\tfocus_follows_mouse always\n\tfloating_modifier $mod normal\n\tworkspace_layout tabbed\n\tworkspace_auto_back_and_forth yes\n\tfocus_on_window_activation urgent\n\tdefault_border pixel 3\n\tdefault_floating_border normal\n\thide_edge_borders smart\n\tgaps inner 10h\n\tsmart_gaps on\n\n\n\n# Startup Programs:\n# =================\n\texec mako --max-visible 10 --width 350 --border-color=#00ff00 --background-color=#000000 --default-timeout 6000\n\texec_always autotiling\n\texec wal --theme random\n\n\t# Shutdown displays when idle\n\texec_always swayidle -w \\\n\t\ttimeout 600 'swaymsg \"output * dpms off\"' \\\n\t\ttimeout 630 'swaylock -f -c 3f6375' \\\n\t\tresume 'swaymsg \"output * dpms on\"' \\\n\t\tbefore-sleep 'swaylock -f -c 3f6375'\n\n\texec light -S 25\n\n\t# gtk theme\n\texec gsettings set org.gnome.desktop.interface gtk-theme 'Arc-Dark'  \n\texec gsettings set org.gnome.desktop.interface icon-theme 'Papirus-Dark'\n\n\n# Window specific settings\n# client.focused\t\t\t\t#00ff00 #000000 #ffffff #ff00ff #00ff00\n# client.unfocused\t\t\t#ffff00 #000000 #ffffff #000000 #ffff00\n\nfor_window [app_id=\"galculator\"]\t\t\tfloating enable\nfor_window [app_id=\"^.*\"]\t\t\t\t\tborder pixel 1\nfor_window [app_id=\"^.*_floating\"]\t\t\tfloating enable\nfor_window [app_id=\"firefox\"]\t\t\t\tinhibit_idle fullscreen\nfor_window [app_id=\"mpv\"]\t\t\t\t\tinhibit_idle\nfor_window [app_id=\"zenity\"]\t\t\t\tfloating enable\nfor_window [app_id=\"nm-connection-editor\"]\tfloating enable\n\noutput eDP-1 pos 3840 0 disable\noutput DP-4\t pos 1920 0 res 1920x1080 background ~/.config/sway/wr.jpg fill\noutput DP-3  pos 0\t  0 res 1920x1080 background ~/.config/sway/wl.jpg fill\n\n# KEYBINDINGS\n# ===========\nmode \"default\" {\n  {\n\n\t\t$mod+Return\t\t\texec $term\n\t\t$mod+Shift+Return\texec $bin/floating-term.sh\n\t\t$mod+d\t\t\t\texec $menu\n\t\t$mod+s\t\t\t\texec sgtk-menu -slackf -a\n\n\t\t$mod+q\t\t\t\tkill\n\n\t\t$mod+Shift+c\t\treload\n\t\t$mod+Shift+e\t\texec zenity --question --text \"Are you sure you wish to exit sway?\" && swaymsg exit\n\n\n\t# Moving around:\n\t# ==============\n\t\t# Move your focus around\n\t\t$mod+Left\t\t\tfocus left\n\t\t$mod+Down\t\t\tfocus down\n\t\t$mod+Up\t\t\t\tfocus up\n\t\t$mod+Right\t\t\tfocus right\n\n\t\t# Move windows around\n\t\t$mod+Shift+Left\t\tmove left\n\t\t$mod+Shift+Down\t\tmove down\n\t\t$mod+Shift+Up\t\tmove up\n\t\t$mod+Shift+Right\tmove right\n\n\t# Workspaces:\n\t# ===========\n\t\t# Switch to workspace\n\t\t$mod+1 $ws1\n\t\t$mod+2 $ws2\n\t\t$mod+3 $ws3\n\t\t$mod+4 $ws4\n\t\t$mod+5 $ws5\n\t\t$mod+6 $ws6\n\t\t$mod+7 $ws7\n\t\t$mod+8 $ws8\n\t\t$mod+9 $ws9\n\t\t$mod+0 $ws10\n\n\t\t# Move focused container to workspace\n\t\t$mod+Shift+1 move container to $ws1\n\t\t$mod+Shift+2 move container to $ws2\n\t\t$mod+Shift+3 move container to $ws3\n\t\t$mod+Shift+4 move container to $ws4\n\t\t$mod+Shift+5 move container to $ws5\n\t\t$mod+Shift+6 move container to $ws6\n\t\t$mod+Shift+7 move container to $ws7\n\t\t$mod+Shift+8 move container to $ws8\n\t\t$mod+Shift+9 move container to $ws9\n\t\t$mod+Shift+0 move container to $ws10\n\n\t# Multi-media keys:\n\t# =================\n\tXF86AudioMute\t\t\texec ~/.local/bin/audio.sh mute\n\tXF86AudioRaiseVolume \texec $bin/audio.sh add && $bin/audio.sh get | $bin/wob.sh > $SWAYSOCK.wob\n\tXF86AudioLowerVolume \texec $bin/audio.sh sub && $bin/audio.sh get | $bin/wob.sh > $SWAYSOCK.wob\n\tPrint\t\t\t\t\texec grim ~/Pictures/$(date +%Y%m%d%h%m%s).png\n\tXF86MonBrightnessDown\texec light -U 10 && light -G | cut -d'.' -f1 > $SWAYSOCK.wob\n\tXF86MonBrightnessUp\t\texec light -A 10 && light -G | cut -d'.' -f1 > $SWAYSOCK.wob\n\tXF86PowerOff\t\t\texec zenity --question --text \"Are you sure you wish to shut down now?\" && shutdown now\n  }\n}\n\n\n\n# Window management:\n# ------------------\nmode \"$window\" {\n  {\n\n\t$left\t\t\texec $bin/swayresize.sh left\n\t$down\t\t\texec $bin/swayresize.sh down\n\t$up\t\t\t\texec $bin/swayresize.sh up\n\t$right\t\t\texec $bin/swayresize.sh right\n\tq\t\t\t\tkill\n\ts\t\t\t\tlayout stacking\n\tt\t\t\t\tlayout tabbed\n\tg\t\t\t\tlayout toggle split\n\th\t\t\t\tsplith\n\tv\t\t\t\tsplitv\n\tf\t\t\t\tfullscreen toggle\n\tshift+f \t\tfullscreen toggle global\n\tspace\t\t\tfloating toggle\n\tshift+space\t\tfocus mode_toggle\n\n\tEscape mode \"default\"\n  }\t\n}\n\n\n# Launching aplications:\n# ----------------------\nmode \"$application\" {\n  {\n\n\tReturn\t\t\texec $term\n\tShift+Return \texec $bin/floating-term.sh\n\tb\t\t\t\texec $browser\n\tn\t\t\texec $bin/floating-term.sh nmtui\n\tf\t\t\t\texec $file\n\tp\t\t\t\texec $bin/screenshot\n\tz\t\t\t\texec $bin/screencast.sh start\n\tShift+z\t\t\texec $bin/screencast.sh stop\n\td \t\t\t\texec $menu\n\tShift+d\t\t\texec $rofi\n\ts\t\t\t\texec sgtk-menu -f -a\n\n    Escape mode \"default\"\n  }\n} \n\n\n\n\n\n# Status bar:\n# ===========\nbar {\n\tposition bottom\n\tstatus_command i3blocks\n\tfont monospace 10\n\tcolors {\n\t\tstatusline\t\t\t#ffffff\n\t\tbackground\t\t\t#000000\n\t\tfocused_workspace\t#000000 #000000 #00ff00\n\t\tinactive_workspace\t#000000 #000000 #ffff00\n\t\tactive_workspace\t#000000 #000000 #ffff00\n\t}\n}\n\n# Input settings:\n# ===============\ninput * {\n    xkb_layout \"us\"\n    xkb_options \"caps:shiftlock,numpad:microsoft,shift:both_capslock_cancel,ctrl:nocaps,ctrl:lctrl_meta\"\n}\n\ninput \"2:1:PS/2_Generic_Mouse\" events disabled\ninput \"1:1:AT_Translated_Set_2_keyboard\" events disabled\ninput \"2:7:SynPS/2_Synaptics_TouchPad\" events disabled\n\ninclude /etc/sway/config.d/*\n\n\n\n\n\t# Solarized common\n\tset $yellow        #b58900\n\tset $orange        #cb4b16\n\tset $red           #dc322f\n\tset $magenta       #d33682\n\tset $violet        #6c71c4\n\tset $blue          #268bd2\n\tset $cyan          #2aa198\n\tset $green         #859900\n\n\t# Solarized dark\n\tset $basez3        #002b36\n\tset $basez2        #073642\n\tset $basez1        #586e75\n\tset $basez0        #657b83\n\tset $base0         #839496\n\tset $base1         #93a1a1\n\tset $base2         #eee8d5\n\tset $base3         #fdf6e3\n\n\t# Colors                border   bg       text     indi     childborder\n\tclient.focused          #009ddc #009ddc #d9d8d8 #d9d8d8 #009ddc\n\tclient.focused_inactive #231f20 #231f20 #d9d8d8 #231f20 #231f20\n\tclient.unfocused        #231f20 #231f20 #d9d8d8 #231f20 #231f20\n\tclient.urgent           #ee2e24 #ee2e24 #d9d8d8 #ee2e24 #ee2e24\n",
+					"file": "/home/adam/.config/sway/config_",
+					"file_size": 7137,
+					"file_write_time": 132706118814215083,
+					"settings":
+					{
+						"buffer_size": 7143,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							10,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAPUGAAAAAAAA9gYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA9QYAAAAAAAD1BgAAAAAAAAAAAAAAQHpA"
+						],
+						[
+							12,
+							1,
+							"reindent",
+							null,
+							"AQAAAPUGAAAAAAAA9gYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA9QYAAAAAAAD1BgAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							13,
+							1,
+							"insert",
+							{
+								"characters": "exec"
+							},
+							"BAAAAPYGAAAAAAAA9wYAAAAAAAAAAAAA9wYAAAAAAAD4BgAAAAAAAAAAAAD4BgAAAAAAAPkGAAAAAAAAAAAAAPkGAAAAAAAA+gYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA9gYAAAAAAAD2BgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							14,
+							1,
+							"insert",
+							{
+								"characters": " qwal"
+							},
+							"BQAAAPoGAAAAAAAA+wYAAAAAAAAAAAAA+wYAAAAAAAD8BgAAAAAAAAAAAAD8BgAAAAAAAP0GAAAAAAAAAAAAAP0GAAAAAAAA/gYAAAAAAAAAAAAA/gYAAAAAAAD/BgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA+gYAAAAAAAD6BgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							4,
+							"left_delete",
+							null,
+							"BAAAAP4GAAAAAAAA/gYAAAAAAAABAAAAbP0GAAAAAAAA/QYAAAAAAAABAAAAYfwGAAAAAAAA/AYAAAAAAAABAAAAd/sGAAAAAAAA+wYAAAAAAAABAAAAcQ",
+							"AQAAAAAAAAABAAAA/wYAAAAAAAD/BgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							16,
+							1,
+							"insert",
+							{
+								"characters": "wal"
+							},
+							"AwAAAPsGAAAAAAAA/AYAAAAAAAAAAAAA/AYAAAAAAAD9BgAAAAAAAAAAAAD9BgAAAAAAAP4GAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA+wYAAAAAAAD7BgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							17,
+							1,
+							"insert",
+							{
+								"characters": " --theme"
+							},
+							"CAAAAP4GAAAAAAAA/wYAAAAAAAAAAAAA/wYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAEHAAAAAAAAAAAAAAEHAAAAAAAAAgcAAAAAAAAAAAAAAgcAAAAAAAADBwAAAAAAAAAAAAADBwAAAAAAAAQHAAAAAAAAAAAAAAQHAAAAAAAABQcAAAAAAAAAAAAABQcAAAAAAAAGBwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA/gYAAAAAAAD+BgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							18,
+							1,
+							"insert",
+							{
+								"characters": " random"
+							},
+							"BwAAAAYHAAAAAAAABwcAAAAAAAAAAAAABwcAAAAAAAAIBwAAAAAAAAAAAAAIBwAAAAAAAAkHAAAAAAAAAAAAAAkHAAAAAAAACgcAAAAAAAAAAAAACgcAAAAAAAALBwAAAAAAAAAAAAALBwAAAAAAAAwHAAAAAAAAAAAAAAwHAAAAAAAADQcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABgcAAAAAAAAGBwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							21,
+							1,
+							"insert",
+							{
+								"characters": "h"
+							},
+							"AQAAADEGAAAAAAAAMgYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMQYAAAAAAAAxBgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"insert",
+							{
+								"characters": "q"
+							},
+							"AgAAACwEAAAAAAAALQQAAAAAAAAAAAAALQQAAAAAAAAtBAAAAAAAAAEAAABm",
+							"AQAAAAAAAAABAAAALAQAAAAAAAAtBAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							29,
+							1,
+							"insert",
+							{
+								"characters": "slack"
+							},
+							"BQAAAAQMAAAAAAAABQwAAAAAAAAAAAAABQwAAAAAAAAGDAAAAAAAAAAAAAAGDAAAAAAAAAcMAAAAAAAAAAAAAAcMAAAAAAAACAwAAAAAAAAAAAAACAwAAAAAAAAJDAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABAwAAAAAAAAEDAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/adam/.gitignore",
+					"settings":
+					{
+						"buffer_size": 67,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							14,
+							1,
+							"",
+							null,
+							"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"
+						],
+						[
+							17,
+							1,
+							"left_delete",
+							null,
+							"AQAAAOwLAAAAAAAA7AsAAAAAAACnAAAACkNoYW5nZXMgbm90IHN0YWdlZCBmb3IgY29tbWl0OgogICh1c2UgImdpdCBhZGQvcm0gPGZpbGU+Li4uIiB0byB1cGRhdGUgd2hhdCB3aWxsIGJlIGNvbW1pdHRlZCkKICAodXNlICJnaXQgcmVzdG9yZSA8ZmlsZT4uLi4iIHRvIGRpc2NhcmQgY2hhbmdlcyBpbiB3b3JraW5nIGRpcmVjdG9yeSk",
+							"AQAAAAAAAAABAAAA7AsAAAAAAACTDAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							30,
+							1,
+							"",
+							null,
+							"FgAAAPwQAAAAAAAA/BAAAAAAAAAMAAAAbW9kaWZpZWQ6ICAgiBAAAAAAAACIEAAAAAAAAAwAAABtb2RpZmllZDogICBMEAAAAAAAAEwQAAAAAAAADAAAAG1vZGlmaWVkOiAgIBQQAAAAAAAAFBAAAAAAAAAMAAAAbW9kaWZpZWQ6ICAg4A4AAAAAAADgDgAAAAAAAAwAAABtb2RpZmllZDogICC/DgAAAAAAAL8OAAAAAAAADAAAAG1vZGlmaWVkOiAgIHUOAAAAAAAAdQ4AAAAAAAAMAAAAbW9kaWZpZWQ6ICAgTw4AAAAAAABPDgAAAAAAAAwAAABtb2RpZmllZDogICASDgAAAAAAABIOAAAAAAAADAAAAG1vZGlmaWVkOiAgINUNAAAAAAAA1Q0AAAAAAAAMAAAAbW9kaWZpZWQ6ICAgmQ0AAAAAAACZDQAAAAAAAAwAAABtb2RpZmllZDogICB0DQAAAAAAAHQNAAAAAAAADAAAAG1vZGlmaWVkOiAgIEsNAAAAAAAASw0AAAAAAAAMAAAAbW9kaWZpZWQ6ICAgIA0AAAAAAAAgDQAAAAAAAAwAAABtb2RpZmllZDogICD7DAAAAAAAAPsMAAAAAAAADAAAAG1vZGlmaWVkOiAgINEMAAAAAAAA0QwAAAAAAAAMAAAAbW9kaWZpZWQ6ICAgrgwAAAAAAACuDAAAAAAAAAwAAABtb2RpZmllZDogICCFDAAAAAAAAIUMAAAAAAAADAAAAG1vZGlmaWVkOiAgIF8MAAAAAAAAXwwAAAAAAAAMAAAAbW9kaWZpZWQ6ICAgPwwAAAAAAAA/DAAAAAAAAAwAAABtb2RpZmllZDogICASDAAAAAAAABIMAAAAAAAADAAAAG1vZGlmaWVkOiAgIO4LAAAAAAAA7gsAAAAAAAAMAAAAbW9kaWZpZWQ6ICAg",
+							"AQAAAAAAAAABAAAA7gsAAAAAAAD6CwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							43,
+							1,
+							"",
+							null,
+							"BgAAAMAPAAAAAAAAwA8AAAAAAAAMAAAAZGVsZXRlZDogICAgAQ8AAAAAAAABDwAAAAAAAAwAAABkZWxldGVkOiAgICDGDgAAAAAAAMYOAAAAAAAADAAAAGRlbGV0ZWQ6ICAgIIsOAAAAAAAAiw4AAAAAAAAMAAAAZGVsZXRlZDogICAgXQ4AAAAAAABdDgAAAAAAAAwAAABkZWxldGVkOiAgICAwDgAAAAAAADAOAAAAAAAADAAAAGRlbGV0ZWQ6ICAgIA",
+							"AQAAAAAAAAABAAAAMA4AAAAAAAA8DgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							53,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAAAAAAAAAAAAAAAAAAAAABoAAAACS5jb25maWcvLmd0a3JjLTIuMAoJLmNvbmZpZy9UaHVuYXIvYWNjZWxzLnNjbQoJLmNvbmZpZy9UaHVuYXIvdWNhLnhtbAoJLmNvbmZpZy9hbGFjcml0dHkvYWxhY3JpdHR5LnltbAo",
+							"AQAAAAAAAAABAAAAAAAAAAAAAABoAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							76,
+							1,
+							"left_delete",
+							null,
+							"AQAAAC4AAAAAAAAALgAAAAAAAAA4DwAACS5jb25maWcvZGNvbmYvdXNlcgoJLmNvbmZpZy9maXNoL2NvbmZpZy5maXNoCgkuY29uZmlnL2Zpc2gvZmlzaF9wbHVnaW5zCgkuY29uZmlnL2Zpc2gvZmlzaF92YXJpYWJsZXMKCS5jb25maWcvZmlzaC9mdW5jdGlvbnMvX19iYXNzLnB5CgkuY29uZmlnL2Zpc2gvZnVuY3Rpb25zL2Jhc3MuZmlzaAoJLmNvbmZpZy9maXNoL2Z1bmN0aW9ucy9udm0uZmlzaAoJLmNvbmZpZy9naC9jb25maWcueW1sCgkuY29uZmlnL2doL2hvc3RzLnltbAoJLmNvbmZpZy9ndGstMy4wL3NldHRpbmdzLmluaQoJLmNvbmZpZy9odG9wL2h0b3ByYwoJLmNvbmZpZy9pM3N0YXR1cy9jb25maWcKCS5jb25maWcvbWVudXMvYXBwbGljYXRpb25zLW1lcmdlZC91c2VyLWNocm9tZS1hcHBzLm1lbnUKCS5jb25maWcvbWVudXMvYXBwbGljYXRpb25zLW1lcmdlZC94ZGctZGVza3RvcC1tZW51LWR1bW15Lm1lbnUKCS5jb25maWcvbWljcm8vYmluZGluZ3MuanNvbgoJLmNvbmZpZy9taWNyby9idWZmZXJzL2hpc3RvcnkKCS5jb25maWcvbWljcm8vc2V0dGluZ3MuanNvbgoJLmNvbmZpZy9taW1lYXBwcy5saXN0CgkuY29uZmlnL3BhdnVjb250cm9sLmluaQoJLmNvbmZpZy9waXBld2lyZS9tZWRpYS1zZXNzaW9uLmQvZGVmYXVsdC1ub2RlcwoJLmNvbmZpZy9waXBld2lyZS9tZWRpYS1zZXNzaW9uLmQvZGVmYXVsdC1yb3V0ZXMKCS5jb25maWcvcGlwZXdpcmUvbWVkaWEtc2Vzc2lvbi5kL3Jlc3RvcmUtc3RyZWFtCgkuY29uZmlnL3B1bHNlL2Nvb2tpZQoJLmNvbmZpZy9yYW5nZXIvY29tbWFuZHMucHkKCS5jb25maWcvcmFuZ2VyL3JjLmNvbmYKCS5jb25maWcvcmFuZ2VyL3JpZmxlLmNvbmYKCS5jb25maWcvcm9maS9iYXNlMTYtb25lLWxpZ2h0LnJhc2kKCS5jb25maWcvcm9maS9iYXNlMTYtb25lZGFyay5yYXNpCgkuY29uZmlnL3JvZmkvY29uZmlnLnJhc2kKCS5jb25maWcvcm9maS9ncnV2Ym94LWNvbW1vbi5yYXNpCgkuY29uZmlnL3JvZmkvZ3J1dmJveC1kYXJrLWhhcmQucmFzaQoJLmNvbmZpZy9yb2ZpL2dydXZib3gtZGFyay1zb2Z0LnJhc2kKCS5jb25maWcvcm9maS9ncnV2Ym94LWRhcmsucmFzaQoJLmNvbmZpZy9yb2ZpL2dydXZib3gtbGlnaHQtaGFyZC5yYXNpCgkuY29uZmlnL3JvZmkvZ3J1dmJveC1saWdodC1zb2Z0LnJhc2kKCS5jb25maWcvcm9maS9ncnV2Ym94LWxpZ2h0LnJhc2kKCS5jb25maWcvc3VibGltZS1tZXJnZS9Mb2NhbC9TZXNzaW9uLnN1YmxpbWVfc2Vzc2lvbgoJLmNvbmZpZy9zdWJsaW1lLXRleHQvSW5zdGFsbGVkIFBhY2thZ2VzLzBfcGFja2FnZV9jb250cm9sX2xvYWRlci5zdWJsaW1lLXBhY2thZ2UKCS5jb25maWcvc3VibGltZS10ZXh0L0luc3RhbGxlZCBQYWNrYWdlcy8zMDI0IENvbG9yIFNjaGVtZS5zdWJsaW1lLXBhY2thZ2UKCS5jb25maWcvc3VibGltZS10ZXh0L0luc3RhbGxlZCBQYWNrYWdlcy9Db2xvciBTY2hlbWUgLSBTbGVlcGxlc3NtaW5kLnN1YmxpbWUtcGFja2FnZQoJLmNvbmZpZy9zdWJsaW1lLXRleHQvSW5zdGFsbGVkIFBhY2thZ2VzL0NvbG9yc3VibGltZS5zdWJsaW1lLXBhY2thZ2UKCS5jb25maWcvc3VibGltZS10ZXh0L0luc3RhbGxlZCBQYWNrYWdlcy9QYWNrYWdlIENvbnRyb2wuc3VibGltZS1wYWNrYWdlCgkuY29uZmlnL3N1YmxpbWUtdGV4dC9Mb2NhbC9BdXRvIFNhdmUgU2Vzc2lvbi5zdWJsaW1lX3Nlc3Npb24KCS5jb25maWcvc3VibGltZS10ZXh0L0xvY2FsL1Nlc3Npb24uc3VibGltZV9zZXNzaW9uCgkuY29uZmlnL3N1YmxpbWUtdGV4dC9QYWNrYWdlcy9Vc2VyL1BhY2thZ2UgQ29udHJvbC5zdWJsaW1lLXNldHRpbmdzCgkuY29uZmlnL3N1YmxpbWUtdGV4dC9QYWNrYWdlcy9Vc2VyL1BhY2thZ2UgQ29udHJvbC51c2VyLWNhLWJ1bmRsZQoJLmNvbmZpZy9zdWJsaW1lLXRleHQvUGFja2FnZXMvVXNlci9QcmVmZXJlbmNlcy5zdWJsaW1lLXNldHRpbmdzCgkuY29uZmlnL3N3YXkvY29uZmlnCgkuY29uZmlnL3N3YXkvY29uZmlnLmQvNTAtc3lzdGVtZC11c2VyLmNvbmYKCS5jb25maWcvc3dheS9jb25maWcuc2F2ZS4yCgkuY29uZmlnL3N3YXkvdGVzdC8xMmNvbmZpZwoJLmNvbmZpZy9zd2F5L3Rlc3Qvc3R5bGUuY3NzCgkuY29uZmlnL3N3YXkvdGVzdC93YXliYXJjb25maWcKCS5jb25maWcvc3dheS90ZXN0aW5nY29uZmlnCgkuY29uZmlnL3N3YXkvd2FsbHBhcGVyLmpwZwoJLmNvbmZpZy9zd2F5L3dhbGxwYXBlcl9sZWZ0LmpwZwoJLmNvbmZpZy9zd2F5L3dhbGxwYXBlcl9yaWdodC5qcGcKCS5jb25maWcvc3luY3RoaW5nL2NlcnQucGVtCgkuY29uZmlnL3N5bmN0aGluZy9jb25maWcueG1sCgkuY29uZmlnL3N5bmN0aGluZy9odHRwcy1jZXJ0LnBlbQoJLmNvbmZpZy9zeW5jdGhpbmcvaHR0cHMta2V5LnBlbQoJLmNvbmZpZy9zeW5jdGhpbmcvaW5kZXgtdjAuMTQuMC5kYi8wMDAyNDYubGRiCgkuY29uZmlnL3N5bmN0aGluZy9pbmRleC12MC4xNC4wLmRiLzAwMDI0OS5sb2cKCS5jb25maWcvc3luY3RoaW5nL2luZGV4LXYwLjE0LjAuZGIvMDAwMjUxLmxkYgoJLmNvbmZpZy9zeW5jdGhpbmcvaW5kZXgtdjAuMTQuMC5kYi9DVVJSRU5UCgkuY29uZmlnL3N5bmN0aGluZy9pbmRleC12MC4xNC4wLmRiL0NVUlJFTlQuYmFrCgkuY29uZmlnL3N5bmN0aGluZy9pbmRleC12MC4xNC4wLmRiL0xPQ0sKCS5jb25maWcvc3luY3RoaW5nL2luZGV4LXYwLjE0LjAuZGIvTE9HCgkuY29uZmlnL3N5bmN0aGluZy9pbmRleC12MC4xNC4wLmRiL01BTklGRVNULTAwMDI0OAoJLmNvbmZpZy9zeW5jdGhpbmcva2V5LnBlbQoJLmNvbmZpZy91c2VyLWRpcnMuZGlycwoJLmNvbmZpZy91c2VyLWRpcnMubG9jYWxlCgkuY29uZmlnL3dheWJhci9jb25maWcKCS5jb25maWcvd2F5YmFyL3N0eWxlLmNzcwoJLmNvbmZpZy94ZmNlNC94ZmNvbmYveGZjZS1wZXJjaGFubmVsLXhtbC90aHVuYXIueG1sCgoJLmNvbmZpZy9UaHVuYXIvdWNhLnhtbAoJLmNvbmZpZy9hbGFjcml0dHkvYWxhY3JpdHR5LnltbAoJLmNvbmZpZy9kY29uZi91c2VyCgkuY29uZmlnL2Zpc2gvY29uZmlnLmZpc2gKCS5jb25maWcvZmlzaC9maXNoX3ZhcmlhYmxlcwoJLmNvbmZpZy9naC9jb25maWcueW1sCgkuY29uZmlnL2d0ay0zLjAvc2V0dGluZ3MuaW5pCgkuY29uZmlnL2kzc3RhdHVzL2NvbmZpZwoJLmNvbmZpZy9taWNyby9idWZmZXJzL2hpc3RvcnkKCS5jb25maWcvbWljcm8vc2V0dGluZ3MuanNvbgoJLmNvbmZpZy9wYXZ1Y29udHJvbC5pbmkKCS5jb25maWcvcGlwZXdpcmUvbWVkaWEtc2Vzc2lvbi5kL2RlZmF1bHQtbm9kZXMKCS5jb25maWcvcGlwZXdpcmUvbWVkaWEtc2Vzc2lvbi5kL2RlZmF1bHQtcm91dGVzCgkuY29uZmlnL3BpcGV3aXJlL21lZGlhLXNlc3Npb24uZC9yZXN0b3JlLXN0cmVhbQoJLmNvbmZpZy9yb2ZpL2NvbmZpZy5yYXNpCgkuY29uZmlnL3N1YmxpbWUtdGV4dC9Mb2NhbC9BdXRvIFNhdmUgU2Vzc2lvbi5zdWJsaW1lX3Nlc3Npb24KCS5jb25maWcvc3dheS9jb25maWcKCS5jb25maWcvc3dheS90ZXN0aW5nY29uZmlnCgkuY29uZmlnL3N3YXkvd2FsbHBhcGVyX2xlZnQuanBnCgkuY29uZmlnL3N3YXkvd2FsbHBhcGVyX3JpZ2h0LmpwZwoJLmNvbmZpZy9zeW5jdGhpbmcvaW5kZXgtdjAuMTQuMC5kYi8wMDAyNDYubGRiCgkuY29uZmlnL3N5bmN0aGluZy9pbmRleC12MC4xNC4wLmRiLzAwMDI0OS5sb2cKCS5jb25maWcvc3luY3RoaW5nL2luZGV4LXYwLjE0LjAuZGIvMDAwMjUxLmxkYgoJLmNvbmZpZy9zeW5jdGhpbmcvaW5kZXgtdjAuMTQuMC5kYi9DVVJSRU5UCgkuY29uZmlnL3N5bmN0aGluZy9pbmRleC12MC4xNC4wLmRiL0NVUlJFTlQuYmFrCgkuY29uZmlnL3N5bmN0aGluZy9pbmRleC12MC4xNC4wLmRiL0xPRwoJLmNvbmZpZy9zeW5jdGhpbmcvaW5kZXgtdjAuMTQuMC5kYi9NQU5JRkVTVC0wMDAyNDgKCS5jb25maWcvd2F5YmFyL2NvbmZpZwo",
+							"AQAAAAAAAAABAAAALgAAAAAAAABmDwAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							77,
+							1,
+							"insert",
+							{
+								"characters": ".config/"
+							},
+							"CAAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA2AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAALgAAAAAAAAAuAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							78,
+							1,
+							"insert",
+							{
+								"characters": "BraveSof"
+							},
+							"CAAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADkAAAAAAAAAAAAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAAAAAAAAAAAA7AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAAA+AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							79,
+							1,
+							"insert",
+							{
+								"characters": "tware"
+							},
+							"BQAAAD4AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEEAAAAAAAAAAAAAAEEAAAAAAAAAQgAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"packagin",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 124.0,
+				"history":
+				[
+					"cd ~\nsublime",
+					"exit",
+					"cd ~",
+					"cd !",
+					"help",
+					"?",
+					"whoami",
+					"fish",
+					"exit",
+					"ruby",
+					"class API",
+					"require 'blanket'",
+					"exit",
+					"irb",
+					"require blanket",
+					"require 'blanket'",
+					"pry",
+					"shell",
+					"fish"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/adam",
+				"/home/adam/.config",
+				"/home/adam/.config/sway",
+				"/home/adam/Downloads",
+				"/home/adam/Downloads/dotfiles-sway-master",
+				"/home/adam/Downloads/dotfiles-sway-master/.config",
+				"/home/adam/Downloads/dotfiles-sway-master/.config/sway"
+			],
+			"file_history":
+			[
+				"/home/adam/.config/i3blocks/bandwidth3/README.md",
+				"/home/adam/roficonfig.rasi",
+				"/home/adam/.config/termite/config",
+				"/home/adam/.tool-versions",
+				"/home/adam/Downloads/dotfiles-sway-master/.config/sway/config",
+				"/home/adam/.config/sway/configrah",
+				"/home/adam/.config/waybar/config2",
+				"/home/adam/.config/waybar/config",
+				"/home/adam/.config/waybar/config_",
+				"/home/adam/.config/i3status/config",
+				"/home/adam/.config/i3blocks/shutdown_menu/i3blocks.conf",
+				"/home/adam/.config/i3blocks/shutdown_menu/shutdown_menu",
+				"/home/adam/.config/sway/config",
+				"/home/adam/.config/i3blocks/calendar/screenshot1.png",
+				"/home/adam/.config/i3blocks/wifi/README.md",
+				"/home/adam/.config/sway/testingconfig",
+				"/home/adam/c/CLI/wrds/wrds.gemspec",
+				"/etc/pacman.d/mirrorlist",
+				"/home/adam/c/reference/design_patterns_in_ruby_code/13/ex10_habitat.rb",
+				"/home/adam/c/reference/api.rb",
+				"/home/adam/c/CLI/wrds/lib/wrds/query.rb",
+				"/home/adam/c/CLI/wrds_2/bin/s.rb",
+				"/home/adam/c/CLI/wrds/lib/wrds/cli.rb",
+				"/home/adam/c/CLI/wrds/bin/wrds",
+				"/home/adam/c/CLI/wrds_2/bin/builder.rb",
+				"/home/adam/c/CLI/wrds_2/bin/wrds.rb",
+				"/home/adam/c/CLI/wrds_2/bin/facade.rb",
+				"/home/adam/c/CLI/wrds/README.md",
+				"/home/adam/c/CLI/wrds/lib/version.rb",
+				"/home/adam/c/CLI/wrds/lib/wrds.rb",
+				"/home/adam/c/CLI/wrds/INSIGHT.txt",
+				"/home/adam/c/CLI/wrds/config/environment.rb",
+				"/home/adam/c/wrds/lib/wrds/api.rb",
+				"/home/adam/c/wrds/lib/wrds/cli.rb",
+				"/home/adam/c/wrds/lib/command.rb",
+				"/home/adam/c/wrds/lib/wrds.rb",
+				"/home/adam/c/wrds/config/environment.rb",
+				"/home/adam/c/wrds/config/untitled.rxml",
+				"/home/adam/poscovid.txt",
+				"/home/adam/c/wrds/config/test.rb",
+				"/home/adam/c/wrds/lib/untitled2.rb",
+				"/home/adam/c/wrds/lib/scratch.rb",
+				"/home/adam/c/wrds/lib/untitled.rb",
+				"/home/adam/c/wrds/lib/testing.rb",
+				"/home/adam/c/wrds/wrds.gemspec",
+				"/home/adam/c/wrds/bin/wrds",
+				"/home/adam/c/wrds/lib/wrds/version.rb",
+				"/home/adam/c/wrds/test/wrds_test.rb",
+				"/home/adam/c/wrds/test/test_helper.rb",
+				"/home/adam/c/word/lib/wrd.rb",
+				"/home/adam/c/word/config/environment.rb",
+				"/home/adam/c/word/bin/wrd",
+				"/home/adam/c/word/checklist"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"deleted:    ",
+					"modified:   ",
+					"new file:   ",
+					"$cl_back",
+					"$cl_indi",
+					"$cl_high",
+					"$SCRIPT_DIR",
+					"$WS",
+					"mode \"default",
+					"bindsym",
+					"Firefox",
+					"left",
+					"right",
+					"up",
+					"down",
+					"left",
+					"right",
+					"up",
+					"down",
+					"urxvt",
+					"#Server"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					"#231f20",
+					"#d9d8d8",
+					"#009ddc",
+					"~/.config/i3blocks",
+					"$ws",
+					"$m",
+					"",
+					"Brave",
+					"$left",
+					"$right",
+					"$up",
+					"$down",
+					"$left",
+					"$right",
+					"$up",
+					"$down",
+					"termite",
+					"Server"
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/adam"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/adam/.config/sway/config_",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7143,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3081,
+										3081
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1840.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/adam/.gitignore",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 67,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										67,
+										67
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 19.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 42.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 108.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,800,600,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 203.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 33,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

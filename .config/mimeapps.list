@@ -1,0 +1,15 @@
+[Default Applications]
+image/jpeg=ristretto.desktop
+image/jpg=ristretto.desktop
+image/png=ristretto.desktop
+text/html=brave-browser.desktop
+x-scheme-handler/http=brave-browser.desktop
+x-scheme-handler/https=brave-browser.desktop
+x-scheme-handler/about=brave-browser.desktop
+x-scheme-handler/unknown=brave-browser.desktop
+x-scheme-handler/mailto=brave-browser.desktop
+x-scheme-handler/webcal=brave-browser.desktop
+
+[Added Associations]
+application/x-ruby=sublime_text.desktop;vim.desktop;
+text/plain=vim.desktop;
