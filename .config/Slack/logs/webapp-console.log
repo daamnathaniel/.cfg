@@ -3604,3 +3604,251 @@
 [07/13/21, 00:40:01:068] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
 [07/13/21, 00:40:01:069] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
 [07/13/21, 00:40:19:019] info: [CHECK-FOR-OLD-IMS] (T02MD9XTF) Within limit: 7 
+[07/13/21, 00:45:01:072] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 00:45:01:072] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 00:50:01:075] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 00:50:01:075] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 00:52:07:383] info: [RTM] (T02MD9XTF) Processed 1 dnd_updated_user event(s) over 0.10ms 
+[07/13/21, 00:52:07:446] info: [API-Q] (T02MD9XTF) noversion-1626155527.445 Flannel users/info called with reason: flannel-call:users/info 
+[07/13/21, 00:52:07:446] info: [API-Q] (T02MD9XTF) noversion-1626155527.445 Flannel users/info is ENQUEUED 
+[07/13/21, 00:52:07:447] info: [API-Q] (T02MD9XTF) noversion-1626155527.445 Flannel users/info is ACTIVE 
+[07/13/21, 00:52:07:828] info: [API-Q] (T02MD9XTF) noversion-1626155527.445 Flannel users/info is RESOLVED 
+[07/13/21, 00:55:01:078] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 00:55:01:078] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 00:55:19:018] info: [CHECK-FOR-OLD-IMS] (T02MD9XTF) Within limit: 7 
+[07/13/21, 00:58:31:260] info: [RTM] (T02MD9XTF) Processed 1 dnd_updated_user event(s) over 0.00ms 
+[07/13/21, 01:00:01:084] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 01:00:01:085] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 01:00:44:474] info: [API-Q] (T02MD9XTF) noversion-1626156044.465 Flannel users/info called with reason: flannel-call:users/info 
+[07/13/21, 01:00:44:474] info: [API-Q] (T02MD9XTF) noversion-1626156044.465 Flannel users/info is ENQUEUED 
+[07/13/21, 01:00:44:476] info: [API-Q] (T02MD9XTF) noversion-1626156044.465 Flannel users/info is ACTIVE 
+[07/13/21, 01:00:44:694] info: [API-Q] (T02MD9XTF) noversion-1626156044.465 Flannel users/info is RESOLVED 
+[07/13/21, 01:03:36:387] info: [FOCUS-EVENT] Client window focused 
+[07/13/21, 01:03:36:500] info: [CHECK-UNREADS] (T02MD9XTF) Checking unreads after window became focused 
+[07/13/21, 01:03:36:500] info: [CHECK-UNREADS] (T02MD9XTF) Not marking G01JQKQ32HX because last_read >= latest && channel is read 
+[07/13/21, 01:03:41:999] info: [FOCUS-EVENT] Client window blurred 
+[07/13/21, 01:03:42:205] info: [FOCUS-EVENT] Client window focused 
+[07/13/21, 01:03:42:252] info: [CHECK-UNREADS] (T02MD9XTF) Checking unreads after window became focused 
+[07/13/21, 01:03:42:253] info: [CHECK-UNREADS] (T02MD9XTF) Not marking G01JQKQ32HX because last_read >= latest && channel is read 
+[07/13/21, 01:03:43:114] info: [API-Q] (T02MD9XTF) noversion-1626156223.113 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[07/13/21, 01:03:43:115] info: [API-Q] (T02MD9XTF) noversion-1626156223.113 Flannel permissions/info is ENQUEUED 
+[07/13/21, 01:03:43:116] info: [API-Q] (T02MD9XTF) noversion-1626156223.113 Flannel permissions/info is ACTIVE 
+[07/13/21, 01:03:43:122] info: [API-Q] (T02MD9XTF) noversion-1626156223.115 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[07/13/21, 01:03:43:123] info: [API-Q] (T02MD9XTF) noversion-1626156223.115 Flannel permissions/info is ENQUEUED 
+[07/13/21, 01:03:43:123] info: [API-Q] (T02MD9XTF) noversion-1626156223.115 Flannel permissions/info is ACTIVE 
+[07/13/21, 01:03:43:124] info: [API-Q] (T02MD9XTF) noversion-1626156223.118 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[07/13/21, 01:03:43:124] info: [API-Q] (T02MD9XTF) noversion-1626156223.118 Flannel permissions/info is ENQUEUED 
+[07/13/21, 01:03:43:124] info: [API-Q] (T02MD9XTF) noversion-1626156223.118 Flannel permissions/info is ACTIVE 
+[07/13/21, 01:03:43:457] info: [API-Q] (T02MD9XTF) noversion-1626156223.118 Flannel permissions/info is RESOLVED 
+[07/13/21, 01:03:43:458] info: [API-Q] (T02MD9XTF) noversion-1626156223.115 Flannel permissions/info is RESOLVED 
+[07/13/21, 01:03:43:460] info: [API-Q] (T02MD9XTF) noversion-1626156223.113 Flannel permissions/info is RESOLVED 
+[07/13/21, 01:03:46:611] info: [FOCUS-EVENT] Client window blurred 
+[07/13/21, 01:05:01:254] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 01:05:01:254] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 01:11:00:253] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 01:11:00:254] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 01:12:00:363] info: [CHECK-FOR-OLD-IMS] (T02MD9XTF) Within limit: 7 
+[07/13/21, 01:17:00:253] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 01:17:00:253] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 01:22:00:279] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 01:22:00:279] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 01:27:00:277] info: [CHECK-FOR-OLD-IMS] (T02MD9XTF) Within limit: 7 
+[07/13/21, 01:28:00:263] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 01:28:00:263] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 01:34:00:263] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 01:34:00:264] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 01:34:22:331] info: [MIN-VERSION] Checking to see if we should reload 
+[07/13/21, 01:34:22:332] info: [MIN-VERSION] teamIds: T02MD9XTF; versionTs: 1626138449; buildVersionTs: 1626138449; configVersionTs: 1626142155; All config versions: {"T02MD9XTF":1626142155} 
+[07/13/21, 01:34:22:343] info: [API-Q] (T02MD9XTF) 2158aecc-1626158062.342 client.shouldReload called with reason: polling 
+[07/13/21, 01:34:22:344] info: [API-Q] (T02MD9XTF) 2158aecc-1626158062.342 client.shouldReload is ENQUEUED 
+[07/13/21, 01:34:22:344] info: [API-Q] (T02MD9XTF) 2158aecc-1626158062.342 client.shouldReload is ACTIVE 
+[07/13/21, 01:34:22:446] info: [API-Q] (T02MD9XTF) 2158aecc-1626158062.342 client.shouldReload is RESOLVED 
+[07/13/21, 01:34:22:448] info: [MIN-VERSION] Build version is enabled for this polling interval. Using build version: 1626138449 
+[07/13/21, 01:34:22:448] info: [MIN-VERSION] No need to reload 
+[07/13/21, 01:40:00:258] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 01:40:00:258] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 01:42:00:277] info: [CHECK-FOR-OLD-IMS] (T02MD9XTF) Within limit: 7 
+[07/13/21, 01:46:00:258] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 01:46:00:259] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 01:52:00:265] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 01:52:00:266] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 01:57:00:282] info: [CHECK-FOR-OLD-IMS] (T02MD9XTF) Within limit: 7 
+[07/13/21, 01:58:00:259] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 01:58:00:260] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 02:01:51:253] info: [API-Q] (T02MD9XTF) noversion-1626159711.252 Flannel users/info called with reason: flannel-call:users/info 
+[07/13/21, 02:01:51:254] info: [API-Q] (T02MD9XTF) noversion-1626159711.252 Flannel users/info is ENQUEUED 
+[07/13/21, 02:01:51:256] info: [API-Q] (T02MD9XTF) noversion-1626159711.252 Flannel users/info is ACTIVE 
+[07/13/21, 02:01:52:668] info: [API-Q] (T02MD9XTF) noversion-1626159711.252 Flannel users/info is RESOLVED 
+[07/13/21, 02:01:52:675] info: [API-Q] (T02MD9XTF) noversion-1626159712.674 Flannel users/info called with reason: flannel-call:users/info 
+[07/13/21, 02:01:52:675] info: [API-Q] (T02MD9XTF) noversion-1626159712.674 Flannel users/info is ENQUEUED 
+[07/13/21, 02:01:52:676] info: [API-Q] (T02MD9XTF) noversion-1626159712.674 Flannel users/info is ACTIVE 
+[07/13/21, 02:01:53:078] info: [API-Q] (T02MD9XTF) noversion-1626159712.674 Flannel users/info is RESOLVED 
+[07/13/21, 02:04:00:255] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 02:04:00:255] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 02:10:00:257] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 02:10:00:257] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 02:12:00:275] info: [CHECK-FOR-OLD-IMS] (T02MD9XTF) Within limit: 7 
+[07/13/21, 02:12:32:168] info: [RTM] (T02MD9XTF) Processed 1 dnd_updated_user event(s) over 0.20ms 
+[07/13/21, 02:16:00:259] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 02:16:00:260] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 02:22:00:253] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 02:22:00:253] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 02:27:00:276] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 02:27:00:276] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 02:27:00:276] info: [CHECK-FOR-OLD-IMS] (T02MD9XTF) Within limit: 7 
+[07/13/21, 02:33:00:253] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 02:33:00:254] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 02:39:00:253] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 02:39:00:253] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 02:42:12:314] info: [CHECK-FOR-OLD-IMS] (T02MD9XTF) Within limit: 7 
+[07/13/21, 02:44:00:269] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 02:44:00:269] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 02:50:12:943] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 02:50:12:950] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 02:56:00:253] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 02:56:00:253] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 02:57:00:263] info: [CHECK-FOR-OLD-IMS] (T02MD9XTF) Within limit: 7 
+[07/13/21, 03:01:00:268] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 03:01:00:268] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 03:02:43:299] info: [MIN-VERSION] Checking to see if we should reload 
+[07/13/21, 03:02:43:299] info: [MIN-VERSION] teamIds: T02MD9XTF; versionTs: 1626138449; buildVersionTs: 1626138449; configVersionTs: 1626142155; All config versions: {"T02MD9XTF":1626142155} 
+[07/13/21, 03:02:43:299] info: [API-Q] (T02MD9XTF) 2158aecc-1626163363.296 client.shouldReload called with reason: polling 
+[07/13/21, 03:02:43:299] info: [API-Q] (T02MD9XTF) 2158aecc-1626163363.296 client.shouldReload is ENQUEUED 
+[07/13/21, 03:02:43:301] info: [API-Q] (T02MD9XTF) 2158aecc-1626163363.296 client.shouldReload is ACTIVE 
+[07/13/21, 03:02:43:532] info: [API-Q] (T02MD9XTF) 2158aecc-1626163363.296 client.shouldReload is RESOLVED 
+[07/13/21, 03:02:43:533] info: [MIN-VERSION] Build version is enabled for this polling interval. Using build version: 1626138449 
+[07/13/21, 03:02:43:533] info: [MIN-VERSION] No need to reload 
+[07/13/21, 03:07:00:253] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 03:07:00:253] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 03:12:00:264] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 03:12:00:264] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 03:12:00:265] info: [CHECK-FOR-OLD-IMS] (T02MD9XTF) Within limit: 7 
+[07/13/21, 03:12:16:961] info: [RTM] (T02MD9XTF) Processed 1 dnd_updated_user event(s) over 0.10ms 
+[07/13/21, 03:12:16:963] info: [API-Q] (T02MD9XTF) noversion-1626163936.962 Flannel users/info called with reason: flannel-call:users/info 
+[07/13/21, 03:12:16:963] info: [API-Q] (T02MD9XTF) noversion-1626163936.962 Flannel users/info is ENQUEUED 
+[07/13/21, 03:12:16:965] info: [API-Q] (T02MD9XTF) noversion-1626163936.962 Flannel users/info is ACTIVE 
+[07/13/21, 03:12:17:355] info: [API-Q] (T02MD9XTF) noversion-1626163936.962 Flannel users/info is RESOLVED 
+[07/13/21, 03:12:54:065] info: [API-Q] (T02MD9XTF) noversion-1626163974.062 Flannel users/info called with reason: flannel-call:users/info 
+[07/13/21, 03:12:54:066] info: [API-Q] (T02MD9XTF) noversion-1626163974.062 Flannel users/info is ENQUEUED 
+[07/13/21, 03:12:54:068] info: [API-Q] (T02MD9XTF) noversion-1626163974.062 Flannel users/info is ACTIVE 
+[07/13/21, 03:12:54:143] info: [API-Q] (T02MD9XTF) noversion-1626163974.062 Flannel users/info is RESOLVED 
+[07/13/21, 03:18:00:254] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 03:18:00:255] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 03:24:00:253] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 03:24:00:254] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 03:27:00:281] info: [CHECK-FOR-OLD-IMS] (T02MD9XTF) Within limit: 7 
+[07/13/21, 03:30:00:253] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 03:30:00:253] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 03:35:00:267] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 03:35:00:267] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 03:41:00:259] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 03:41:00:260] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 03:42:00:274] info: [CHECK-FOR-OLD-IMS] (T02MD9XTF) Within limit: 7 
+[07/13/21, 03:47:00:253] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 03:47:00:254] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 03:52:00:279] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 03:52:00:280] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 03:57:00:260] info: [CHECK-FOR-OLD-IMS] (T02MD9XTF) Within limit: 7 
+[07/13/21, 03:58:00:258] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 03:58:00:259] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 04:04:00:254] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 04:04:00:254] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 04:10:00:253] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 04:10:00:253] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 04:12:00:306] info: [CHECK-FOR-OLD-IMS] (T02MD9XTF) Within limit: 7 
+[07/13/21, 04:15:00:261] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 04:15:00:262] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 04:21:00:262] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 04:21:00:263] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 04:21:19:262] info: [API-Q] (T02MD9XTF) noversion-1626168079.253 Flannel users/info called with reason: flannel-call:users/info 
+[07/13/21, 04:21:19:263] info: [API-Q] (T02MD9XTF) noversion-1626168079.253 Flannel users/info is ENQUEUED 
+[07/13/21, 04:21:19:264] info: [API-Q] (T02MD9XTF) noversion-1626168079.253 Flannel users/info is ACTIVE 
+[07/13/21, 04:21:19:625] info: [API-Q] (T02MD9XTF) noversion-1626168079.253 Flannel users/info is RESOLVED 
+[07/13/21, 04:21:21:254] info: [API-Q] (T02MD9XTF) noversion-1626168081.253 Flannel users/info called with reason: flannel-call:users/info 
+[07/13/21, 04:21:21:255] info: [API-Q] (T02MD9XTF) noversion-1626168081.253 Flannel users/info is ENQUEUED 
+[07/13/21, 04:21:21:255] info: [API-Q] (T02MD9XTF) noversion-1626168081.253 Flannel users/info is ACTIVE 
+[07/13/21, 04:21:21:316] info: [API-Q] (T02MD9XTF) noversion-1626168081.253 Flannel users/info is RESOLVED 
+[07/13/21, 04:27:00:255] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 04:27:00:256] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 04:27:00:268] info: [CHECK-FOR-OLD-IMS] (T02MD9XTF) Within limit: 7 
+[07/13/21, 04:32:00:344] info: [MIN-VERSION] Checking to see if we should reload 
+[07/13/21, 04:32:00:344] info: [MIN-VERSION] teamIds: T02MD9XTF; versionTs: 1626138449; buildVersionTs: 1626138449; configVersionTs: 1626142155; All config versions: {"T02MD9XTF":1626142155} 
+[07/13/21, 04:32:00:345] info: [API-Q] (T02MD9XTF) 2158aecc-1626168720.344 client.shouldReload called with reason: polling 
+[07/13/21, 04:32:00:346] info: [API-Q] (T02MD9XTF) 2158aecc-1626168720.344 client.shouldReload is ENQUEUED 
+[07/13/21, 04:32:00:347] info: [API-Q] (T02MD9XTF) 2158aecc-1626168720.344 client.shouldReload is ACTIVE 
+[07/13/21, 04:32:00:473] info: [API-Q] (T02MD9XTF) 2158aecc-1626168720.344 client.shouldReload is RESOLVED 
+[07/13/21, 04:32:00:475] info: [MIN-VERSION] Build version is enabled for this polling interval. Using build version: 1626138449 
+[07/13/21, 04:32:00:475] info: [MIN-VERSION] No need to reload 
+[07/13/21, 04:33:00:258] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 04:33:00:258] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 04:39:00:262] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 04:39:00:263] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 04:42:00:262] info: [CHECK-FOR-OLD-IMS] (T02MD9XTF) Within limit: 7 
+[07/13/21, 04:45:00:258] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 04:45:00:259] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 04:51:00:256] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 04:51:00:256] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 04:57:00:259] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 04:57:00:259] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 04:57:00:271] info: [CHECK-FOR-OLD-IMS] (T02MD9XTF) Within limit: 7 
+[07/13/21, 05:03:00:258] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 05:03:00:259] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 05:09:00:253] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 05:09:00:253] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 05:12:00:277] info: [CHECK-FOR-OLD-IMS] (T02MD9XTF) Within limit: 7 
+[07/13/21, 05:14:00:269] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 05:14:00:269] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 05:15:41:531] info: [RTM] (T02MD9XTF) Processed 1 dnd_updated_user event(s) over 0.10ms 
+[07/13/21, 05:20:00:258] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 05:20:00:259] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 05:24:10:813] info: [SOCKET-MANAGER] (T02MD9XTF) goodbye: disconnecting from the MS next time it is convenient 
+[07/13/21, 05:24:10:814] info: [SOCKET-MANAGER] (T02MD9XTF) goodbye: disconnecting now 
+[07/13/21, 05:24:10:814] info: [SOCKET-MANAGER] (T02MD9XTF) Closing socket because #4104: received goodbye from server 
+[07/13/21, 05:24:10:814] error: info() expects 1 or more arguments to be passed after the required label 
+[07/13/21, 05:24:10:821] info: [SOCKET-MANAGER] (T02MD9XTF) Changing from connected to disconnect 
+[07/13/21, 05:24:10:825] info: [SOCKET-MANAGER] (T02MD9XTF) will stay in disconnect state for up to 10000 ms 
+[07/13/21, 05:24:10:826] info: [SOCKET-MANAGER] (T02MD9XTF) Changing from disconnect to disconnecting 
+[07/13/21, 05:24:10:826] info: [SOCKET-MANAGER] (T02MD9XTF) will stay in disconnecting state for up to 10000 ms 
+[07/13/21, 05:24:10:827] info: [SOCKET-MANAGER] (T02MD9XTF) Changing from disconnecting to disconnected 
+[07/13/21, 05:24:10:827] info: [SOCKET-MANAGER] (T02MD9XTF) will stay in disconnected state for up to 10000 ms 
+[07/13/21, 05:24:10:828] info: [SOCKET-MANAGER] (T02MD9XTF) Disconnected! Online? true 
+[07/13/21, 05:24:10:828] info: [SOCKET-MANAGER] (T02MD9XTF) Changing from disconnected to wait_for_rate_limit 
+[07/13/21, 05:24:10:829] info: [SOCKET-MANAGER] (T02MD9XTF) will stay in wait_for_rate_limit state for up to 120000 ms 
+[07/13/21, 05:24:10:829] info: [SOCKET-MANAGER] (T02MD9XTF) backing off: will wait for 561 ms 
+[07/13/21, 05:24:10:834] info: [FLANNEL] (T02MD9XTF) received a user_subscribe_request call while we are not connected; deferring 
+[07/13/21, 05:24:10:835] info: [API-Q] (T02MD9XTF) noversion-1626171850.834 Flannel users/info called with reason: flannel-call:users/info 
+[07/13/21, 05:24:10:835] info: [API-Q] (T02MD9XTF) noversion-1626171850.834 Flannel users/info is ENQUEUED 
+[07/13/21, 05:24:10:837] info: [API-Q] (T02MD9XTF) noversion-1626171850.834 Flannel users/info is ACTIVE 
+[07/13/21, 05:24:11:212] info: [API-Q] (T02MD9XTF) noversion-1626171850.834 Flannel users/info is RESOLVED 
+[07/13/21, 05:24:12:252] info: [SOCKET-MANAGER] (T02MD9XTF) Changing from wait_for_rate_limit to connect 
+[07/13/21, 05:24:12:259] info: [SOCKET-MANAGER] (T02MD9XTF) will stay in connect state for up to 10000 ms 
+[07/13/21, 05:24:12:261] info: [SOCKET-MANAGER] (T02MD9XTF) Changing from connect to checking_fast_reconnect 
+[07/13/21, 05:24:12:262] info: [SOCKET-MANAGER] (T02MD9XTF) will stay in checking_fast_reconnect state for up to 60000 ms 
+[07/13/21, 05:24:12:264] info: [SOCKET-MANAGER] (T02MD9XTF) Attempting to connect to primary region 
+[07/13/21, 05:24:12:264] info: [SOCKET-MANAGER] (T02MD9XTF) Changing from checking_fast_reconnect to fast_reconnecting 
+[07/13/21, 05:24:12:265] info: [SOCKET-MANAGER] (T02MD9XTF) will stay in fast_reconnecting state for up to 20000 ms 
+[07/13/21, 05:24:12:478] info: [SOCKET-MANAGER] (T02MD9XTF) Changing from fast_reconnecting to connected 
+[07/13/21, 05:24:12:479] info: [SOCKET-MANAGER] (T02MD9XTF) will stay in connected state for up to Infinity ms 
+[07/13/21, 05:24:12:485] info: [SOCKET-MANAGER] (T02MD9XTF) Connected to primary region 
+[07/13/21, 05:24:12:489] info: [EVENTLOG] (T02MD9XTF) fr=true, lc=false, lt=1626171341.442300 
+[07/13/21, 05:24:12:491] info: [FLANNEL] (T02MD9XTF) connected and trouble free! Continuing deferred user_subscribe_request call 
+[07/13/21, 05:24:14:323] info: [RTM] (T02MD9XTF) Processed 1 presence_change event(s) over 2.60ms 
+[07/13/21, 05:25:13:286] info: [CHECK-FOR-OLD-IMS] (T02MD9XTF) Within limit: 7 
+[07/13/21, 05:25:21:431] info: [API-Q] (T02MD9XTF) noversion-1626171921.423 Flannel users/info called with reason: flannel-call:users/info 
+[07/13/21, 05:25:21:431] info: [API-Q] (T02MD9XTF) noversion-1626171921.423 Flannel users/info is ENQUEUED 
+[07/13/21, 05:25:21:432] info: [API-Q] (T02MD9XTF) noversion-1626171921.423 Flannel users/info is ACTIVE 
+[07/13/21, 05:25:21:625] info: [API-Q] (T02MD9XTF) noversion-1626171921.423 Flannel users/info is RESOLVED 
+[07/13/21, 05:26:00:258] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 05:26:00:258] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 05:32:00:258] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 05:32:00:258] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 05:38:00:253] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 05:38:00:253] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 05:41:14:256] info: [CHECK-FOR-OLD-IMS] (T02MD9XTF) Within limit: 7 
+[07/13/21, 05:43:00:293] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 05:43:00:294] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 05:49:00:252] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 05:49:00:253] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 05:54:00:275] info: [DND] (T02MD9XTF) Checking for changes in DND status for the following members: U015HG7VDQT,UGC04K6H5 
+[07/13/21, 05:54:00:275] info: [DND] (T02MD9XTF) Will check for changes in DND status again in 5 minutes 
+[07/13/21, 05:56:14:253] info: [CHECK-FOR-OLD-IMS] (T02MD9XTF) Within limit: 7 

@@ -1,3 +1,3 @@
 function ignore
-    echo $argv >~/.gitignore
+    echo $argv >> ~/.gitignore
 end

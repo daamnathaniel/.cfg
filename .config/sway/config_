@@ -37,7 +37,7 @@
 
 	set $window Window management: (left) resize left, (down) resize down, (up) resize up, (right) resize right, (q) kill, (s) stacking, (t) tabbed, (g) toggle split, (h) splith, (v) splitv, (f) fullscreen, (shift+f) fullscreen global, (space) floating, (shift+space) focus mode
 
-	set $application Applications: (return) terminal, (shift+return) floating term, (b) browser, (B) incognito browser, (n) nmtui, (f) file browser, (p) screenshot, (z) screencast start, (shift+z) screencast stop, (d) menu, (shift+d) menu, (s) sgtk-menu
+	set $application Applications: (return) terminal, (shiqt+return) floating term, (b) browser, (B) incognito browser, (n) nmtui, (f) file browser, (p) screenshot, (z) screencast start, (shift+z) screencast stop, (d) menu, (shift+d) menu, (s) sgtk-menu
 
 
 # Settings
@@ -52,7 +52,7 @@
 	default_border pixel 3
 	default_floating_border normal
 	hide_edge_borders smart
-	gaps inner 10
+	gaps inner 10h
 	smart_gaps on
 
 
@@ -101,7 +101,7 @@ mode "default" {
 		$mod+Return			exec $term
 		$mod+Shift+Return	exec $bin/floating-term.sh
 		$mod+d				exec $menu
-		$mod+s				exec sgtk-menu -f -a
+		$mod+s				exec sgtk-menu -slackf -a
 
 		$mod+q				kill
 

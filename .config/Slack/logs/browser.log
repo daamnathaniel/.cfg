@@ -1581,3 +1581,36 @@
 [07/12/21, 21:09:18:679] info: Store: EXTEND_MENU T02MD9XTF: menucategory-file,menucategory-edit,menucategory-history,menucategory-help
 [07/12/21, 21:09:19:550] info: Store: REDUX_UPDATE_FROM_WEBAPP (T02MD9XTF) Changed keys [unreads]
 [07/12/21, 21:09:22:796] info: Store: persist/FLUSH 
+[07/13/21, 01:03:36:319] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[07/13/21, 01:03:41:987] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[07/13/21, 01:03:42:145] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[07/13/21, 01:03:46:604] info: Attempted to close the window, hiding due to run from tray 
+[07/13/21, 01:03:46:605] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isVisible": false
+  },
+  "fromEvent": true
+}
