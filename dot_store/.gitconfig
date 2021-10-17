@@ -1,0 +1,13 @@
+[user]
+	name = Nathaniel Adam
+	email = daamnathaniel@gmail.com
+[github]
+	user = daamnathaniel
+	token = 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
+[color]
+	ui = auto
+[credential "https://github.com"]
+	helper = 
+	helper = !/home/adam/.asdf/installs/github-cli/1.11.0/bin/gh auth git-credential
+[init]
+	defaultBranch = master

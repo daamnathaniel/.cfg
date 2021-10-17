@@ -1,0 +1,256 @@
+Delivered-To: daamnathaniel@gmail.com
+Received: by 2002:a54:3189:0:0:0:0:0 with SMTP id c9csp3388922ecs;
+        Tue, 10 Aug 2021 06:53:32 -0700 (PDT)
+X-Google-Smtp-Source: ABdhPJy3ZJvhMaalLvkfErW8evbDHyuE9E/HXaaa+vqtmHF1V1gRIJQunzJUtCCrsPFNnlxdD8es
+X-Received: by 2002:a05:620a:2116:: with SMTP id l22mr15870533qkl.12.1628603612413;
+        Tue, 10 Aug 2021 06:53:32 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1628603612; cv=none;
+        d=google.com; s=arc-20160816;
+        b=PGQRSVohjD6h/OR62HNd8UgwEHSXTY1sa8DV9pw3nxbGLBH1uxB/5ttEhpVFaHoXcL
+         ErWpDEVlW+yHjLIW+KMRLqSL8HhooRqJYQoWHoEFSZ/HjWrdkOXaxmTzwhWimubg/lhn
+         dm6GynPR1At9SbNh0jtQMkf+/QDJEoNWjlVb4q6ZWKRH6hzkySL4wQIwsU5IUPEhG7ww
+         r+zVkLqvF4wtXxE4eQXdX8t1jOcPUXpv6mGUnj/UIQxiWiPPLzQ+DrYaHnKtBuv2yG1Z
+         2W9rOsXTroknwIBjyetOjM4pc4M812Z/NkpaahEni2YDkqIBMgdSnKPU2sg98397vD/2
+         2ARg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=dkim-signature:auto-submitted:content-transfer-encoding
+         :mime-version:subject:references:in-reply-to:message-id:to:reply-to
+         :from:date;
+        bh=Kg8eGCBiZ9JEI7fg4nKCLt8z0xwTda4+XG2BN8+rI4Y=;
+        b=WXymMN8YWmSgeR/zFCJe2JsNmLXFPz/ri4MyxseBm92bd59IBO+E06JRv0LGgVqvx0
+         /21cWLSx8K6ltZjp5aNdRHynTqZkMyanJ6kBNu769gIKg+wgOVmJ8t77xLvXECC37ajn
+         hbn299nenvZ+MElaIyBFsfCrol1LBTR4rbdl8KjyyqC1jYpE3Lb1Y5vY4rHOnf6UbI4Q
+         GghrEvxB1YMbysI8jo+4dbN64jj3YAvYuhH4gcPE0H1Kviq55Jaae0wA0eoO/SiHNQxJ
+         R7cE8N6QDmSUj5G2U1Uiaj7f6QgeTmfDtlDyJ61tLNn90s4dfKlrwTxMUOxHjVIUpkJk
+         7ICw==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@zendesk.com header.s=zendesk1 header.b=sH0G0lQ5;
+       spf=pass (google.com: domain of support@flatironschoolsupport.zendesk.com designates 192.161.149.39 as permitted sender) smtp.mailfrom=support@flatironschoolsupport.zendesk.com;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=flatironschool.com
+Return-Path: <support@flatironschoolsupport.zendesk.com>
+Received: from outbyoip9.pod23.use1.zdsys.com (outbyoip9.pod23.use1.zdsys.com. [192.161.149.39])
+        by mx.google.com with ESMTPS id t8si6716872qtn.163.2021.08.10.06.53.32
+        for <daamnathaniel@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Tue, 10 Aug 2021 06:53:32 -0700 (PDT)
+Received-SPF: pass (google.com: domain of support@flatironschoolsupport.zendesk.com designates 192.161.149.39 as permitted sender) client-ip=192.161.149.39;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@zendesk.com header.s=zendesk1 header.b=sH0G0lQ5;
+       spf=pass (google.com: domain of support@flatironschoolsupport.zendesk.com designates 192.161.149.39 as permitted sender) smtp.mailfrom=support@flatironschoolsupport.zendesk.com;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=flatironschool.com
+Received: from zendesk.com (unknown [10.221.28.219])
+	by outbyoip9.pod23.use1.zdsys.com (Postfix) with ESMTP id 4GkZDC6SBBz14K2n
+	for <daamnathaniel@gmail.com>; Tue, 10 Aug 2021 13:53:31 +0000 (UTC)
+Date: Tue, 10 Aug 2021 13:53:31 +0000
+From: "Anna Stone (Support)" <studentservices@flatironschool.com>
+Reply-To: Support <studentservices@flatironschool.com>
+To: Nathaniel King <daamnathaniel@gmail.com>
+Message-ID: <VP7V4L78V4_611284db7af10_273fd06cecb96424257b_sprut@zendesk.com>
+In-Reply-To: <CAEhS9+OSTkQj-oWBEysboyuckBYna5ES3bxvbf_6o4HAz1f+uw@mail.gmail.com>
+ <VP7V4L78V4_611266d1380c9_2c3ff182acb96861570_sprut@zendesk.com>
+References: <VP7V4L78V4@zendesk.com>
+ <X79PPO02DW_60ad128ec3fa5_2d2b27fc25596449381c_sprut@zendesk.com>
+ <X79PPO02DW_60ad0e47686f6_322ad19c5fb96c4841e_sprut@zendesk.com>
+ <CAEhS9+O_uP0sO31FCDKoV_mJrbp4OyMEq5dp6Tid9fYz31nuqA@mail.gmail.com>
+ <X79PPO02DW@zendesk.com>
+ <CAEhS9+OSTkQj-oWBEysboyuckBYna5ES3bxvbf_6o4HAz1f+uw@mail.gmail.com>
+Subject: Flatiron School - Re: Flatiron School - Information Request
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_611284dbd3dd5_273fd06cecb9642426af";
+ charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Delivery-Context: event-id-1920116943785
+Auto-Submitted: auto-generated
+X-Auto-Response-Suppress: All
+X-Mailer: Zendesk Mailer
+X-Zendesk-From-Account-Id: 0858499
+DKIM-Signature:  v=1; a=rsa-sha256; c=relaxed/relaxed; d=zendesk.com;
+ q=dns/txt; s=zendesk1; t=1628603611;
+ bh=Kg8eGCBiZ9JEI7fg4nKCLt8z0xwTda4+XG2BN8+rI4Y=;
+ h=date:from:reply-to:to:message-id:in-reply-to:references:subject:mime-version:content-type:content-transfer-encoding;
+ b=sH0G0lQ5vhe5LrayPw4rqub4qbRo0bc1+bbakH/K+1MLfLj7PBkLtZ3DVe0IVlYmBk1Iqkqi2yJwb343dme8xyesFX0i3IRtGgldv9BJEqXyprB/o3pu7ZvMEJkyk+PhfJs/ZW1jRT103E8BuJ+MPSRKcVxCRP0nXZyVum7S1Y1gJvRF4WkBPseJPhXqf3F2HXxF/I6oR4SRkezd/AMeSdq/ZUjQJ2pUMd9lYPzAXjdZ/5Kdh6aYqFpGMn01swxUiN4Jh/ej590VZVbZ6kumrYVKo/uwN/oNtI/Nwku1rOmF+XmdwfZiW8pVs0ZtP/A1/aDgxt7cnVXUu+WqoPiUWg==
+
+
+----==_mimepart_611284dbd3dd5_273fd06cecb9642426af
+Content-Type: text/plain;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+##- Please type your reply above this line -##
+
+Your request (26707) has been updated. To add additional comments, reply =
+to this email.
+----------------------------------------------
+
+Anna Stone, Aug 10, 2021, 9:53 AM EDT
+
+Hi Nathaniel=E2=80=8B,
+
+We have received your request to purchase a 90-day extension to your Self=
+-Paced program. Here=E2=80=99s what you can expect next:
+
+
+1. You'll receive an _Enrollment Agreement Amendment Form_ in your inbox =
+in the next few days. This form must be signed via Docusign. Once that is=
+ completed...
+2. You'll receive an invoice for the full cost of the program extension (=
+$1,750), due in full on your program expiration date.
+
+Let me know if you have any questions here, and keep an eye on your inbox=
+ for your Enrollment Agreement Amendment form!
+
+Best,
+Anna=E2=80=8B
+
+Flatiron School
+
+----------------------------------------------
+
+Nathaniel King, Aug 9, 2021, 1:40 PM EDT
+
+This is a follow-up to your previous request #17316 "Information Request"=
+
+
+
+Hello Anna,
+   I was wanting to see about purchasing a program extension.
+
+Thank you,
+
+Adam
+
+--------------------------------
+This email is a service from Flatiron School.
+
+
+
+
+
+
+
+
+
+[VP7V4L-78V4]=
+
+----==_mimepart_611284dbd3dd5_273fd06cecb9642426af
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+  <style type=3D"text/css">
+    table td {
+      border-collapse: collapse;
+    }
+    body[dir=3Drtl] .directional_text_wrapper { direction: rtl; unicode-b=
+idi: embed; }
+
+  </style>
+</head>
+<body lang=3D"en-us" style=3D"width: 100%!important; margin: 0; padding: =
+0;" xml:lang=3D"en-us">
+  <div style=3D"padding: 10px; line-height: 1.5; font-family: 'Lucida Gra=
+nde',Verdana,Arial,sans-serif; font-size: 12px; color:#444444;">
+    <div style=3D"color: #b5b5b5;">##- Please type your reply above this =
+line -##</div>
+    <p dir=3D"ltr">Your request (26707) has been updated. To add addition=
+al comments, reply to this email.<br /></p><div style=3D"margin-top: 25px=
+" data-version=3D"2"><table width=3D"100%" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" role=3D"presentation">  <tbody><tr>    <td width=3D"100%=
+" style=3D"padding: 15px 0; border-top: 1px dotted #c5c5c5;">      <table=
+ width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D=
+"table-layout:fixed;" role=3D"presentation">        <tbody><tr>          =
+            <td valign=3D"top" style=3D"padding: 0 15px 0 15px; width: 40=
+px;">              <img width=3D"40" height=3D"40" alt=3D"" style=3D"heig=
+ht: auto; line-height: 100%; outline: none; text-decoration: none; -webki=
+t-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px;" src=3D=
+"https://secure.gravatar.com/avatar/7cd3826da9a4f550321b7ac0002eb536?size=
+=3D40&amp;default=3Dhttps%3A%2F%2Fassets.zendesk.com%2Fimages%2F2016%2Fde=
+fault-avatar-80.png&amp;r=3Dg" />            </td>                    <td=
+ width=3D"100%" style=3D"padding: 0; margin: 0;" valign=3D"top">         =
+   <p style=3D"font-family:'Lucida Grande','Lucida Sans Unicode','Lucida =
+Sans',Verdana,Tahoma,sans-serif; font-size: 15px; line-height: 18px; marg=
+in-bottom: 0; margin-top: 0; padding: 0; color:#1b1d1e;" dir=3D"ltr">    =
+                                                                <strong>A=
+nna Stone</strong> (Flatiron School)                                     =
+                       </p>            <p style=3D"font-family:'Lucida Gr=
+ande','Lucida Sans Unicode','Lucida Sans',Verdana,Tahoma,sans-serif; font=
+-size: 13px; line-height: 25px; margin-bottom: 15px; margin-top: 0; paddi=
+ng: 0; color:#bbbbbb;" dir=3D"ltr">              Aug 10, 2021, 9:53 AM ED=
+T            </p>                                    <div class=3D"zd-com=
+ment" dir=3D"auto" style=3D"color: #2b2e2f; font-family: 'Lucida Sans Uni=
+code', 'Lucida Grande', 'Tahoma', Verdana, sans-serif; font-size: 14px; l=
+ine-height: 22px; margin: 15px 0">Hi Nathaniel=E2=80=8B,<br />=C2=A0<br /=
+>We have received your request to purchase a 90-day extension to your Sel=
+f-Paced program. Here=E2=80=99s what you can expect next:<br />=C2=A0<br =
+/><ol dir=3D"auto" style=3D"list-style-type: decimal; margin: 10px 0 15px=
+ 30px; padding-left: 15px"><li style=3D"font-family: 'Lucida Sans Unicode=
+', 'Lucida Grande', 'tahoma', Verdana, sans-serif; font-size: 14px; margi=
+n: 10px 0">You'll receive an <i>Enrollment Agreement Amendment Form</i> i=
+n your inbox in the next few days. This form must be signed via Docusign.=
+ Once that is completed...</li><li style=3D"font-family: 'Lucida Sans Uni=
+code', 'Lucida Grande', 'tahoma', Verdana, sans-serif; font-size: 14px; m=
+argin: 10px 0">You'll receive an invoice for the full cost of the program=
+ extension ($1,750), due in full on your program expiration date.</li></o=
+l>=C2=A0<br />Let me know if you have any questions here, and keep an eye=
+ on your inbox for your Enrollment Agreement Amendment form!=C2=A0<br />=C2=
+=A0<br />Best,<br />Anna=E2=80=8B<br /><div class=3D"signature"><p dir=3D=
+"ltr" style=3D"color: #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucid=
+a Grande', 'Tahoma', Verdana, sans-serif; font-size: 14px; line-height: 2=
+2px; margin: 15px 0">Flatiron School</p></div></div><p dir=3D"ltr">      =
+                            </p></td>        </tr>      </tbody></table> =
+   </td>  </tr></tbody></table><p dir=3D"ltr"></p><table width=3D"100%" c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0" role=3D"presentation">  <=
+tbody><tr>    <td width=3D"100%" style=3D"padding: 15px 0; border-top: 1p=
+x dotted #c5c5c5;">      <table width=3D"100%" cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0" style=3D"table-layout:fixed;" role=3D"presentation=
+">        <tbody><tr>                      <td valign=3D"top" style=3D"pa=
+dding: 0 15px 0 15px; width: 40px;">              <img width=3D"40" heigh=
+t=3D"40" alt=3D"" style=3D"height: auto; line-height: 100%; outline: none=
+; text-decoration: none; -webkit-border-radius: 5px; -moz-border-radius: =
+5px; border-radius: 5px;" src=3D"https://secure.gravatar.com/avatar/c7d5d=
+947b154e1aa2660c3daf822efd4?size=3D40&amp;default=3Dhttps%3A%2F%2Fassets.=
+zendesk.com%2Fimages%2F2016%2Fdefault-avatar-80.png&amp;r=3Dg" />        =
+    </td>                    <td width=3D"100%" style=3D"padding: 0; marg=
+in: 0;" valign=3D"top">            <p style=3D"font-family:'Lucida Grande=
+','Lucida Sans Unicode','Lucida Sans',Verdana,Tahoma,sans-serif; font-siz=
+e: 15px; line-height: 18px; margin-bottom: 0; margin-top: 0; padding: 0; =
+color:#1b1d1e;" dir=3D"ltr">                              <strong>Nathani=
+el King</strong>                          </p>            <p style=3D"fon=
+t-family:'Lucida Grande','Lucida Sans Unicode','Lucida Sans',Verdana,Taho=
+ma,sans-serif; font-size: 13px; line-height: 25px; margin-bottom: 15px; m=
+argin-top: 0; padding: 0; color:#bbbbbb;" dir=3D"ltr">              Aug 9=
+, 2021, 1:40 PM EDT            </p>                                    Th=
+is is a follow-up to your previous request <a href=3D"https://flatironsch=
+oolsupport.zendesk.com/hc/requests/17316" target=3D"_blank" rel=3D"ticket=
+">#17316</a> "Information Request"<br /><br /><div class=3D"zd-comment" d=
+ir=3D"auto" style=3D"color: #2b2e2f; font-family: 'Lucida Sans Unicode', =
+'Lucida Grande', 'Tahoma', Verdana, sans-serif; font-size: 14px; line-hei=
+ght: 22px; margin: 15px 0"><div dir=3D"ltr">Hello Anna,=C2=A0<div>=C2=A0 =
+=C2=A0I was wanting to see about purchasing a program extension.</div><di=
+v>Thank you,=C2=A0</div><div>Adam</div></div><br /></div><p dir=3D"ltr"> =
+                                 </p></td>        </tr>      </tbody></ta=
+ble>    </td>  </tr></tbody></table></div>
+  </div>
+  <div style=3D"padding: 10px; line-height: 1.5; font-family: 'Lucida Gra=
+nde',Verdana,Arial,sans-serif; font-size: 12px; color: #aaaaaa; margin: 1=
+0px 0 14px 0; padding-top: 10px; border-top: 1px solid #eeeeee;">
+    This email is a service from Flatiron School. Delivered by <a href=3D=
+"https://www.zendesk.com/support/?utm_campaign=3Dtext&amp;utm_content=3DF=
+latiron+School&amp;utm_medium=3Dpoweredbyzendesk&amp;utm_source=3Demail-n=
+otification" style=3D"color: black;" target=3D"_blank">Zendesk</a>
+  </div>
+<span style=3D"color:#FFFFFF" aria-hidden=3D"true">[VP7V4L-78V4]</span>
+
+<div itemscope=3D"" itemtype=3D"http://schema.org/EmailMessage" style=3D"=
+display:none">  <div itemprop=3D"action" itemscope=3D"" itemtype=3D"http:=
+//schema.org/ViewAction">    <link itemprop=3D"url" href=3D"https://flati=
+ronschoolsupport.zendesk.com/hc/requests/26707" />    <meta itemprop=3D"n=
+ame" content=3D"View ticket" />  </div></div></body></html>
+
+----==_mimepart_611284dbd3dd5_273fd06cecb9642426af--

@@ -1,0 +1,55 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export EDITOR:micro
+SETUVAR --export GDK_BACKEND:wayland
+SETUVAR --export MAIL_HOST:localhost\x3a3000
+SETUVAR --export NYLAS:8QrwtHot0RcjUvMKinidgD7gzP4a4a
+SETUVAR --export NYLAS_CLIENT_ID:4vjjky368x8mdq2dh9agl5kqk
+SETUVAR NYLAS_CLIENT_SECRET:\x1d
+SETUVAR --export --path PATH:/var/lib/snapd/bin\x1e/home/adam/\x2easdf/shims\x1e/opt/asdf\x2dvm/bin\x1e/tmp/frum_1102632_1633031036001/bin\x1e/home/adam/\x2elocal/bin\x1e/tmp/frum_609_1632828274343/bin\x1e/usr/local/sbin\x1e/usr/local/bin\x1e/usr/bin\x1e/usr/bin/site_perl\x1e/usr/bin/vendor_perl\x1e/usr/bin/core_perl
+SETUVAR --export QT_AUTO_SCREEN_SCALE_FACTOR:1
+SETUVAR --export QT_QPA_PLATFORM:wayland
+SETUVAR --export QT_QPA_PLATFORMTHEME:qt5ct
+SETUVAR --export QT_WAYLAND_DISABLE_WINDOWDECORATION:1
+SETUVAR --export SENDMAIL_PASSWORD:JjwhL6Qn7YVw2U
+SETUVAR --export SENDMAIL_USERNAME:adamsdevelopment\x40gmail\x2ecom
+SETUVAR --export SHELL:fish
+SETUVAR --export WORDNIK_API:yltylgfyh23ud95ia3jp9xp92q6uu299bzkqntxwglw5u70s8
+SETUVAR --export XDG_CURRENT_DESKTOP:sway
+SETUVAR --export XDG_SESSION_TYPE:wayland
+SETUVAR --export _JAVA_AWT_WM_NONREPARENTING:1
+SETUVAR __fish_initialized:3100
+SETUVAR _fish_abbr_edit:micro
+SETUVAR _fisher_edc_2F_bass_files:/home/adam/\x2econfig/fish/functions/__bass\x2epy\x1e/home/adam/\x2econfig/fish/functions/bass\x2efish
+SETUVAR _fisher_plugins:edc/bass
+SETUVAR --export api_ninjas:x9XZR7FU4aomYMPa\x2bCLv1A\x3d\x3dESfNUAprKgxe7fy1
+SETUVAR fish_color_autosuggestion:747369
+SETUVAR fish_color_cancel:\x2dr
+SETUVAR fish_color_command:99cc99
+SETUVAR fish_color_comment:ffcc66
+SETUVAR fish_color_cwd:green
+SETUVAR fish_color_cwd_root:red
+SETUVAR fish_color_end:cc99cc
+SETUVAR fish_color_error:f2777a
+SETUVAR fish_color_escape:66cccc
+SETUVAR fish_color_history_current:\x2d\x2dbold
+SETUVAR fish_color_host:normal
+SETUVAR fish_color_host_remote:yellow
+SETUVAR fish_color_match:6699cc
+SETUVAR fish_color_normal:normal
+SETUVAR fish_color_operator:6699cc
+SETUVAR fish_color_param:d3d0c8
+SETUVAR fish_color_quote:ffcc66
+SETUVAR fish_color_redirection:d3d0c8
+SETUVAR fish_color_search_match:bryellow\x1e\x2d\x2dbackground\x3dbrblack
+SETUVAR fish_color_selection:white\x1e\x2d\x2dbold\x1e\x2d\x2dbackground\x3dbrblack
+SETUVAR fish_color_status:red
+SETUVAR fish_color_user:brgreen
+SETUVAR fish_color_valid_path:\x2d\x2dunderline
+SETUVAR fish_key_bindings:fish_default_key_bindings
+SETUVAR fish_pager_color_completion:normal
+SETUVAR fish_pager_color_description:B3A06D\x1eyellow
+SETUVAR fish_pager_color_prefix:normal\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
+SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
+SETUVAR fish_user_paths:/home/adam/\x2elocal/bin
+SETUVAR x_rapidapi_key:4c33d1b9a7msh39a105ccfcbac83p13f171jsn9fa3040491a2

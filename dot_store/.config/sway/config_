@@ -1,0 +1,271 @@
+
+# Variables
+# =========
+	set $mod		Mod4
+	set $term		alacritty
+	set $browser	env GDK_BACKEND=wayland brave
+	set $bin		~/.local/bin
+	set $file		alacritty -e ranger
+	set $menu		dmenu_path | dmenu | xargs swaymsg exec --
+	set $rofi       rofi -show run
+	set $left 		KP_Left
+	set $down 		KP_Down
+	set $up 		KP_Up
+	set $right 		KP_Right
+	set $prev 		KP_Prior
+	set $next 		KP_Next
+	set $home 		KP_Home
+	set $end 		KP_End
+	set $start 		KP_Begin
+
+	set $ws1  workspace 1: misc
+	set $ws2  workspace 2: misc
+	set $ws3  workspace 3: misc
+	set $ws4  workspace 4: misc
+	set $ws5  workspace 5: misc
+	set $ws6  workspace 6: misc
+	set $ws7  workspace 7: misc
+	set $ws8  workspace 8: misc
+	set $ws9  workspace 9: misc
+	set $ws0  workspace 0: misc
+
+
+
+
+
+
+
+	set $window Window management: (left) resize left, (down) resize down, (up) resize up, (right) resize right, (q) kill, (s) stacking, (t) tabbed, (g) toggle split, (h) splith, (v) splitv, (f) fullscreen, (shift+f) fullscreen global, (space) floating, (shift+space) focus mode
+
+	set $application Applications: (return) terminal, (shiqt+return) floating term, (b) browser, (B) incognito browser, (n) nmtui, (f) file browser, (p) screenshot, (z) screencast start, (shift+z) screencast stop, (d) menu, (shift+d) menu, (s) sgtk-menu
+
+
+# Settings
+# =========
+	floating_modifier $mod normal
+	xwayland force
+	focus_follows_mouse always
+	floating_modifier $mod normal
+	workspace_layout tabbed
+	workspace_auto_back_and_forth yes
+	focus_on_window_activation urgent
+	default_border pixel 3
+	default_floating_border normal
+	hide_edge_borders smart
+	gaps inner 10h
+	smart_gaps on
+
+
+
+# Startup Programs:
+# =================
+	exec mako --max-visible 10 --width 350 --border-color=#00ff00 --background-color=#000000 --default-timeout 6000
+	exec_always autotiling
+	exec wal --theme random
+
+	# Shutdown displays when idle
+	exec_always swayidle -w \
+		timeout 600 'swaymsg "output * dpms off"' \
+		timeout 630 'swaylock -f -c 3f6375' \
+		resume 'swaymsg "output * dpms on"' \
+		before-sleep 'swaylock -f -c 3f6375'
+
+	exec light -S 25
+
+	# gtk theme
+	exec gsettings set org.gnome.desktop.interface gtk-theme 'Arc-Dark'  
+	exec gsettings set org.gnome.desktop.interface icon-theme 'Papirus-Dark'
+
+
+# Window specific settings
+# client.focused				#00ff00 #000000 #ffffff #ff00ff #00ff00
+# client.unfocused			#ffff00 #000000 #ffffff #000000 #ffff00
+
+for_window [app_id="galculator"]			floating enable
+for_window [app_id="^.*"]					border pixel 1
+for_window [app_id="^.*_floating"]			floating enable
+for_window [app_id="firefox"]				inhibit_idle fullscreen
+for_window [app_id="mpv"]					inhibit_idle
+for_window [app_id="zenity"]				floating enable
+for_window [app_id="nm-connection-editor"]	floating enable
+
+output eDP-1 pos 3840 0 disable
+output DP-4	 pos 1920 0 res 1920x1080 background ~/.config/sway/wr.jpg fill
+output DP-3  pos 0	  0 res 1920x1080 background ~/.config/sway/wl.jpg fill
+
+# KEYBINDINGS
+# ===========
+mode "default" {
+  {
+
+		$mod+Return			exec $term
+		$mod+Shift+Return	exec $bin/floating-term.sh
+		$mod+d				exec $menu
+		$mod+s				exec sgtk-menu -slackf -a
+
+		$mod+q				kill
+
+		$mod+Shift+c		reload
+		$mod+Shift+e		exec zenity --question --text "Are you sure you wish to exit sway?" && swaymsg exit
+
+
+	# Moving around:
+	# ==============
+		# Move your focus around
+		$mod+Left			focus left
+		$mod+Down			focus down
+		$mod+Up				focus up
+		$mod+Right			focus right
+
+		# Move windows around
+		$mod+Shift+Left		move left
+		$mod+Shift+Down		move down
+		$mod+Shift+Up		move up
+		$mod+Shift+Right	move right
+
+	# Workspaces:
+	# ===========
+		# Switch to workspace
+		$mod+1 $ws1
+		$mod+2 $ws2
+		$mod+3 $ws3
+		$mod+4 $ws4
+		$mod+5 $ws5
+		$mod+6 $ws6
+		$mod+7 $ws7
+		$mod+8 $ws8
+		$mod+9 $ws9
+		$mod+0 $ws10
+
+		# Move focused container to workspace
+		$mod+Shift+1 move container to $ws1
+		$mod+Shift+2 move container to $ws2
+		$mod+Shift+3 move container to $ws3
+		$mod+Shift+4 move container to $ws4
+		$mod+Shift+5 move container to $ws5
+		$mod+Shift+6 move container to $ws6
+		$mod+Shift+7 move container to $ws7
+		$mod+Shift+8 move container to $ws8
+		$mod+Shift+9 move container to $ws9
+		$mod+Shift+0 move container to $ws10
+
+	# Multi-media keys:
+	# =================
+	XF86AudioMute			exec ~/.local/bin/audio.sh mute
+	XF86AudioRaiseVolume 	exec $bin/audio.sh add && $bin/audio.sh get | $bin/wob.sh > $SWAYSOCK.wob
+	XF86AudioLowerVolume 	exec $bin/audio.sh sub && $bin/audio.sh get | $bin/wob.sh > $SWAYSOCK.wob
+	Print					exec grim ~/Pictures/$(date +%Y%m%d%h%m%s).png
+	XF86MonBrightnessDown	exec light -U 10 && light -G | cut -d'.' -f1 > $SWAYSOCK.wob
+	XF86MonBrightnessUp		exec light -A 10 && light -G | cut -d'.' -f1 > $SWAYSOCK.wob
+	XF86PowerOff			exec zenity --question --text "Are you sure you wish to shut down now?" && shutdown now
+  }
+}
+
+
+
+# Window management:
+# ------------------
+mode "$window" {
+  {
+
+	$left			exec $bin/swayresize.sh left
+	$down			exec $bin/swayresize.sh down
+	$up				exec $bin/swayresize.sh up
+	$right			exec $bin/swayresize.sh right
+	q				kill
+	s				layout stacking
+	t				layout tabbed
+	g				layout toggle split
+	h				splith
+	v				splitv
+	f				fullscreen toggle
+	shift+f 		fullscreen toggle global
+	space			floating toggle
+	shift+space		focus mode_toggle
+
+	Escape mode "default"
+  }	
+}
+
+
+# Launching aplications:
+# ----------------------
+mode "$application" {
+  {
+
+	Return			exec $term
+	Shift+Return 	exec $bin/floating-term.sh
+	b				exec $browser
+	n			exec $bin/floating-term.sh nmtui
+	f				exec $file
+	p				exec $bin/screenshot
+	z				exec $bin/screencast.sh start
+	Shift+z			exec $bin/screencast.sh stop
+	d 				exec $menu
+	Shift+d			exec $rofi
+	s				exec sgtk-menu -f -a
+
+    Escape mode "default"
+  }
+} 
+
+
+
+
+
+# Status bar:
+# ===========
+bar {
+	position bottom
+	status_command i3blocks
+	font monospace 10
+	colors {
+		statusline			#ffffff
+		background			#000000
+		focused_workspace	#000000 #000000 #00ff00
+		inactive_workspace	#000000 #000000 #ffff00
+		active_workspace	#000000 #000000 #ffff00
+	}
+}
+
+# Input settings:
+# ===============
+input * {
+    xkb_layout "us"
+    xkb_options "caps:shiftlock,numpad:microsoft,shift:both_capslock_cancel,ctrl:nocaps,ctrl:lctrl_meta"
+}
+
+input "2:1:PS/2_Generic_Mouse" events disabled
+input "1:1:AT_Translated_Set_2_keyboard" events disabled
+input "2:7:SynPS/2_Synaptics_TouchPad" events disabled
+
+include /etc/sway/config.d/*
+
+
+
+
+	# Solarized common
+	set $yellow        #b58900
+	set $orange        #cb4b16
+	set $red           #dc322f
+	set $magenta       #d33682
+	set $violet        #6c71c4
+	set $blue          #268bd2
+	set $cyan          #2aa198
+	set $green         #859900
+
+	# Solarized dark
+	set $basez3        #002b36
+	set $basez2        #073642
+	set $basez1        #586e75
+	set $basez0        #657b83
+	set $base0         #839496
+	set $base1         #93a1a1
+	set $base2         #eee8d5
+	set $base3         #fdf6e3
+
+	# Colors                border   bg       text     indi     childborder
+	client.focused          #009ddc #009ddc #d9d8d8 #d9d8d8 #009ddc
+	client.focused_inactive #231f20 #231f20 #d9d8d8 #231f20 #231f20
+	client.unfocused        #231f20 #231f20 #d9d8d8 #231f20 #231f20
+	client.urgent           #ee2e24 #ee2e24 #d9d8d8 #ee2e24 #ee2e24

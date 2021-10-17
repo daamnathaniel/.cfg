@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"3024 Color Scheme",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Clipboard Manager",
+		"Color Scheme - Sleeplessmind",
+		"Colorsublime",
+		"DashDoc",
+		"DocBlockr 2021 (DoxyDoxygen powered)",
+		"Emmet",
+		"GitGutter",
+		"Package Control",
+		"Pug",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
+		"Theme - Curiosity",
+		"Theme - Minimist",
+		"Theme - Seti Monokai",
+		"Theme - Spacegray",
+	],
+	"in_process_packages":
+	[
+	],
+}

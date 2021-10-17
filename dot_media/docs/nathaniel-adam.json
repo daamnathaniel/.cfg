@@ -1,0 +1,39 @@
+{
+  "account": {
+    "email": "daamnathaniel@gmail.com",
+    "current_sign_in_ip_address": "173.172.141.188",
+    "previous_sign_in_ip_address": "173.172.141.188",
+    "phone_number": "6825584948",
+    "city": null,
+    "bio": null,
+    "formatted_address": null
+  },
+  "public_profile": {
+    "first_name": "Nathaniel",
+    "last_name": "Adam",
+    "twitter": null,
+    "facebook": null,
+    "instagram": null,
+    "website_url": null,
+    "resume": {"url":"https://uploads-learn-prod.s3.amazonaws.com/uploads/resume/e8085811-9472-4dde-8063-161adc991447/Nathaniel_Adam_Resume.pdf"}
+  },
+  "surveys": {
+    "community_powered_bootcamp": null,
+    "github_student_pack": null,
+    "job_acceptance_surveys": [],
+    "job_search_surveys": [],
+    "student_applications": []
+  },
+  "billing": {
+    "credit_cards": []
+  },
+  "connected_apps": {
+    "github": {
+      "username": "daamnathaniel",
+      "uid": 74741410
+    },
+    "slack": {
+      "username": null
+    }
+  }
+}

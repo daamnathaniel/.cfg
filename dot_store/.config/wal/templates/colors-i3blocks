@@ -1,0 +1,8 @@
+
+color: {color2}
+
+
+[greetings]
+color={color1}
+command=echo "Hello, $USER!"
+

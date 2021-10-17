@@ -1,0 +1,856 @@
+{
+	"folder_history":
+	[
+		"/home/adam/c/code/rails/to",
+		"/home/adam/c/code/rails/co",
+		"/home/adam/c/code/rails/My",
+		"/home/adam/c/code/rails/my",
+		"/home/adam/c/code/rails/this",
+		"/home/adam/c/code/rails",
+		"/home/adam/c/code/rails/collabfield",
+		"/home/adam/c/code/rails/c",
+		"/home/adam/c/code/rails/__friends",
+		"/home/adam/c/code/rails/so_",
+		"/home/adam/c/code/rails/so",
+		"/home/adam/c/code/rails/posts",
+		"/home/adam/c/code/rails/notes",
+		"/home/adam/c/code/rails/todo",
+		"/home/adam/c/code/rails/ozone",
+		"/home/adam/c/code/rails/taski",
+		"/home/adam/c/code/rails/ozone/app",
+		"/home/adam/c/code/rails/ozone/db",
+		"/home/adam/c/code/rails/auth",
+		"/home/adam/c/code/rails/co/db",
+		"/home/adam/c/code/rails/co/app",
+		"/home/adam/c/code/rails/co/config",
+		"/home/adam/c/code/rails/na",
+		"/home/adam/c/code/rails/pad",
+		"/home/adam/c/code/rails/Pad",
+		"/home/adam/c/code/rails/portfolio",
+		"/home/adam/c/code/Portfolio",
+		"/home/adam/c/code/rails/friends",
+		"/home/adam/c/code/rails/_co",
+		"/home/adam/c/code/rails/mo",
+		"/home/adam/c/code/rails/lo",
+		"/home/adam/c/code/rails/books",
+		"/home/adam/c/code/rails/files",
+		"/home/adam/c/code/rails/co/app/views",
+		"/home/adam/c/code/rails/co/app/models",
+		"/home/adam/c/code/rails/co/app/assets",
+		"/home/adam/c/code/rails/co/app/controllers",
+		"/home/adam/c/code/rails/devise_gem",
+		"/home/adam/c/code/rails/rails_session",
+		"/home/adam/c/code/rails/friends/Friends",
+		"/home/adam/c/code/rails/Lists",
+		"/home/adam/c/code/rails/sheet",
+		"/home/adam/c/code/rails/box",
+		"/home/adam/c/code/rails/lists",
+		"/home/adam/c/code/rails/cheats",
+		"/home/adam/c/code/rails/dots",
+		"/home/adam/c/code/rails/library",
+		"/home/adam/c/code/sinatra/lists",
+		"/home/adam/c/code/sinatra/list",
+		"/home/adam/development/code/sinatra/sinatra-haml-bootstrap-fluid",
+		"/home/adam/development/code/sinatra/starter_bootstrap",
+		"/home/adam/development/code/sinatra/sheets",
+		"/home/adam/development/code/sinatra/lists",
+		"/home/adam/development/code/sinatra/cheats",
+		"/home/adam/development/code/sinatra/Sinatra_Bike_Shop",
+		"/home/adam/development/code/sinatra/sinatra-project-example-with-tutorial",
+		"/home/adam/development/code/sinatra/cheats/app",
+		"/home/adam/development/code/rails/overtime",
+		"/home/adam/development/code/sinatra/groups",
+		"/home/adam/development/code/sinatra-bootstrap",
+		"/home/adam/.config/sway",
+		"/home/adam",
+		"/home/adam/development/code/sinatra/lsls",
+		"/home/adam/development/code/sinatra/lists_",
+		"/home/adam/development/code/sinatra/_lists",
+		"/home/adam/development/code/rails/blog",
+		"/home/adam/development/code/rails/relations",
+		"/home/adam/development/code/sinatra",
+		"/home/adam/development/code/rails/simple_session",
+		"/home/adam/development/code/sinatra/dots",
+		"/home/adam/Developement/code/sinatra/lists",
+		"/home/adam/Developement/code/CLI/words",
+		"/home/adam/Developement/code/CLI/words/lib/words",
+		"/home/adam/Developement/code/CLI/words/lib",
+		"/home/adam/c/CLI/cliapi",
+		"/home/adam/.config/i3blocks/scripts",
+		"/home/adam/c/CLI/wrds",
+		"/home/adam/Downloads/dotfiles-sway-master/.config/sway",
+		"/home/adam/c/reference",
+		"/home/adam/c/CLI/__wrds",
+		"/home/adam/c/CLI/words",
+		"/home/adam/c/worlds-best-restaurants-cli-gem/lib/wrds",
+		"/home/adam/c/labs/ruby-music-library-cli-online-web-sp-000",
+		"/home/adam/c/CLI/wrds_2",
+		"/home/adam/c/wrds/lib",
+		"/home/adam/c/wrds",
+		"/home/adam/c/cli/wrds",
+		"/home/adam/c/labs/ruby-variable-assignment-online-web-sp-000",
+		"/home/adam/c/labs/css-grid-lab-online-web-sp-000",
+		"/home/adam/c/design_patterns_in_ruby_code",
+		"/home/adam/c/word"
+	],
+	"last_version": 4113,
+	"last_window_id": 195,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 600.0,
+		"new_window_maximized": true,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"split",
+						"splitv"
+					],
+					[
+						"w",
+						"w"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"haml",
+						"Set Syntax: Ruby Haml"
+					],
+					[
+						"",
+						"ANF: New File"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"package control",
+						"Package Control: Install Package"
+					],
+					[
+						"package control add",
+						"Package Control: Add Channel"
+					],
+					[
+						"packagin",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 124.0,
+				"history":
+				[
+					"cd ~\nsublime",
+					"exit",
+					"cd ~",
+					"cd !",
+					"help",
+					"?",
+					"whoami",
+					"fish",
+					"exit",
+					"ruby",
+					"class API",
+					"require 'blanket'",
+					"exit",
+					"irb",
+					"require blanket",
+					"require 'blanket'",
+					"pry",
+					"shell",
+					"fish"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/adam/c/code/rails/to/app/controllers/users_controller.rb",
+				"/home/adam/c/code/rails/to/app/models/user.rb",
+				"/home/adam/c/code/rails/co/app/views/layouts/navigation/_pages.html.erb",
+				"/home/adam/c/code/rails/my/app/views/welcome/index.html.erb",
+				"/home/adam/c/code/rails/my/config/routes.rb",
+				"/home/adam/c/code/rails/my/Gemfile",
+				"/home/adam/c/code/rails/my/config/environments/development.rb",
+				"/home/adam/c/code/rails/my/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/my/db/migrate/20211014114105_devise_create_users.rb",
+				"/home/adam/c/code/rails/to/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/to/Gemfile",
+				"/home/adam/c/code/rails/to/config/environments/development.rb",
+				"/home/adam/c/code/rails/to/config/routes.rb",
+				"/home/adam/c/code/rails/to/app/views/layouts/_navigation.html.erb",
+				"/home/adam/c/code/rails/reference/rails_6_devise_example/app/views/users/unlocks/new.html.erb",
+				"/home/adam/c/code/rails/reference/rails_6_devise_example/app/views/application/home.html.erb",
+				"/home/adam/c/code/rails/to/app/views/pages/index.html.erb",
+				"/home/adam/c/code/rails/c/config/routes.rb",
+				"/home/adam/c/code/rails/c/app/views/pages/index.html.erb",
+				"/home/adam/c/code/rails/c/app/assets/stylesheets/application.scss",
+				"/home/adam/c/code/rails/c/app/javascript/application.js",
+				"/home/adam/c/code/rails/c/app/views/layouts/_navigation.html.erb",
+				"/home/adam/c/code/rails/c/app/assets/stylesheets/partials/layout/navigation.scss",
+				"/home/adam/c/code/rails/c/Gemfile",
+				"/home/adam/c/code/rails/c/config/environments/development.rb",
+				"/home/adam/c/code/rails/c/app/assets/stylesheets/base/variables.scss",
+				"/home/adam/c/code/rails/c/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/to/db/migrate/20211012132740_add_fields_to_user.rb",
+				"/home/adam/c/code/rails/to/app/views/notes/show.html.erb",
+				"/home/adam/c/code/rails/to/app/controllers/notes_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/registrations_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/bookmarks_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/contacts_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/lists_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/pages_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/posts_controller.rb",
+				"/home/adam/c/code/rails/co/app/controllers/users_controller.rb",
+				"/home/adam/c/code/rails/co/app/controllers/sessions_controller.rb",
+				"/home/adam/c/code/rails/co/app/views/users/new.html.erb",
+				"/home/adam/c/code/rails/co/app/views/sessions/new.html.erb",
+				"/home/adam/c/code/rails/co/app/controllers/application_controller.rb",
+				"/home/adam/c/code/rails/co/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/co/app/views/users/show.html.erb",
+				"/home/adam/c/code/rails/so_/app/assets/stylesheets/application.scss",
+				"/home/adam/c/code/rails/so_/Gemfile",
+				"/home/adam/c/code/rails/so_/app/javascript/packs/application.js",
+				"/home/adam/c/code/rails/so_/app/views/layouts/_navigation.html.erb",
+				"/home/adam/c/code/rails/so_/config/environments/development.rb",
+				"/home/adam/c/code/rails/so_/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/so_/app/views/pages/index.html.erb",
+				"/home/adam/c/code/rails/so_/app/controllers/pages_controller.rb",
+				"/home/adam/c/code/rails/so_/app/helpers/application_helper.rb",
+				"/home/adam/c/code/rails/so_/config/routes.rb",
+				"/home/adam/c/code/rails/so_/app/views/devise/sessions/new.html.erb",
+				"/home/adam/c/code/rails/so_/app/views/pages/about.html.erb",
+				"/home/adam/c/code/rails/so_/app/views/pages/contact.html.erb",
+				"/home/adam/c/code/rails/so_/db/migrate/20211011180755_devise_create_users.rb",
+				"/home/adam/c/code/rails/co/app/assets/stylesheets/application.scss",
+				"/home/adam/c/code/rails/co/Gemfile",
+				"/home/adam/c/code/rails/co/app/javascript/packs/application.js",
+				"/home/adam/c/code/rails/co/config/routes.rb",
+				"/home/adam/c/code/rails/co/app/models/user.rb",
+				"/home/adam/c/code/rails/co/app/views/layouts/_navigation.html.erb",
+				"/home/adam/c/code/rails/co/config/initializers/devise.rb",
+				"/home/adam/c/code/rails/co/config/environments/development.rb",
+				"/home/adam/c/code/rails/co/app/controllers/pages_controller.rb",
+				"/home/adam/c/code/rails/co/app/views/pages/index.html.erb",
+				"/home/adam/c/code/rails/co/app/javascript/application.js",
+				"/home/adam/c/code/rails/notes/Gemfile.lock",
+				"/home/adam/c/code/rails/notes/config.ru",
+				"/home/adam/c/code/rails/taski/app/views/pages/home.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/taski/config/routes.rb",
+				"/home/adam/c/code/rails/taski/app/controllers/projects_controller.rb",
+				"/home/adam/c/code/rails/taski/app/views/pages/about.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/shared/_projects.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/shared/_headers.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/layouts/_headers.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/pages/errors.html.erb",
+				"/home/adam/c/code/rails/taski/app/controllers/pages_controller.rb",
+				"/home/adam/c/code/rails/ozone/app/assets/stylesheets/application.css",
+				"/home/adam/c/code/rails/co/db/migrate/user.rb",
+				"/home/adam/c/code/rails/co/app/views/layouts/_header.html.erb",
+				"/home/adam/c/code/rails/co/app/views/layouts/_alerts.html.erb",
+				"/home/adam/c/code/rails/co/app/views/people/_form.html.erb",
+				"/home/adam/c/code/rails/co/app/views/people/index.html.erb",
+				"/home/adam/c/code/rails/co/app/views/people/show.html.erb",
+				"/home/adam/d/bootstrap-5.0.2-examples/grid/index.html",
+				"/home/adam/c/code/rails/co/db/migrate/user_controller.rb",
+				"/home/adam/c/code/rails/portfolio/db/schema.rb",
+				"/home/adam/c/code/rails/portfolio/app/controllers/posts_controller.rb",
+				"/home/adam/c/code/rails/portfolio/app/controllers/projects_controller.rb",
+				"/home/adam/c/code/rails/portfolio/db/seeds.rb",
+				"/home/adam/c/code/rails/portfolio/db/migrate/20211006202141_add_status_to_posts.rb",
+				"/home/adam/c/code/rails/portfolio/app/models/post.rb",
+				"/home/adam/c/code/rails/portfolio/app/models/topic.rb",
+				"/home/adam/c/code/rails/portfolio/db/migrate/20211006220813_add_topic_reference_to_posts.rb",
+				"/home/adam/c/code/rails/portfolio/app/models/skill.rb",
+				"/home/adam/c/code/rails/portfolio/app/models/project.rb",
+				"/home/adam/c/code/rails/portfolio/app/views/skills/index.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/show.html.erb",
+				"/home/adam/c/code/rails/portfolio/config/routes.rb",
+				"/home/adam/c/code/rails/portfolio/app/views/projects/index.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/index.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/skills/show.html.erb",
+				"/home/adam/c/code/rails/portfolio/db/migrate/20211006175925_create_skills.rb",
+				"/home/adam/c/code/rails/portfolio/Gemfile",
+				"/home/adam/c/code/rails/portfolio/app/views/projects/new.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/assets/stylesheets/posts.scss",
+				"/home/adam/c/code/rails/portfolio/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/edit.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/new.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/_form.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/skills/_form.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/projects/_form.html.erb",
+				"/home/adam/c/code/rails/portfolio/db/posts_edit_form.rb",
+				"/home/adam/c/code/rails/portfolio/app/helpers/posts_helper.rb",
+				"/home/adam/c/code/rails/portfolio/app/assets/stylesheets/application.css",
+				"/home/adam/c/code/rails/portfolio/app/views/layouts/_navbar.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/projects/show.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/forms/posts_new_form.rb",
+				"/home/adam/c/code/rails/portfolio/app/assets/stylesheets/skills.scss",
+				"/home/adam/c/code/rails/portfolio/app/assets/stylesheets/projects.scss",
+				"/home/adam/c/code/rails/portfolio/app/javascript/packs/application.js",
+				"/home/adam/c/code/rails/portfolio/20211005045055_create_blogs.rb",
+				"/home/adam/c/code/rails/portfolio/app/javascript/channels/index.js",
+				"/home/adam/c/code/rails/portfolio/config/application.rb",
+				"/home/adam/c/code/rails/portfolio/config/webpack/environment.js"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 175.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 61.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 168.0
+			},
+			"output.exec":
+			{
+				"height": 108.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 30.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"ozone/app/javascript/packs/application.js"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 253.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 800.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"split",
+						"splitv"
+					],
+					[
+						"w",
+						"w"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"haml",
+						"Set Syntax: Ruby Haml"
+					],
+					[
+						"",
+						"ANF: New File"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"package control",
+						"Package Control: Install Package"
+					],
+					[
+						"package control add",
+						"Package Control: Add Channel"
+					],
+					[
+						"packagin",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 124.0,
+				"history":
+				[
+					"cd ~\nsublime",
+					"exit",
+					"cd ~",
+					"cd !",
+					"help",
+					"?",
+					"whoami",
+					"fish",
+					"exit",
+					"ruby",
+					"class API",
+					"require 'blanket'",
+					"exit",
+					"irb",
+					"require blanket",
+					"require 'blanket'",
+					"pry",
+					"shell",
+					"fish"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/adam/c/code/rails/to",
+				"/home/adam/c/code/rails/to/app",
+				"/home/adam/c/code/rails/to/app/controllers",
+				"/home/adam/c/code/rails/to/app/models",
+				"/home/adam/c/code/rails/to/app/views",
+				"/home/adam/c/code/rails/to/app/views/users",
+				"/home/adam/c/code/rails/to/app/views/users/registrations",
+				"/home/adam/c/code/rails/to/db",
+				"/home/adam/c/code/rails/to/db/migrate"
+			],
+			"file_history":
+			[
+				"/home/adam/c/code/rails/to/app/controllers/users_controller.rb",
+				"/home/adam/c/code/rails/to/app/models/user.rb",
+				"/home/adam/c/code/rails/co/app/views/layouts/navigation/_pages.html.erb",
+				"/home/adam/c/code/rails/my/app/views/welcome/index.html.erb",
+				"/home/adam/c/code/rails/my/config/routes.rb",
+				"/home/adam/c/code/rails/my/Gemfile",
+				"/home/adam/c/code/rails/my/config/environments/development.rb",
+				"/home/adam/c/code/rails/my/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/my/db/migrate/20211014114105_devise_create_users.rb",
+				"/home/adam/c/code/rails/to/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/to/Gemfile",
+				"/home/adam/c/code/rails/to/config/environments/development.rb",
+				"/home/adam/c/code/rails/to/config/routes.rb",
+				"/home/adam/c/code/rails/to/app/views/layouts/_navigation.html.erb",
+				"/home/adam/c/code/rails/reference/rails_6_devise_example/app/views/users/unlocks/new.html.erb",
+				"/home/adam/c/code/rails/reference/rails_6_devise_example/app/views/application/home.html.erb",
+				"/home/adam/c/code/rails/to/app/views/pages/index.html.erb",
+				"/home/adam/c/code/rails/c/config/routes.rb",
+				"/home/adam/c/code/rails/c/app/views/pages/index.html.erb",
+				"/home/adam/c/code/rails/c/app/assets/stylesheets/application.scss",
+				"/home/adam/c/code/rails/c/app/javascript/application.js",
+				"/home/adam/c/code/rails/c/app/views/layouts/_navigation.html.erb",
+				"/home/adam/c/code/rails/c/app/assets/stylesheets/partials/layout/navigation.scss",
+				"/home/adam/c/code/rails/c/Gemfile",
+				"/home/adam/c/code/rails/c/config/environments/development.rb",
+				"/home/adam/c/code/rails/c/app/assets/stylesheets/base/variables.scss",
+				"/home/adam/c/code/rails/c/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/to/db/migrate/20211012132740_add_fields_to_user.rb",
+				"/home/adam/c/code/rails/to/app/views/notes/show.html.erb",
+				"/home/adam/c/code/rails/to/app/controllers/notes_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/registrations_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/bookmarks_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/contacts_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/lists_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/pages_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/posts_controller.rb",
+				"/home/adam/c/code/rails/co/app/controllers/users_controller.rb",
+				"/home/adam/c/code/rails/co/app/controllers/sessions_controller.rb",
+				"/home/adam/c/code/rails/co/app/views/users/new.html.erb",
+				"/home/adam/c/code/rails/co/app/views/sessions/new.html.erb",
+				"/home/adam/c/code/rails/co/app/controllers/application_controller.rb",
+				"/home/adam/c/code/rails/co/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/co/app/views/users/show.html.erb",
+				"/home/adam/c/code/rails/so_/app/assets/stylesheets/application.scss",
+				"/home/adam/c/code/rails/so_/Gemfile",
+				"/home/adam/c/code/rails/so_/app/javascript/packs/application.js",
+				"/home/adam/c/code/rails/so_/app/views/layouts/_navigation.html.erb",
+				"/home/adam/c/code/rails/so_/config/environments/development.rb",
+				"/home/adam/c/code/rails/so_/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/so_/app/views/pages/index.html.erb",
+				"/home/adam/c/code/rails/so_/app/controllers/pages_controller.rb",
+				"/home/adam/c/code/rails/so_/app/helpers/application_helper.rb",
+				"/home/adam/c/code/rails/so_/config/routes.rb",
+				"/home/adam/c/code/rails/so_/app/views/devise/sessions/new.html.erb",
+				"/home/adam/c/code/rails/so_/app/views/pages/about.html.erb",
+				"/home/adam/c/code/rails/so_/app/views/pages/contact.html.erb",
+				"/home/adam/c/code/rails/so_/db/migrate/20211011180755_devise_create_users.rb",
+				"/home/adam/c/code/rails/co/app/assets/stylesheets/application.scss",
+				"/home/adam/c/code/rails/co/Gemfile",
+				"/home/adam/c/code/rails/co/app/javascript/packs/application.js",
+				"/home/adam/c/code/rails/co/config/routes.rb",
+				"/home/adam/c/code/rails/co/app/models/user.rb",
+				"/home/adam/c/code/rails/co/app/views/layouts/_navigation.html.erb",
+				"/home/adam/c/code/rails/co/config/initializers/devise.rb",
+				"/home/adam/c/code/rails/co/config/environments/development.rb",
+				"/home/adam/c/code/rails/co/app/controllers/pages_controller.rb",
+				"/home/adam/c/code/rails/co/app/views/pages/index.html.erb",
+				"/home/adam/c/code/rails/co/app/javascript/application.js",
+				"/home/adam/c/code/rails/notes/Gemfile.lock",
+				"/home/adam/c/code/rails/notes/config.ru",
+				"/home/adam/c/code/rails/taski/app/views/pages/home.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/taski/config/routes.rb",
+				"/home/adam/c/code/rails/taski/app/controllers/projects_controller.rb",
+				"/home/adam/c/code/rails/taski/app/views/pages/about.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/shared/_projects.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/shared/_headers.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/layouts/_headers.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/pages/errors.html.erb",
+				"/home/adam/c/code/rails/taski/app/controllers/pages_controller.rb",
+				"/home/adam/c/code/rails/ozone/app/assets/stylesheets/application.css",
+				"/home/adam/c/code/rails/co/db/migrate/user.rb",
+				"/home/adam/c/code/rails/co/app/views/layouts/_header.html.erb",
+				"/home/adam/c/code/rails/co/app/views/layouts/_alerts.html.erb",
+				"/home/adam/c/code/rails/co/app/views/people/_form.html.erb",
+				"/home/adam/c/code/rails/co/app/views/people/index.html.erb",
+				"/home/adam/c/code/rails/co/app/views/people/show.html.erb",
+				"/home/adam/d/bootstrap-5.0.2-examples/grid/index.html",
+				"/home/adam/c/code/rails/co/db/migrate/user_controller.rb",
+				"/home/adam/c/code/rails/portfolio/db/schema.rb",
+				"/home/adam/c/code/rails/portfolio/app/controllers/posts_controller.rb",
+				"/home/adam/c/code/rails/portfolio/app/controllers/projects_controller.rb",
+				"/home/adam/c/code/rails/portfolio/db/seeds.rb",
+				"/home/adam/c/code/rails/portfolio/db/migrate/20211006202141_add_status_to_posts.rb",
+				"/home/adam/c/code/rails/portfolio/app/models/post.rb",
+				"/home/adam/c/code/rails/portfolio/app/models/topic.rb",
+				"/home/adam/c/code/rails/portfolio/db/migrate/20211006220813_add_topic_reference_to_posts.rb",
+				"/home/adam/c/code/rails/portfolio/app/models/skill.rb",
+				"/home/adam/c/code/rails/portfolio/app/models/project.rb",
+				"/home/adam/c/code/rails/portfolio/app/views/skills/index.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/show.html.erb",
+				"/home/adam/c/code/rails/portfolio/config/routes.rb",
+				"/home/adam/c/code/rails/portfolio/app/views/projects/index.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/index.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/skills/show.html.erb",
+				"/home/adam/c/code/rails/portfolio/db/migrate/20211006175925_create_skills.rb",
+				"/home/adam/c/code/rails/portfolio/Gemfile",
+				"/home/adam/c/code/rails/portfolio/app/views/projects/new.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/assets/stylesheets/posts.scss",
+				"/home/adam/c/code/rails/portfolio/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/edit.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/new.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/_form.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/skills/_form.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/projects/_form.html.erb",
+				"/home/adam/c/code/rails/portfolio/db/posts_edit_form.rb",
+				"/home/adam/c/code/rails/portfolio/app/helpers/posts_helper.rb",
+				"/home/adam/c/code/rails/portfolio/app/assets/stylesheets/application.css",
+				"/home/adam/c/code/rails/portfolio/app/views/layouts/_navbar.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/projects/show.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/forms/posts_new_form.rb",
+				"/home/adam/c/code/rails/portfolio/app/assets/stylesheets/skills.scss",
+				"/home/adam/c/code/rails/portfolio/app/assets/stylesheets/projects.scss",
+				"/home/adam/c/code/rails/portfolio/app/javascript/packs/application.js",
+				"/home/adam/c/code/rails/portfolio/20211005045055_create_blogs.rb",
+				"/home/adam/c/code/rails/portfolio/app/javascript/channels/index.js",
+				"/home/adam/c/code/rails/portfolio/config/application.rb",
+				"/home/adam/c/code/rails/portfolio/config/webpack/environment.js"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 175.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/adam/c/code/rails/to"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 61.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 168.0
+			},
+			"output.exec":
+			{
+				"height": 108.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 30.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,800,600,3840,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"ozone/app/javascript/packs/application.js"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 253.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 195,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/adam/ozone.sublime-workspace",
+			"/home/adam/c/code/rails/co/db/migrate/co.sublime-workspace",
+			"/home/adam/c/code/rails/auth/config/auth.sublime-workspace",
+			"/home/adam/c/code/rails/co.sublime-workspace"
+		]
+	}
+}

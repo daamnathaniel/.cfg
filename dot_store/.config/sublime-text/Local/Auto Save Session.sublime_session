@@ -1,0 +1,3879 @@
+{
+	"folder_history":
+	[
+		"/home/adam/c/code/rails/b",
+		"/home/adam/c/code/rails/make",
+		"/home/adam/c/code/rails/to",
+		"/home/adam/c/code/rails/co",
+		"/home/adam/c/code/rails/My",
+		"/home/adam/c/code/rails/my",
+		"/home/adam/c/code/rails/this",
+		"/home/adam/c/code/rails",
+		"/home/adam/c/code/rails/collabfield",
+		"/home/adam/c/code/rails/c",
+		"/home/adam/c/code/rails/__friends",
+		"/home/adam/c/code/rails/so_",
+		"/home/adam/c/code/rails/so",
+		"/home/adam/c/code/rails/posts",
+		"/home/adam/c/code/rails/notes",
+		"/home/adam/c/code/rails/todo",
+		"/home/adam/c/code/rails/ozone",
+		"/home/adam/c/code/rails/taski",
+		"/home/adam/c/code/rails/ozone/app",
+		"/home/adam/c/code/rails/ozone/db",
+		"/home/adam/c/code/rails/auth",
+		"/home/adam/c/code/rails/co/db",
+		"/home/adam/c/code/rails/co/app",
+		"/home/adam/c/code/rails/co/config",
+		"/home/adam/c/code/rails/na",
+		"/home/adam/c/code/rails/pad",
+		"/home/adam/c/code/rails/Pad",
+		"/home/adam/c/code/rails/portfolio",
+		"/home/adam/c/code/Portfolio",
+		"/home/adam/c/code/rails/friends",
+		"/home/adam/c/code/rails/_co",
+		"/home/adam/c/code/rails/mo",
+		"/home/adam/c/code/rails/lo",
+		"/home/adam/c/code/rails/books",
+		"/home/adam/c/code/rails/files",
+		"/home/adam/c/code/rails/co/app/views",
+		"/home/adam/c/code/rails/co/app/models",
+		"/home/adam/c/code/rails/co/app/assets",
+		"/home/adam/c/code/rails/co/app/controllers",
+		"/home/adam/c/code/rails/devise_gem",
+		"/home/adam/c/code/rails/rails_session",
+		"/home/adam/c/code/rails/friends/Friends",
+		"/home/adam/c/code/rails/Lists",
+		"/home/adam/c/code/rails/sheet",
+		"/home/adam/c/code/rails/box",
+		"/home/adam/c/code/rails/lists",
+		"/home/adam/c/code/rails/cheats",
+		"/home/adam/c/code/rails/dots",
+		"/home/adam/c/code/rails/library",
+		"/home/adam/c/code/sinatra/lists",
+		"/home/adam/c/code/sinatra/list",
+		"/home/adam/development/code/sinatra/sinatra-haml-bootstrap-fluid",
+		"/home/adam/development/code/sinatra/starter_bootstrap",
+		"/home/adam/development/code/sinatra/sheets",
+		"/home/adam/development/code/sinatra/lists",
+		"/home/adam/development/code/sinatra/cheats",
+		"/home/adam/development/code/sinatra/Sinatra_Bike_Shop",
+		"/home/adam/development/code/sinatra/sinatra-project-example-with-tutorial",
+		"/home/adam/development/code/sinatra/cheats/app",
+		"/home/adam/development/code/rails/overtime",
+		"/home/adam/development/code/sinatra/groups",
+		"/home/adam/development/code/sinatra-bootstrap",
+		"/home/adam/.config/sway",
+		"/home/adam",
+		"/home/adam/development/code/sinatra/lsls",
+		"/home/adam/development/code/sinatra/lists_",
+		"/home/adam/development/code/sinatra/_lists",
+		"/home/adam/development/code/rails/blog",
+		"/home/adam/development/code/rails/relations",
+		"/home/adam/development/code/sinatra",
+		"/home/adam/development/code/rails/simple_session",
+		"/home/adam/development/code/sinatra/dots",
+		"/home/adam/Developement/code/sinatra/lists",
+		"/home/adam/Developement/code/CLI/words",
+		"/home/adam/Developement/code/CLI/words/lib/words",
+		"/home/adam/Developement/code/CLI/words/lib",
+		"/home/adam/c/CLI/cliapi",
+		"/home/adam/.config/i3blocks/scripts",
+		"/home/adam/c/CLI/wrds",
+		"/home/adam/Downloads/dotfiles-sway-master/.config/sway",
+		"/home/adam/c/reference",
+		"/home/adam/c/CLI/__wrds",
+		"/home/adam/c/CLI/words",
+		"/home/adam/c/worlds-best-restaurants-cli-gem/lib/wrds",
+		"/home/adam/c/labs/ruby-music-library-cli-online-web-sp-000",
+		"/home/adam/c/CLI/wrds_2",
+		"/home/adam/c/wrds/lib",
+		"/home/adam/c/wrds",
+		"/home/adam/c/cli/wrds",
+		"/home/adam/c/labs/ruby-variable-assignment-online-web-sp-000",
+		"/home/adam/c/labs/css-grid-lab-online-web-sp-000",
+		"/home/adam/c/design_patterns_in_ruby_code",
+		"/home/adam/c/word"
+	],
+	"last_version": 4113,
+	"last_window_id": 197,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 600.0,
+		"new_window_maximized": true,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"split",
+						"splitv"
+					],
+					[
+						"w",
+						"w"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"haml",
+						"Set Syntax: Ruby Haml"
+					],
+					[
+						"",
+						"ANF: New File"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"package control",
+						"Package Control: Install Package"
+					],
+					[
+						"package control add",
+						"Package Control: Add Channel"
+					],
+					[
+						"packagin",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 124.0,
+				"history":
+				[
+					"cd ~\nsublime",
+					"exit",
+					"cd ~",
+					"cd !",
+					"help",
+					"?",
+					"whoami",
+					"fish",
+					"exit",
+					"ruby",
+					"class API",
+					"require 'blanket'",
+					"exit",
+					"irb",
+					"require blanket",
+					"require 'blanket'",
+					"pry",
+					"shell",
+					"fish"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/adam/c/code/rails/to/app/controllers/users_controller.rb",
+				"/home/adam/c/code/rails/to/app/models/user.rb",
+				"/home/adam/c/code/rails/co/app/views/layouts/navigation/_pages.html.erb",
+				"/home/adam/c/code/rails/my/app/views/welcome/index.html.erb",
+				"/home/adam/c/code/rails/my/config/routes.rb",
+				"/home/adam/c/code/rails/my/Gemfile",
+				"/home/adam/c/code/rails/my/config/environments/development.rb",
+				"/home/adam/c/code/rails/my/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/my/db/migrate/20211014114105_devise_create_users.rb",
+				"/home/adam/c/code/rails/to/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/to/Gemfile",
+				"/home/adam/c/code/rails/to/config/environments/development.rb",
+				"/home/adam/c/code/rails/to/config/routes.rb",
+				"/home/adam/c/code/rails/to/app/views/layouts/_navigation.html.erb",
+				"/home/adam/c/code/rails/reference/rails_6_devise_example/app/views/users/unlocks/new.html.erb",
+				"/home/adam/c/code/rails/reference/rails_6_devise_example/app/views/application/home.html.erb",
+				"/home/adam/c/code/rails/to/app/views/pages/index.html.erb",
+				"/home/adam/c/code/rails/c/config/routes.rb",
+				"/home/adam/c/code/rails/c/app/views/pages/index.html.erb",
+				"/home/adam/c/code/rails/c/app/assets/stylesheets/application.scss",
+				"/home/adam/c/code/rails/c/app/javascript/application.js",
+				"/home/adam/c/code/rails/c/app/views/layouts/_navigation.html.erb",
+				"/home/adam/c/code/rails/c/app/assets/stylesheets/partials/layout/navigation.scss",
+				"/home/adam/c/code/rails/c/Gemfile",
+				"/home/adam/c/code/rails/c/config/environments/development.rb",
+				"/home/adam/c/code/rails/c/app/assets/stylesheets/base/variables.scss",
+				"/home/adam/c/code/rails/c/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/to/db/migrate/20211012132740_add_fields_to_user.rb",
+				"/home/adam/c/code/rails/to/app/views/notes/show.html.erb",
+				"/home/adam/c/code/rails/to/app/controllers/notes_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/registrations_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/bookmarks_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/contacts_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/lists_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/pages_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/posts_controller.rb",
+				"/home/adam/c/code/rails/co/app/controllers/users_controller.rb",
+				"/home/adam/c/code/rails/co/app/controllers/sessions_controller.rb",
+				"/home/adam/c/code/rails/co/app/views/users/new.html.erb",
+				"/home/adam/c/code/rails/co/app/views/sessions/new.html.erb",
+				"/home/adam/c/code/rails/co/app/controllers/application_controller.rb",
+				"/home/adam/c/code/rails/co/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/co/app/views/users/show.html.erb",
+				"/home/adam/c/code/rails/so_/app/assets/stylesheets/application.scss",
+				"/home/adam/c/code/rails/so_/Gemfile",
+				"/home/adam/c/code/rails/so_/app/javascript/packs/application.js",
+				"/home/adam/c/code/rails/so_/app/views/layouts/_navigation.html.erb",
+				"/home/adam/c/code/rails/so_/config/environments/development.rb",
+				"/home/adam/c/code/rails/so_/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/so_/app/views/pages/index.html.erb",
+				"/home/adam/c/code/rails/so_/app/controllers/pages_controller.rb",
+				"/home/adam/c/code/rails/so_/app/helpers/application_helper.rb",
+				"/home/adam/c/code/rails/so_/config/routes.rb",
+				"/home/adam/c/code/rails/so_/app/views/devise/sessions/new.html.erb",
+				"/home/adam/c/code/rails/so_/app/views/pages/about.html.erb",
+				"/home/adam/c/code/rails/so_/app/views/pages/contact.html.erb",
+				"/home/adam/c/code/rails/so_/db/migrate/20211011180755_devise_create_users.rb",
+				"/home/adam/c/code/rails/co/app/assets/stylesheets/application.scss",
+				"/home/adam/c/code/rails/co/Gemfile",
+				"/home/adam/c/code/rails/co/app/javascript/packs/application.js",
+				"/home/adam/c/code/rails/co/config/routes.rb",
+				"/home/adam/c/code/rails/co/app/models/user.rb",
+				"/home/adam/c/code/rails/co/app/views/layouts/_navigation.html.erb",
+				"/home/adam/c/code/rails/co/config/initializers/devise.rb",
+				"/home/adam/c/code/rails/co/config/environments/development.rb",
+				"/home/adam/c/code/rails/co/app/controllers/pages_controller.rb",
+				"/home/adam/c/code/rails/co/app/views/pages/index.html.erb",
+				"/home/adam/c/code/rails/co/app/javascript/application.js",
+				"/home/adam/c/code/rails/notes/Gemfile.lock",
+				"/home/adam/c/code/rails/notes/config.ru",
+				"/home/adam/c/code/rails/taski/app/views/pages/home.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/taski/config/routes.rb",
+				"/home/adam/c/code/rails/taski/app/controllers/projects_controller.rb",
+				"/home/adam/c/code/rails/taski/app/views/pages/about.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/shared/_projects.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/shared/_headers.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/layouts/_headers.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/pages/errors.html.erb",
+				"/home/adam/c/code/rails/taski/app/controllers/pages_controller.rb",
+				"/home/adam/c/code/rails/ozone/app/assets/stylesheets/application.css",
+				"/home/adam/c/code/rails/co/db/migrate/user.rb",
+				"/home/adam/c/code/rails/co/app/views/layouts/_header.html.erb",
+				"/home/adam/c/code/rails/co/app/views/layouts/_alerts.html.erb",
+				"/home/adam/c/code/rails/co/app/views/people/_form.html.erb",
+				"/home/adam/c/code/rails/co/app/views/people/index.html.erb",
+				"/home/adam/c/code/rails/co/app/views/people/show.html.erb",
+				"/home/adam/d/bootstrap-5.0.2-examples/grid/index.html",
+				"/home/adam/c/code/rails/co/db/migrate/user_controller.rb",
+				"/home/adam/c/code/rails/portfolio/db/schema.rb",
+				"/home/adam/c/code/rails/portfolio/app/controllers/posts_controller.rb",
+				"/home/adam/c/code/rails/portfolio/app/controllers/projects_controller.rb",
+				"/home/adam/c/code/rails/portfolio/db/seeds.rb",
+				"/home/adam/c/code/rails/portfolio/db/migrate/20211006202141_add_status_to_posts.rb",
+				"/home/adam/c/code/rails/portfolio/app/models/post.rb",
+				"/home/adam/c/code/rails/portfolio/app/models/topic.rb",
+				"/home/adam/c/code/rails/portfolio/db/migrate/20211006220813_add_topic_reference_to_posts.rb",
+				"/home/adam/c/code/rails/portfolio/app/models/skill.rb",
+				"/home/adam/c/code/rails/portfolio/app/models/project.rb",
+				"/home/adam/c/code/rails/portfolio/app/views/skills/index.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/show.html.erb",
+				"/home/adam/c/code/rails/portfolio/config/routes.rb",
+				"/home/adam/c/code/rails/portfolio/app/views/projects/index.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/index.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/skills/show.html.erb",
+				"/home/adam/c/code/rails/portfolio/db/migrate/20211006175925_create_skills.rb",
+				"/home/adam/c/code/rails/portfolio/Gemfile",
+				"/home/adam/c/code/rails/portfolio/app/views/projects/new.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/assets/stylesheets/posts.scss",
+				"/home/adam/c/code/rails/portfolio/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/edit.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/new.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/_form.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/skills/_form.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/projects/_form.html.erb",
+				"/home/adam/c/code/rails/portfolio/db/posts_edit_form.rb",
+				"/home/adam/c/code/rails/portfolio/app/helpers/posts_helper.rb",
+				"/home/adam/c/code/rails/portfolio/app/assets/stylesheets/application.css",
+				"/home/adam/c/code/rails/portfolio/app/views/layouts/_navbar.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/projects/show.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/forms/posts_new_form.rb",
+				"/home/adam/c/code/rails/portfolio/app/assets/stylesheets/skills.scss",
+				"/home/adam/c/code/rails/portfolio/app/assets/stylesheets/projects.scss",
+				"/home/adam/c/code/rails/portfolio/app/javascript/packs/application.js",
+				"/home/adam/c/code/rails/portfolio/20211005045055_create_blogs.rb",
+				"/home/adam/c/code/rails/portfolio/app/javascript/channels/index.js",
+				"/home/adam/c/code/rails/portfolio/config/application.rb",
+				"/home/adam/c/code/rails/portfolio/config/webpack/environment.js"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 175.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 61.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 168.0
+			},
+			"output.exec":
+			{
+				"height": 108.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 30.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"ozone/app/javascript/packs/application.js"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 253.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 800.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"split",
+						"splitv"
+					],
+					[
+						"w",
+						"w"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/adam/c/code/rails/make/app/views/pages/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 73,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": "\n\n\n<"
+							},
+							"BAAAAEYAAAAAAAAARwAAAAAAAAAAAAAARwAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEkAAAAAAAAAAAAAAEkAAAAAAAAASgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAARgAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": "%="
+							},
+							"AgAAAEoAAAAAAAAASwAAAAAAAAAAAAAASwAAAAAAAABMAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAASgAAAAAAAABKAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							1,
+							"insert",
+							{
+								"characters": " link_to"
+							},
+							"CAAAAEwAAAAAAAAATQAAAAAAAAAAAAAATQAAAAAAAABOAAAAAAAAAAAAAABOAAAAAAAAAE8AAAAAAAAAAAAAAE8AAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABRAAAAAAAAAAAAAABRAAAAAAAAAFIAAAAAAAAAAAAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABUAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAATAAAAAAAAABMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							8,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAFQAAAAAAAAAVQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAVAAAAAAAAABUAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"insert_snippet",
+							{
+								"contents": "'$0'"
+							},
+							"AQAAAFUAAAAAAAAAVwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAVQAAAAAAAABVAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							11,
+							1,
+							"insert",
+							{
+								"characters": "user"
+							},
+							"BAAAAFYAAAAAAAAAVwAAAAAAAAAAAAAAVwAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFkAAAAAAAAAAAAAAFkAAAAAAAAAWgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAVgAAAAAAAABWAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							4,
+							"left_delete",
+							null,
+							"BAAAAFkAAAAAAAAAWQAAAAAAAAABAAAAclgAAAAAAAAAWAAAAAAAAAABAAAAZVcAAAAAAAAAVwAAAAAAAAABAAAAc1YAAAAAAAAAVgAAAAAAAAABAAAAdQ",
+							"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							13,
+							1,
+							"insert",
+							{
+								"characters": "edit"
+							},
+							"BAAAAFYAAAAAAAAAVwAAAAAAAAAAAAAAVwAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFkAAAAAAAAAAAAAAFkAAAAAAAAAWgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAVgAAAAAAAABWAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							14,
+							1,
+							"insert",
+							{
+								"characters": " user"
+							},
+							"BQAAAFoAAAAAAAAAWwAAAAAAAAAAAAAAWwAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAF0AAAAAAAAAAAAAAF0AAAAAAAAAXgAAAAAAAAAAAAAAXgAAAAAAAABfAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							16,
+							1,
+							"insert",
+							{
+								"characters": ","
+							},
+							"AQAAAGAAAAAAAAAAYQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							17,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAGEAAAAAAAAAYgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYQAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							18,
+							1,
+							"insert_snippet",
+							{
+								"contents": "[$0]"
+							},
+							"AQAAAGIAAAAAAAAAZAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"insert",
+							{
+								"characters": ":edit"
+							},
+							"BQAAAGMAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABlAAAAAAAAAAAAAABlAAAAAAAAAGYAAAAAAAAAAAAAAGYAAAAAAAAAZwAAAAAAAAAAAAAAZwAAAAAAAABoAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYwAAAAAAAABjAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							20,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAGgAAAAAAAAAaQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAaAAAAAAAAABoAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							22,
+							1,
+							"left_delete",
+							null,
+							"AQAAAGgAAAAAAAAAaAAAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAAaQAAAAAAAABpAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"insert",
+							{
+								"characters": ","
+							},
+							"AQAAAGgAAAAAAAAAaQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAaAAAAAAAAABoAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							25,
+							1,
+							"insert",
+							{
+								"characters": " @user"
+							},
+							"BgAAAGkAAAAAAAAAagAAAAAAAAAAAAAAagAAAAAAAABrAAAAAAAAAAAAAABrAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAbQAAAAAAAAAAAAAAbQAAAAAAAABuAAAAAAAAAAAAAABuAAAAAAAAAG8AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAaQAAAAAAAABpAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							28,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAHAAAAAAAAAAcQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAcAAAAAAAAABwAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							30,
+							1,
+							"insert",
+							{
+								"characters": "%>"
+							},
+							"AgAAAHEAAAAAAAAAcgAAAAAAAAAAAAAAcgAAAAAAAABzAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAcQAAAAAAAABxAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							33,
+							1,
+							"ensure_newline_at_eof",
+							null,
+							"AQAAAHMAAAAAAAAAdAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAcwAAAAAAAABzAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							41,
+							1,
+							"cut",
+							null,
+							"AQAAAEkAAAAAAAAASQAAAAAAAAArAAAAPCU9IGxpbmtfdG8gJ2VkaXQgdXNlcicsIFs6ZWRpdCwgQHVzZXJdICU+Cg",
+							"AQAAAAAAAAABAAAASQAAAAAAAAB0AAAAAAAAAAAAAAAAAAAA"
+						]
+					]
+				},
+				{
+					"file": "/home/adam/c/code/rails/make/app/views/users/show.html.erb",
+					"settings":
+					{
+						"buffer_size": 159,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAACEAAAAAAAAAIgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							1,
+							"paste",
+							null,
+							"AQAAACIAAAAAAAAATQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAIgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/adam/c/code/rails/make/Gemfile",
+					"settings":
+					{
+						"buffer_size": 2256,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"insert",
+							{
+								"characters": "ge,"
+							},
+							"AwAAALEIAAAAAAAAsggAAAAAAAAAAAAAsggAAAAAAACzCAAAAAAAAAAAAACzCAAAAAAAALQIAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAsQgAAAAAAACxCAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAALQIAAAAAAAAtQgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAtAgAAAAAAAC0CAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							2,
+							"left_delete",
+							null,
+							"AgAAALQIAAAAAAAAtAgAAAAAAAABAAAAILMIAAAAAAAAswgAAAAAAAABAAAALA",
+							"AQAAAAAAAAABAAAAtQgAAAAAAAC1CAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": "m"
+							},
+							"AQAAALMIAAAAAAAAtAgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAswgAAAAAAACzCAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAALQIAAAAAAAAtQgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAtAgAAAAAAAC0CAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"insert_snippet",
+							{
+								"contents": "'$0'"
+							},
+							"AQAAALUIAAAAAAAAtwgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAtQgAAAAAAAC1CAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"insert",
+							{
+								"characters": "simple_form"
+							},
+							"CwAAALYIAAAAAAAAtwgAAAAAAAAAAAAAtwgAAAAAAAC4CAAAAAAAAAAAAAC4CAAAAAAAALkIAAAAAAAAAAAAALkIAAAAAAAAuggAAAAAAAAAAAAAuggAAAAAAAC7CAAAAAAAAAAAAAC7CAAAAAAAALwIAAAAAAAAAAAAALwIAAAAAAAAvQgAAAAAAAAAAAAAvQgAAAAAAAC+CAAAAAAAAAAAAAC+CAAAAAAAAL8IAAAAAAAAAAAAAL8IAAAAAAAAwAgAAAAAAAAAAAAAwAgAAAAAAADBCAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAtggAAAAAAAC2CAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							13,
+							1,
+							"ensure_newline_at_eof",
+							null,
+							"AQAAAMIIAAAAAAAAwwgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAwQgAAAAAAADBCAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							34,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAMIIAAAAAAAAwwgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAwggAAAAAAADCCAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							36,
+							1,
+							"insert",
+							{
+								"characters": "gem"
+							},
+							"AwAAAMMIAAAAAAAAxAgAAAAAAAAAAAAAxAgAAAAAAADFCAAAAAAAAAAAAADFCAAAAAAAAMYIAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAwwgAAAAAAADDCAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							37,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAMYIAAAAAAAAxwgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAxggAAAAAAADGCAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							38,
+							1,
+							"insert_snippet",
+							{
+								"contents": "'$0'"
+							},
+							"AQAAAMcIAAAAAAAAyQgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAxwgAAAAAAADHCAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							39,
+							1,
+							"insert",
+							{
+								"characters": "pundit"
+							},
+							"BgAAAMgIAAAAAAAAyQgAAAAAAAAAAAAAyQgAAAAAAADKCAAAAAAAAAAAAADKCAAAAAAAAMsIAAAAAAAAAAAAAMsIAAAAAAAAzAgAAAAAAAAAAAAAzAgAAAAAAADNCAAAAAAAAAAAAADNCAAAAAAAAM4IAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAyAgAAAAAAADICAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/adam/c/code/rails/make/app/views/users/_form.html.erb",
+					"settings":
+					{
+						"buffer_size": 1,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							24,
+							3,
+							"left_delete",
+							null,
+							"AwAAACIAAAAAAAAAIgAAAAAAAAABAAAAbSEAAAAAAAAAIQAAAAAAAAABAAAAciAAAAAAAAAAIAAAAAAAAAABAAAAbw",
+							"AQAAAAAAAAABAAAAIwAAAAAAAAAjAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							37,
+							1,
+							"insert",
+							{
+								"characters": "\n\n\n"
+							},
+							"AwAAACUAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAnAAAAAAAAAAAAAAAnAAAAAAAAACgAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							39,
+							1,
+							"reindent",
+							null,
+							"AQAAACUAAAAAAAAAJwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							40,
+							1,
+							"insert",
+							{
+								"characters": "<"
+							},
+							"AQAAACcAAAAAAAAAKAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							42,
+							1,
+							"insert",
+							{
+								"characters": "%"
+							},
+							"AQAAACgAAAAAAAAAKQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							44,
+							1,
+							"insert",
+							{
+								"characters": "="
+							},
+							"AQAAACkAAAAAAAAAKgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							45,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAACoAAAAAAAAAKwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAKgAAAAAAAAAqAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							47,
+							1,
+							"insert",
+							{
+								"characters": "f."
+							},
+							"AgAAACsAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAtAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAKwAAAAAAAAArAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							49,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAC0AAAAAAAAALgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							51,
+							1,
+							"insert",
+							{
+								"characters": "%>"
+							},
+							"AgAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAALgAAAAAAAAAuAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							56,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAADAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAzAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							59,
+							1,
+							"paste",
+							null,
+							"AQAAADMAAAAAAAAAPgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							61,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAD4AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAABDAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							62,
+							1,
+							"paste",
+							null,
+							"AQAAAEMAAAAAAAAATgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAQwAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							71,
+							1,
+							"left_delete",
+							null,
+							"AQAAADMAAAAAAAAAMwAAAAAAAAACAAAAICA",
+							"AQAAAAAAAAABAAAANQAAAAAAAAA1AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							75,
+							1,
+							"left_delete",
+							null,
+							"AQAAAEEAAAAAAAAAQQAAAAAAAAACAAAAICA",
+							"AQAAAAAAAAABAAAAQwAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							77,
+							1,
+							"left_delete",
+							null,
+							"AQAAAD8AAAAAAAAAPwAAAAAAAAACAAAAICA",
+							"AQAAAAAAAAABAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							86,
+							1,
+							"insert",
+							{
+								"characters": "input"
+							},
+							"BQAAAC0AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAvAAAAAAAAAAAAAAAvAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAyAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							87,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAADIAAAAAAAAAMwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							97,
+							1,
+							"insert",
+							{
+								"characters": "simple_"
+							},
+							"BwAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAACwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							104,
+							5,
+							"left_delete",
+							null,
+							"BQAAADgAAAAAAAAAOAAAAAAAAAABAAAAdDcAAAAAAAAANwAAAAAAAAABAAAAdTYAAAAAAAAANgAAAAAAAAABAAAAcDUAAAAAAAAANQAAAAAAAAABAAAAbjQAAAAAAAAANAAAAAAAAAABAAAAaQ",
+							"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							105,
+							1,
+							"insert",
+							{
+								"characters": "tex"
+							},
+							"AwAAADQAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA2AAAAAAAAAAAAAAA2AAAAAAAAADcAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANAAAAAAAAAA0AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							106,
+							1,
+							"insert",
+							{
+								"characters": " t"
+							},
+							"AgAAADcAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA5AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							107,
+							2,
+							"left_delete",
+							null,
+							"AgAAADgAAAAAAAAAOAAAAAAAAAABAAAAdDcAAAAAAAAANwAAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							108,
+							1,
+							"insert",
+							{
+								"characters": "t"
+							},
+							"AQAAADcAAAAAAAAAOAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							109,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAADgAAAAAAAAAOQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							111,
+							5,
+							"left_delete",
+							null,
+							"BQAAADgAAAAAAAAAOAAAAAAAAAABAAAAIDcAAAAAAAAANwAAAAAAAAABAAAAdDYAAAAAAAAANgAAAAAAAAABAAAAeDUAAAAAAAAANQAAAAAAAAABAAAAZTQAAAAAAAAANAAAAAAAAAABAAAAdA",
+							"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							112,
+							1,
+							"insert",
+							{
+								"characters": "email"
+							},
+							"BQAAADQAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA2AAAAAAAAAAAAAAA2AAAAAAAAADcAAAAAAAAAAAAAADcAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA5AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANAAAAAAAAAA0AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							113,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAADkAAAAAAAAAOgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							114,
+							1,
+							"left_delete",
+							null,
+							"AQAAADkAAAAAAAAAOQAAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAAOgAAAAAAAAA6AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							115,
+							1,
+							"insert",
+							{
+								"characters": "_field"
+							},
+							"BgAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAAAAAAAAAAAA7AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAAA+AAAAAAAAAAAAAAA+AAAAAAAAAD8AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							116,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAD8AAAAAAAAAQAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							117,
+							1,
+							"insert_snippet",
+							{
+								"contents": "\"$0\""
+							},
+							"AQAAAEAAAAAAAAAAQgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							118,
+							1,
+							"insert",
+							{
+								"characters": "email"
+							},
+							"BQAAAEEAAAAAAAAAQgAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAABDAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAARQAAAAAAAAAAAAAARQAAAAAAAABGAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							119,
+							5,
+							"left_delete",
+							null,
+							"BQAAAEUAAAAAAAAARQAAAAAAAAABAAAAbEQAAAAAAAAARAAAAAAAAAABAAAAaUMAAAAAAAAAQwAAAAAAAAABAAAAYUIAAAAAAAAAQgAAAAAAAAABAAAAbUEAAAAAAAAAQQAAAAAAAAABAAAAZQ",
+							"AQAAAAAAAAABAAAARgAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							120,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+							},
+							"AgAAAEAAAAAAAAAAQAAAAAAAAAABAAAAIkAAAAAAAAAAQAAAAAAAAAABAAAAIg",
+							"AQAAAAAAAAABAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							121,
+							1,
+							"left_delete",
+							null,
+							"AQAAAD8AAAAAAAAAPwAAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							128,
+							1,
+							"insert",
+							{
+								"characters": "password"
+							},
+							"CAAAAEwAAAAAAAAATQAAAAAAAAAAAAAATQAAAAAAAABOAAAAAAAAAAAAAABOAAAAAAAAAE8AAAAAAAAAAAAAAE8AAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABRAAAAAAAAAAAAAABRAAAAAAAAAFIAAAAAAAAAAAAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABUAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAATAAAAAAAAABMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							135,
+							1,
+							"insert",
+							{
+								"characters": "password"
+							},
+							"CAAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABiAAAAAAAAAAAAAABiAAAAAAAAAGMAAAAAAAAAAAAAAGMAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABlAAAAAAAAAAAAAABlAAAAAAAAAGYAAAAAAAAAAAAAAGYAAAAAAAAAZwAAAAAAAAAAAAAAZwAAAAAAAABoAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							136,
+							9,
+							"left_delete",
+							null,
+							"CQAAAGcAAAAAAAAAZwAAAAAAAAABAAAAZGYAAAAAAAAAZgAAAAAAAAABAAAAcmUAAAAAAAAAZQAAAAAAAAABAAAAb2QAAAAAAAAAZAAAAAAAAAABAAAAd2MAAAAAAAAAYwAAAAAAAAABAAAAc2IAAAAAAAAAYgAAAAAAAAABAAAAc2EAAAAAAAAAYQAAAAAAAAABAAAAYWAAAAAAAAAAYAAAAAAAAAABAAAAcF8AAAAAAAAAXwAAAAAAAAABAAAALg",
+							"AQAAAAAAAAABAAAAaAAAAAAAAABoAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							138,
+							1,
+							"insert",
+							{
+								"characters": "."
+							},
+							"AQAAAF8AAAAAAAAAYAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAXwAAAAAAAABfAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							140,
+							1,
+							"insert",
+							{
+								"characters": "butto"
+							},
+							"BQAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABiAAAAAAAAAAAAAABiAAAAAAAAAGMAAAAAAAAAAAAAAGMAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABlAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							141,
+							4,
+							"left_delete",
+							null,
+							"BAAAAGQAAAAAAAAAZAAAAAAAAAABAAAAb2MAAAAAAAAAYwAAAAAAAAABAAAAdGIAAAAAAAAAYgAAAAAAAAABAAAAdGEAAAAAAAAAYQAAAAAAAAABAAAAdQ",
+							"AQAAAAAAAAABAAAAZQAAAAAAAABlAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							142,
+							1,
+							"insert",
+							{
+								"characters": "s"
+							},
+							"AQAAAGEAAAAAAAAAYgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYQAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							143,
+							1,
+							"left_delete",
+							null,
+							"AQAAAGEAAAAAAAAAYQAAAAAAAAABAAAAcw",
+							"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							144,
+							1,
+							"insert",
+							{
+								"characters": "sub"
+							},
+							"AwAAAGEAAAAAAAAAYgAAAAAAAAAAAAAAYgAAAAAAAABjAAAAAAAAAAAAAABjAAAAAAAAAGQAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYQAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							145,
+							4,
+							"left_delete",
+							null,
+							"BAAAAGMAAAAAAAAAYwAAAAAAAAABAAAAYmIAAAAAAAAAYgAAAAAAAAABAAAAdWEAAAAAAAAAYQAAAAAAAAABAAAAc2AAAAAAAAAAYAAAAAAAAAABAAAAYg",
+							"AQAAAAAAAAABAAAAZAAAAAAAAABkAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							146,
+							1,
+							"insert",
+							{
+								"characters": "submit"
+							},
+							"BgAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABiAAAAAAAAAAAAAABiAAAAAAAAAGMAAAAAAAAAAAAAAGMAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABlAAAAAAAAAAAAAABlAAAAAAAAAGYAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							152,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AgAAAOcBAAAAAAAA6wEAAAAAAAAAAAAAbAAAAAAAAABxAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAbAAAAAAAAADnAQAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							159,
+							1,
+							"ensure_newline_at_eof",
+							null,
+							"AQAAAPABAAAAAAAA8QEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							167,
+							4,
+							"left_delete",
+							null,
+							"BAAAABMAAAAAAAAAEwAAAAAAAAABAAAAaBIAAAAAAAAAEgAAAAAAAAABAAAAdBEAAAAAAAAAEQAAAAAAAAABAAAAaRAAAAAAAAAAEAAAAAAAAAABAAAAdw",
+							"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							168,
+							1,
+							"insert",
+							{
+								"characters": "for"
+							},
+							"AwAAABAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABMAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							187,
+							11,
+							"left_delete",
+							null,
+							"CwAAAB4AAAAAAAAAHgAAAAAAAAABAAAAch0AAAAAAAAAHQAAAAAAAAABAAAAZRwAAAAAAAAAHAAAAAAAAAABAAAAcxsAAAAAAAAAGwAAAAAAAAABAAAAdRoAAAAAAAAAGgAAAAAAAAABAAAAIBkAAAAAAAAAGQAAAAAAAAABAAAAOhgAAAAAAAAAGAAAAAAAAAABAAAAbBcAAAAAAAAAFwAAAAAAAAABAAAAZRYAAAAAAAAAFgAAAAAAAAABAAAAZBUAAAAAAAAAFQAAAAAAAAABAAAAbxQAAAAAAAAAFAAAAAAAAAABAAAAbQ",
+							"AQAAAAAAAAABAAAAHwAAAAAAAAAfAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							188,
+							1,
+							"insert",
+							{
+								"characters": "resource"
+							},
+							"CAAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABoAAAAAAAAAAAAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							199,
+							1,
+							"paste",
+							null,
+							"AgAAAAAAAAAAAAAAVQAAAAAAAAAAAAAAVQAAAAAAAABVAAAAAAAAACgAAAA8JT0gc2ltcGxlX2Zvcm1fZm9yKHJlc291cmNlKSBkbyB8ZnwgJT4K",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							203,
+							1,
+							"insert",
+							{
+								"characters": "simpel"
+							},
+							"BgAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAoAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							204,
+							2,
+							"left_delete",
+							null,
+							"AgAAAAkAAAAAAAAACQAAAAAAAAABAAAAbAgAAAAAAAAACAAAAAAAAAABAAAAZQ",
+							"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							205,
+							1,
+							"insert",
+							{
+								"characters": "le_"
+							},
+							"AwAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAsAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							218,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAAAAAAAAAAAAAAAAAAAAACbAAAAPCU9IHNpbXBsZV9mb3JtX2ZvcihyZXNvdXJjZSwgYXM6IHJlc291cmNlX25hbWUsIHVybDogc2Vzc2lvbl9wYXRoKHJlc291cmNlX25hbWUpKSBkbyB8ZnwgJT4gIDwlPSBmLmVtYWlsX2ZpZWxkICAlPgogIDwlPSBmLnBhc3N3b3JkICU+CiAgPCU9IGYuc3VibWl0ICU+Cgo",
+							"AQAAAAAAAAABAAAAmwAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							233,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"x": 553.12890625,
+									"y": 98.5546875
+								}
+							},
+							"AQAAAAEAAAAAAAAAAQAAAAAAAACFAQAAPCEtLSAgIDwlIGlmIHVzZXIuZXJyb3JzLmFueT8gJT4KICAgIDxkaXYgaWQ9ImVycm9yX2V4cGxhbmF0aW9uIj4KICAgICAgPGgyPjwlPSBwbHVyYWxpemUodXNlci5lcnJvcnMuY291bnQsICJlcnJvciIpICU+IHByb2hpYml0ZWQgdGhpcyB1c2VyIGZyb20gYmVpbmcgc2F2ZWQ6PC9oMj4KCiAgICAgIDx1bD4KICAgICAgICA8JSB1c2VyLmVycm9ycy5lYWNoIGRvIHxlcnJvcnwgJT4KICAgICAgICAgIDxsaT48JT0gZXJyb3IuZnVsbF9tZXNzYWdlICU+PC9saT4KICAgICAgICA8JSBlbmQgJT4KICAgICAgPC91bD4KICAgIDwvZGl2PgogIDwlIGVuZCAlPgoKICA8ZGl2IGNsYXNzPSJhY3Rpb25zIj4KICAgIDwlPSBmb3JtLnN1Ym1pdCAlPgogIDwvZGl2Pgo8JSBlbmQgJT4KIC0tPgo",
+							"AQAAAAAAAAABAAAAhgEAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"contents": "s<%- if controller_name != 'sessions' %>\n  <%= link_to \"Log in\", new_session_path(resource_name) %><br />\n<% end %>\n\n<%- if devise_mapping.registerable? && controller_name != 'registrations' %>\n  <%= link_to \"Sign up\", new_registration_path(resource_name) %><br />\n<% end %>\n\n<%- if devise_mapping.recoverable? && controller_name != 'passwords' && controller_name != 'registrations' %>\n  <%= link_to \"Forgot your password?\", new_password_path(resource_name) %><br />\n<% end %>\n\n<%- if devise_mapping.confirmable? && controller_name != 'confirmations' %>\n  <%= link_to \"Didn't receive confirmation instructions?\", new_confirmation_path(resource_name) %><br />\n<% end %>\n\n<%- if devise_mapping.lockable? && resource_class.unlock_strategy_enabled?(:email) && controller_name != 'unlocks' %>\n  <%= link_to \"Didn't receive unlock instructions?\", new_unlock_path(resource_name) %><br />\n<% end %>\n\n<%- if devise_mapping.omniauthable? %>\n  <%- resource_class.omniauth_providers.each do |provider| %>\n    <%= link_to \"Sign in with #{OmniAuth::Utils.camelize(provider)}\", omniauth_authorize_path(resource_name, provider), method: :post %><br />\n  <% end %>\n<% end %>\n",
+					"file": "/home/adam/c/code/rails/make/app/views/users/shared/_links.html.erb",
+					"file_size": 1157,
+					"file_write_time": 132787588610003199,
+					"settings":
+					{
+						"buffer_size": 1158,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							11,
+							1,
+							"insert",
+							{
+								"characters": "s"
+							},
+							"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/adam/c/code/rails/make/app/views/users/unlocks/_form.html.erb",
+					"settings":
+					{
+						"buffer_size": 0,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "_form.html.erb"
+					},
+					"undo_stack":
+					[
+						[
+							1,
+							1,
+							"insert",
+							{
+								"characters": "_form.html."
+							},
+							"CwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAALAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							2,
+							1,
+							"insert",
+							{
+								"characters": "erb"
+							},
+							"AwAAAAsAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA4AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"ensure_newline_at_eof",
+							null,
+							"AQAAAA4AAAAAAAAADwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAADgAAAAAAAAAOAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							4,
+							"left_delete",
+							null,
+							"BAAAAA4AAAAAAAAADgAAAAAAAAABAAAACg0AAAAAAAAADQAAAAAAAAABAAAAYgwAAAAAAAAADAAAAAAAAAABAAAAcgsAAAAAAAAACwAAAAAAAAABAAAAZQ",
+							"AQAAAAAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							15,
+							"left_delete",
+							null,
+							"CwAAAAoAAAAAAAAACgAAAAAAAAABAAAALgkAAAAAAAAACQAAAAAAAAABAAAAbAgAAAAAAAAACAAAAAAAAAABAAAAbQcAAAAAAAAABwAAAAAAAAABAAAAdAYAAAAAAAAABgAAAAAAAAABAAAAaAUAAAAAAAAABQAAAAAAAAABAAAALgQAAAAAAAAABAAAAAAAAAABAAAAbQMAAAAAAAAAAwAAAAAAAAABAAAAcgIAAAAAAAAAAgAAAAAAAAABAAAAbwEAAAAAAAAAAQAAAAAAAAABAAAAZgAAAAAAAAAAAAAAAAAAAAABAAAAXw",
+							"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/adam/c/code/rails/make/app/views/users/new.html.erb",
+					"settings":
+					{
+						"buffer_size": 91,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							8,
+							1,
+							"insert",
+							{
+								"characters": "\n\n\n\n"
+							},
+							"BAAAAFgAAAAAAAAAWQAAAAAAAAAAAAAAWQAAAAAAAABaAAAAAAAAAAAAAABaAAAAAAAAAFsAAAAAAAAAAAAAAFsAAAAAAAAAXAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAWAAAAAAAAABYAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							9,
+							1,
+							"paste",
+							null,
+							"AQAAAFwAAAAAAAAA4gIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAXAAAAAAAAABcAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							35,
+							1,
+							"left_delete",
+							null,
+							"AQAAAFsAAAAAAAAAWwAAAAAAAACHAgAACjxoMj5Mb2cgaW48L2gyPgoKPCU9IGZvcm1fZm9yKHJlc291cmNlLCBhczogcmVzb3VyY2VfbmFtZSwgdXJsOiBzZXNzaW9uX3BhdGgocmVzb3VyY2VfbmFtZSkpIGRvIHxmfCAlPgogIDxkaXYgY2xhc3M9ImZpZWxkIj4KICAgIDwlPSBmLmxhYmVsIDplbWFpbCAlPjxiciAvPgogICAgPCU9IGYuZW1haWxfZmllbGQgOmVtYWlsLCBhdXRvZm9jdXM6IHRydWUsIGF1dG9jb21wbGV0ZTogImVtYWlsIiAlPgogIDwvZGl2PgoKICA8ZGl2IGNsYXNzPSJmaWVsZCI+CiAgICA8JT0gZi5sYWJlbCA6cGFzc3dvcmQgJT48YnIgLz4KICAgIDwlPSBmLnBhc3N3b3JkX2ZpZWxkIDpwYXNzd29yZCwgYXV0b2NvbXBsZXRlOiAiY3VycmVudC1wYXNzd29yZCIgJT4KICA8L2Rpdj4KCiAgPCUgaWYgZGV2aXNlX21hcHBpbmcucmVtZW1iZXJhYmxlPyAlPgogICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICA8JT0gZi5jaGVja19ib3ggOnJlbWVtYmVyX21lICU+CiAgICAgIDwlPSBmLmxhYmVsIDpyZW1lbWJlcl9tZSAlPgogICAgPC9kaXY+CiAgPCUgZW5kICU+CgogIDxkaXYgY2xhc3M9ImFjdGlvbnMiPgogICAgPCU9IGYuc3VibWl0ICJMb2cgaW4iICU+CiAgPC9kaXY+CjwlIGVuZCAlPgoKPCU9IHJlbmRlciAidXNlcnMvc2hhcmVkL2xpbmtzIiAlPgo",
+							"AQAAAAAAAAABAAAAWwAAAAAAAADiAgAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"haml",
+						"Set Syntax: Ruby Haml"
+					],
+					[
+						"",
+						"ANF: New File"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"package control",
+						"Package Control: Install Package"
+					],
+					[
+						"package control add",
+						"Package Control: Add Channel"
+					],
+					[
+						"packagin",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 124.0,
+				"history":
+				[
+					"cd ~\nsublime",
+					"exit",
+					"cd ~",
+					"cd !",
+					"help",
+					"?",
+					"whoami",
+					"fish",
+					"exit",
+					"ruby",
+					"class API",
+					"require 'blanket'",
+					"exit",
+					"irb",
+					"require blanket",
+					"require 'blanket'",
+					"pry",
+					"shell",
+					"fish"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/adam/c/code/rails/make",
+				"/home/adam/c/code/rails/make/app",
+				"/home/adam/c/code/rails/make/app/controllers",
+				"/home/adam/c/code/rails/make/app/views",
+				"/home/adam/c/code/rails/make/app/views/layouts",
+				"/home/adam/c/code/rails/make/app/views/users",
+				"/home/adam/c/code/rails/make/app/views/users/passwords",
+				"/home/adam/c/code/rails/make/app/views/users/registrations",
+				"/home/adam/c/code/rails/make/app/views/users/sessions",
+				"/home/adam/c/code/rails/make/app/views/users/shared",
+				"/home/adam/c/code/rails/make/db"
+			],
+			"file_history":
+			[
+				"/home/adam/c/code/rails/to/app/controllers/users_controller.rb",
+				"/home/adam/c/code/rails/to/app/models/user.rb",
+				"/home/adam/c/code/rails/co/app/views/layouts/navigation/_pages.html.erb",
+				"/home/adam/c/code/rails/my/app/views/welcome/index.html.erb",
+				"/home/adam/c/code/rails/my/config/routes.rb",
+				"/home/adam/c/code/rails/my/Gemfile",
+				"/home/adam/c/code/rails/my/config/environments/development.rb",
+				"/home/adam/c/code/rails/my/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/my/db/migrate/20211014114105_devise_create_users.rb",
+				"/home/adam/c/code/rails/to/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/to/Gemfile",
+				"/home/adam/c/code/rails/to/config/environments/development.rb",
+				"/home/adam/c/code/rails/to/config/routes.rb",
+				"/home/adam/c/code/rails/to/app/views/layouts/_navigation.html.erb",
+				"/home/adam/c/code/rails/reference/rails_6_devise_example/app/views/users/unlocks/new.html.erb",
+				"/home/adam/c/code/rails/reference/rails_6_devise_example/app/views/application/home.html.erb",
+				"/home/adam/c/code/rails/to/app/views/pages/index.html.erb",
+				"/home/adam/c/code/rails/c/config/routes.rb",
+				"/home/adam/c/code/rails/c/app/views/pages/index.html.erb",
+				"/home/adam/c/code/rails/c/app/assets/stylesheets/application.scss",
+				"/home/adam/c/code/rails/c/app/javascript/application.js",
+				"/home/adam/c/code/rails/c/app/views/layouts/_navigation.html.erb",
+				"/home/adam/c/code/rails/c/app/assets/stylesheets/partials/layout/navigation.scss",
+				"/home/adam/c/code/rails/c/Gemfile",
+				"/home/adam/c/code/rails/c/config/environments/development.rb",
+				"/home/adam/c/code/rails/c/app/assets/stylesheets/base/variables.scss",
+				"/home/adam/c/code/rails/c/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/to/db/migrate/20211012132740_add_fields_to_user.rb",
+				"/home/adam/c/code/rails/to/app/views/notes/show.html.erb",
+				"/home/adam/c/code/rails/to/app/controllers/notes_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/registrations_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/bookmarks_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/contacts_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/lists_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/pages_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/posts_controller.rb",
+				"/home/adam/c/code/rails/co/app/controllers/users_controller.rb",
+				"/home/adam/c/code/rails/co/app/controllers/sessions_controller.rb",
+				"/home/adam/c/code/rails/co/app/views/users/new.html.erb",
+				"/home/adam/c/code/rails/co/app/views/sessions/new.html.erb",
+				"/home/adam/c/code/rails/co/app/controllers/application_controller.rb",
+				"/home/adam/c/code/rails/co/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/co/app/views/users/show.html.erb",
+				"/home/adam/c/code/rails/so_/app/assets/stylesheets/application.scss",
+				"/home/adam/c/code/rails/so_/Gemfile",
+				"/home/adam/c/code/rails/so_/app/javascript/packs/application.js",
+				"/home/adam/c/code/rails/so_/app/views/layouts/_navigation.html.erb",
+				"/home/adam/c/code/rails/so_/config/environments/development.rb",
+				"/home/adam/c/code/rails/so_/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/so_/app/views/pages/index.html.erb",
+				"/home/adam/c/code/rails/so_/app/controllers/pages_controller.rb",
+				"/home/adam/c/code/rails/so_/app/helpers/application_helper.rb",
+				"/home/adam/c/code/rails/so_/config/routes.rb",
+				"/home/adam/c/code/rails/so_/app/views/devise/sessions/new.html.erb",
+				"/home/adam/c/code/rails/so_/app/views/pages/about.html.erb",
+				"/home/adam/c/code/rails/so_/app/views/pages/contact.html.erb",
+				"/home/adam/c/code/rails/so_/db/migrate/20211011180755_devise_create_users.rb",
+				"/home/adam/c/code/rails/co/app/assets/stylesheets/application.scss",
+				"/home/adam/c/code/rails/co/Gemfile",
+				"/home/adam/c/code/rails/co/app/javascript/packs/application.js",
+				"/home/adam/c/code/rails/co/config/routes.rb",
+				"/home/adam/c/code/rails/co/app/models/user.rb",
+				"/home/adam/c/code/rails/co/app/views/layouts/_navigation.html.erb",
+				"/home/adam/c/code/rails/co/config/initializers/devise.rb",
+				"/home/adam/c/code/rails/co/config/environments/development.rb",
+				"/home/adam/c/code/rails/co/app/controllers/pages_controller.rb",
+				"/home/adam/c/code/rails/co/app/views/pages/index.html.erb",
+				"/home/adam/c/code/rails/co/app/javascript/application.js",
+				"/home/adam/c/code/rails/notes/Gemfile.lock",
+				"/home/adam/c/code/rails/notes/config.ru",
+				"/home/adam/c/code/rails/taski/app/views/pages/home.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/taski/config/routes.rb",
+				"/home/adam/c/code/rails/taski/app/controllers/projects_controller.rb",
+				"/home/adam/c/code/rails/taski/app/views/pages/about.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/shared/_projects.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/shared/_headers.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/layouts/_headers.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/pages/errors.html.erb",
+				"/home/adam/c/code/rails/taski/app/controllers/pages_controller.rb",
+				"/home/adam/c/code/rails/ozone/app/assets/stylesheets/application.css",
+				"/home/adam/c/code/rails/co/db/migrate/user.rb",
+				"/home/adam/c/code/rails/co/app/views/layouts/_header.html.erb",
+				"/home/adam/c/code/rails/co/app/views/layouts/_alerts.html.erb",
+				"/home/adam/c/code/rails/co/app/views/people/_form.html.erb",
+				"/home/adam/c/code/rails/co/app/views/people/index.html.erb",
+				"/home/adam/c/code/rails/co/app/views/people/show.html.erb",
+				"/home/adam/d/bootstrap-5.0.2-examples/grid/index.html",
+				"/home/adam/c/code/rails/co/db/migrate/user_controller.rb",
+				"/home/adam/c/code/rails/portfolio/db/schema.rb",
+				"/home/adam/c/code/rails/portfolio/app/controllers/posts_controller.rb",
+				"/home/adam/c/code/rails/portfolio/app/controllers/projects_controller.rb",
+				"/home/adam/c/code/rails/portfolio/db/seeds.rb",
+				"/home/adam/c/code/rails/portfolio/db/migrate/20211006202141_add_status_to_posts.rb",
+				"/home/adam/c/code/rails/portfolio/app/models/post.rb",
+				"/home/adam/c/code/rails/portfolio/app/models/topic.rb",
+				"/home/adam/c/code/rails/portfolio/db/migrate/20211006220813_add_topic_reference_to_posts.rb",
+				"/home/adam/c/code/rails/portfolio/app/models/skill.rb",
+				"/home/adam/c/code/rails/portfolio/app/models/project.rb",
+				"/home/adam/c/code/rails/portfolio/app/views/skills/index.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/show.html.erb",
+				"/home/adam/c/code/rails/portfolio/config/routes.rb",
+				"/home/adam/c/code/rails/portfolio/app/views/projects/index.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/index.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/skills/show.html.erb",
+				"/home/adam/c/code/rails/portfolio/db/migrate/20211006175925_create_skills.rb",
+				"/home/adam/c/code/rails/portfolio/Gemfile",
+				"/home/adam/c/code/rails/portfolio/app/views/projects/new.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/assets/stylesheets/posts.scss",
+				"/home/adam/c/code/rails/portfolio/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/edit.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/new.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/_form.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/skills/_form.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/projects/_form.html.erb",
+				"/home/adam/c/code/rails/portfolio/db/posts_edit_form.rb",
+				"/home/adam/c/code/rails/portfolio/app/helpers/posts_helper.rb",
+				"/home/adam/c/code/rails/portfolio/app/assets/stylesheets/application.css",
+				"/home/adam/c/code/rails/portfolio/app/views/layouts/_navbar.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/projects/show.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/forms/posts_new_form.rb",
+				"/home/adam/c/code/rails/portfolio/app/assets/stylesheets/skills.scss",
+				"/home/adam/c/code/rails/portfolio/app/assets/stylesheets/projects.scss",
+				"/home/adam/c/code/rails/portfolio/app/javascript/packs/application.js",
+				"/home/adam/c/code/rails/portfolio/20211005045055_create_blogs.rb",
+				"/home/adam/c/code/rails/portfolio/app/javascript/channels/index.js",
+				"/home/adam/c/code/rails/portfolio/config/application.rb",
+				"/home/adam/c/code/rails/portfolio/config/webpack/environment.js"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 175.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/adam/c/code/rails/make"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/adam/c/code/rails/make/app/views/pages/index.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 73,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										73,
+										73
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/adam/c/code/rails/make/app/views/users/show.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 159,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										34,
+										34
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/adam/c/code/rails/make/Gemfile",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2256,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2254,
+										2254
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1164.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/adam/c/code/rails/make/app/views/users/_form.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1,
+										1
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/adam/c/code/rails/make/app/views/users/shared/_links.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1158,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1,
+										1
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/adam/c/code/rails/make/app/views/users/unlocks/_form.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "_form.html.erb",
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/adam/c/code/rails/make/app/views/users/new.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 91,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										91,
+										91
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 61.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 168.0
+			},
+			"output.exec":
+			{
+				"height": 108.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 30.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,800,600,3840,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"ozone/app/javascript/packs/application.js"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 253.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 196,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"split",
+						"splitv"
+					],
+					[
+						"w",
+						"w"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>B</title>\n    <meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">\n    <%= csrf_meta_tags %>\n    <%= csp_meta_tag %>\n\n    <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>\n    <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>\n  </head>\n\n  <body>\n    <% render 'layouts/header' %>\n    <%= yield %>\n  </body>\n</html>\n",
+					"file": "/home/adam/c/code/rails/b/app/views/layouts/application.html.erb",
+					"file_size": 532,
+					"file_write_time": 132788268522993488,
+					"settings":
+					{
+						"buffer_size": 439,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAHIBAAAAAAAAcwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAcgEAAAAAAAByAQAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							9,
+							1,
+							"reindent",
+							null,
+							"AQAAAHIBAAAAAAAAdgEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAcgEAAAAAAAByAQAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							11,
+							1,
+							"insert",
+							{
+								"characters": "<"
+							},
+							"AQAAAHYBAAAAAAAAdwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAdgEAAAAAAAB2AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							13,
+							1,
+							"insert",
+							{
+								"characters": "%"
+							},
+							"AQAAAHcBAAAAAAAAeAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAdwEAAAAAAAB3AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							14,
+							1,
+							"insert",
+							{
+								"characters": " render"
+							},
+							"BwAAAHgBAAAAAAAAeQEAAAAAAAAAAAAAeQEAAAAAAAB6AQAAAAAAAAAAAAB6AQAAAAAAAHsBAAAAAAAAAAAAAHsBAAAAAAAAfAEAAAAAAAAAAAAAfAEAAAAAAAB9AQAAAAAAAAAAAAB9AQAAAAAAAH4BAAAAAAAAAAAAAH4BAAAAAAAAfwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAeAEAAAAAAAB4AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAH8BAAAAAAAAgAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAfwEAAAAAAAB/AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							16,
+							1,
+							"insert_snippet",
+							{
+								"contents": "'$0'"
+							},
+							"AQAAAIABAAAAAAAAggEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAgAEAAAAAAACAAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							18,
+							1,
+							"insert",
+							{
+								"characters": "layouts/navi"
+							},
+							"DAAAAIEBAAAAAAAAggEAAAAAAAAAAAAAggEAAAAAAACDAQAAAAAAAAAAAACDAQAAAAAAAIQBAAAAAAAAAAAAAIQBAAAAAAAAhQEAAAAAAAAAAAAAhQEAAAAAAACGAQAAAAAAAAAAAACGAQAAAAAAAIcBAAAAAAAAAAAAAIcBAAAAAAAAiAEAAAAAAAAAAAAAiAEAAAAAAACJAQAAAAAAAAAAAACJAQAAAAAAAIoBAAAAAAAAAAAAAIoBAAAAAAAAiwEAAAAAAAAAAAAAiwEAAAAAAACMAQAAAAAAAAAAAACMAQAAAAAAAI0BAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAgQEAAAAAAACBAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"insert",
+							{
+								"characters": "gation/"
+							},
+							"BwAAAI0BAAAAAAAAjgEAAAAAAAAAAAAAjgEAAAAAAACPAQAAAAAAAAAAAACPAQAAAAAAAJABAAAAAAAAAAAAAJABAAAAAAAAkQEAAAAAAAAAAAAAkQEAAAAAAACSAQAAAAAAAAAAAACSAQAAAAAAAJMBAAAAAAAAAAAAAJMBAAAAAAAAlAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAjQEAAAAAAACNAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							20,
+							1,
+							"insert",
+							{
+								"characters": "topnava"
+							},
+							"BwAAAJQBAAAAAAAAlQEAAAAAAAAAAAAAlQEAAAAAAACWAQAAAAAAAAAAAACWAQAAAAAAAJcBAAAAAAAAAAAAAJcBAAAAAAAAmAEAAAAAAAAAAAAAmAEAAAAAAACZAQAAAAAAAAAAAACZAQAAAAAAAJoBAAAAAAAAAAAAAJoBAAAAAAAAmwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAlAEAAAAAAACUAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							21,
+							1,
+							"left_delete",
+							null,
+							"AQAAAJoBAAAAAAAAmgEAAAAAAAABAAAAYQ",
+							"AQAAAAAAAAABAAAAmwEAAAAAAACbAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							22,
+							1,
+							"insert",
+							{
+								"characters": "bar"
+							},
+							"AwAAAJoBAAAAAAAAmwEAAAAAAAAAAAAAmwEAAAAAAACcAQAAAAAAAAAAAACcAQAAAAAAAJ0BAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAmgEAAAAAAACaAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							23,
+							6,
+							"left_delete",
+							null,
+							"BgAAAJwBAAAAAAAAnAEAAAAAAAABAAAAcpsBAAAAAAAAmwEAAAAAAAABAAAAYZoBAAAAAAAAmgEAAAAAAAABAAAAYpkBAAAAAAAAmQEAAAAAAAABAAAAdpgBAAAAAAAAmAEAAAAAAAABAAAAYZcBAAAAAAAAlwEAAAAAAAABAAAAbg",
+							"AQAAAAAAAAABAAAAnQEAAAAAAACdAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"insert",
+							{
+								"characters": ")"
+							},
+							"AQAAAJcBAAAAAAAAmAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAlwEAAAAAAACXAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							25,
+							1,
+							"left_delete",
+							null,
+							"AQAAAJcBAAAAAAAAlwEAAAAAAAABAAAAKQ",
+							"AQAAAAAAAAABAAAAmAEAAAAAAACYAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							26,
+							1,
+							"insert",
+							{
+								"characters": "_b"
+							},
+							"AgAAAJcBAAAAAAAAmAEAAAAAAAAAAAAAmAEAAAAAAACZAQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAlwEAAAAAAACXAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							27,
+							1,
+							"left_delete",
+							null,
+							"AQAAAJgBAAAAAAAAmAEAAAAAAAABAAAAYg",
+							"AQAAAAAAAAABAAAAmQEAAAAAAACZAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							28,
+							1,
+							"insert",
+							{
+								"characters": "nav_)"
+							},
+							"BQAAAJgBAAAAAAAAmQEAAAAAAAAAAAAAmQEAAAAAAACaAQAAAAAAAAAAAACaAQAAAAAAAJsBAAAAAAAAAAAAAJsBAAAAAAAAnAEAAAAAAAAAAAAAnAEAAAAAAACdAQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAmAEAAAAAAACYAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							29,
+							2,
+							"left_delete",
+							null,
+							"AgAAAJwBAAAAAAAAnAEAAAAAAAABAAAAKZsBAAAAAAAAmwEAAAAAAAABAAAAXw",
+							"AQAAAAAAAAABAAAAnQEAAAAAAACdAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							31,
+							1,
+							"insert",
+							{
+								"characters": "bar"
+							},
+							"AwAAAJsBAAAAAAAAnAEAAAAAAAAAAAAAnAEAAAAAAACdAQAAAAAAAAAAAACdAQAAAAAAAJ4BAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAmwEAAAAAAACbAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							34,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAJ8BAAAAAAAAoAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAnwEAAAAAAACfAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							36,
+							1,
+							"insert",
+							{
+								"characters": "%>"
+							},
+							"AgAAAKABAAAAAAAAoQEAAAAAAAAAAAAAoQEAAAAAAACiAQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAoAEAAAAAAACgAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							48,
+							1,
+							"left_delete",
+							null,
+							"AQAAAJcBAAAAAAAAlwEAAAAAAAABAAAAXw",
+							"AQAAAAAAAAABAAAAmAEAAAAAAACYAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							50,
+							1,
+							"insert",
+							{
+								"characters": "_"
+							},
+							"AQAAAJcBAAAAAAAAmAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAlwEAAAAAAACXAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							98,
+							1,
+							"left_delete",
+							null,
+							"AQAAAJ0BAAAAAAAAnQEAAAAAAAABAAAAcg",
+							"AQAAAAAAAAABAAAAngEAAAAAAACeAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							100,
+							20,
+							"left_delete",
+							null,
+							"FAAAAJwBAAAAAAAAnAEAAAAAAAABAAAAYZsBAAAAAAAAmwEAAAAAAAABAAAAYpoBAAAAAAAAmgEAAAAAAAABAAAAdpkBAAAAAAAAmQEAAAAAAAABAAAAYZgBAAAAAAAAmAEAAAAAAAABAAAAbpcBAAAAAAAAlwEAAAAAAAABAAAAX5YBAAAAAAAAlgEAAAAAAAABAAAAcJUBAAAAAAAAlQEAAAAAAAABAAAAb5QBAAAAAAAAlAEAAAAAAAABAAAAdJMBAAAAAAAAkwEAAAAAAAABAAAAL5IBAAAAAAAAkgEAAAAAAAABAAAAbpEBAAAAAAAAkQEAAAAAAAABAAAAb5ABAAAAAAAAkAEAAAAAAAABAAAAaY8BAAAAAAAAjwEAAAAAAAABAAAAdI4BAAAAAAAAjgEAAAAAAAABAAAAYY0BAAAAAAAAjQEAAAAAAAABAAAAZ4wBAAAAAAAAjAEAAAAAAAABAAAAaYsBAAAAAAAAiwEAAAAAAAABAAAAdooBAAAAAAAAigEAAAAAAAABAAAAYYkBAAAAAAAAiQEAAAAAAAABAAAAbg",
+							"AQAAAAAAAAABAAAAnQEAAAAAAACdAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							102,
+							1,
+							"insert",
+							{
+								"characters": "hear"
+							},
+							"BAAAAIkBAAAAAAAAigEAAAAAAAAAAAAAigEAAAAAAACLAQAAAAAAAAAAAACLAQAAAAAAAIwBAAAAAAAAAAAAAIwBAAAAAAAAjQEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAiQEAAAAAAACJAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							103,
+							1,
+							"left_delete",
+							null,
+							"AQAAAIwBAAAAAAAAjAEAAAAAAAABAAAAcg",
+							"AQAAAAAAAAABAAAAjQEAAAAAAACNAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							104,
+							1,
+							"insert",
+							{
+								"characters": "der"
+							},
+							"AwAAAIwBAAAAAAAAjQEAAAAAAAAAAAAAjQEAAAAAAACOAQAAAAAAAAAAAACOAQAAAAAAAI8BAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAjAEAAAAAAACMAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							133,
+							1,
+							"cut",
+							null,
+							"AQAAAJQBAAAAAAAAlAEAAAAAAABOAAAAICAgIDxwIGNsYXNzPSJub3RpY2UiPjwlPSBub3RpY2UgJT48L3A+CiAgICA8cCBjbGFzcz0iYWxlcnQiPjwlPSBhbGVydCAlPjwvcD4K",
+							"AQAAAAAAAAABAAAAlAEAAAAAAADiAQAAAAAAAAAAAAAAAAAA"
+						]
+					]
+				},
+				{
+					"file": "/home/adam/c/code/rails/b/app/views/layouts/navigation/_top_navbar.html.erb",
+					"settings":
+					{
+						"buffer_size": 275,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							9,
+							1,
+							"left_delete",
+							null,
+							"AQAAAHMAAAAAAAAAcwAAAAAAAAAYAAAAPCUgaWYgdXNlcl9zaWduZWRfaW4gJT4K",
+							"AQAAAAAAAAABAAAAcwAAAAAAAACLAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							13,
+							1,
+							"left_delete",
+							null,
+							"AQAAAKoAAAAAAAAAqgAAAAAAAAALAAAAPCUgZWxzZSAlPgo",
+							"AQAAAAAAAAABAAAAqgAAAAAAAAC1AAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							18,
+							1,
+							"left_delete",
+							null,
+							"AQAAABMBAAAAAAAAEwEAAAAAAAAKAAAAPCUgZW5kICU+Cg",
+							"AQAAAAAAAAABAAAAEwEAAAAAAAAdAQAAAAAAAAAAAAAAAAAA"
+						]
+					]
+				},
+				{
+					"file": "/home/adam/c/code/rails/b/config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 314,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							9,
+							1,
+							"left_delete",
+							null,
+							"AQAAADQBAAAAAAAANAEAAAAAAAAXAAAAICByb290IHRvOiAiaG9tZSNpbmRleCI",
+							"AQAAAAAAAAABAAAANAEAAAAAAABLAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							27,
+							1,
+							"insert",
+							{
+								"characters": "\n\n"
+							},
+							"AgAAADIBAAAAAAAAMwEAAAAAAAAAAAAAMwEAAAAAAAA0AQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMgEAAAAAAAAyAQAAAAAAAAAAAAAAsHNA"
+						],
+						[
+							29,
+							1,
+							"reindent",
+							null,
+							"AQAAADMBAAAAAAAAOQEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMwEAAAAAAAAzAQAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							31,
+							1,
+							"insert",
+							{
+								"characters": "==="
+							},
+							"AwAAADkBAAAAAAAAOgEAAAAAAAAAAAAAOgEAAAAAAAA7AQAAAAAAAAAAAAA7AQAAAAAAADwBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAOQEAAAAAAAA5AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							32,
+							5,
+							"left_delete",
+							null,
+							"BQAAADsBAAAAAAAAOwEAAAAAAAABAAAAPToBAAAAAAAAOgEAAAAAAAABAAAAPTkBAAAAAAAAOQEAAAAAAAABAAAAPTcBAAAAAAAANwEAAAAAAAACAAAAICA1AQAAAAAAADUBAAAAAAAAAgAAACAg",
+							"AQAAAAAAAAABAAAAPAEAAAAAAAA8AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							33,
+							1,
+							"insert",
+							{
+								"characters": "swc===="
+							},
+							"BwAAADUBAAAAAAAANgEAAAAAAAAAAAAANgEAAAAAAAA3AQAAAAAAAAAAAAA3AQAAAAAAADgBAAAAAAAAAAAAADgBAAAAAAAAOQEAAAAAAAAAAAAAOQEAAAAAAAA6AQAAAAAAAAAAAAA6AQAAAAAAADsBAAAAAAAAAAAAADsBAAAAAAAAPAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANQEAAAAAAAA1AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							34,
+							7,
+							"left_delete",
+							null,
+							"BwAAADsBAAAAAAAAOwEAAAAAAAABAAAAPToBAAAAAAAAOgEAAAAAAAABAAAAPTkBAAAAAAAAOQEAAAAAAAABAAAAPTgBAAAAAAAAOAEAAAAAAAABAAAAPTcBAAAAAAAANwEAAAAAAAABAAAAYzYBAAAAAAAANgEAAAAAAAABAAAAdzUBAAAAAAAANQEAAAAAAAABAAAAcw",
+							"AQAAAAAAAAABAAAAPAEAAAAAAAA8AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							40,
+							1,
+							"insert",
+							{
+								"characters": "devise"
+							},
+							"BgAAADUBAAAAAAAANgEAAAAAAAAAAAAANgEAAAAAAAA3AQAAAAAAAAAAAAA3AQAAAAAAADgBAAAAAAAAAAAAADgBAAAAAAAAOQEAAAAAAAAAAAAAOQEAAAAAAAA6AQAAAAAAAAAAAAA6AQAAAAAAADsBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANQEAAAAAAAA1AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							44,
+							1,
+							"insert",
+							{
+								"characters": "_scope"
+							},
+							"BgAAADsBAAAAAAAAPAEAAAAAAAAAAAAAPAEAAAAAAAA9AQAAAAAAAAAAAAA9AQAAAAAAAD4BAAAAAAAAAAAAAD4BAAAAAAAAPwEAAAAAAAAAAAAAPwEAAAAAAABAAQAAAAAAAAAAAABAAQAAAAAAAEEBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAOwEAAAAAAAA7AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							45,
+							1,
+							"insert",
+							{
+								"characters": " :user"
+							},
+							"BgAAAEEBAAAAAAAAQgEAAAAAAAAAAAAAQgEAAAAAAABDAQAAAAAAAAAAAABDAQAAAAAAAEQBAAAAAAAAAAAAAEQBAAAAAAAARQEAAAAAAAAAAAAARQEAAAAAAABGAQAAAAAAAAAAAABGAQAAAAAAAEcBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAQQEAAAAAAABBAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							46,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAEcBAAAAAAAASAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAARwEAAAAAAABHAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							47,
+							1,
+							"left_delete",
+							null,
+							"AQAAAEcBAAAAAAAARwEAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAASAEAAAAAAABIAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							48,
+							1,
+							"insert",
+							{
+								"characters": "_"
+							},
+							"AQAAAEcBAAAAAAAASAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAARwEAAAAAAABHAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							49,
+							1,
+							"left_delete",
+							null,
+							"AQAAAEcBAAAAAAAARwEAAAAAAAABAAAAXw",
+							"AQAAAAAAAAABAAAASAEAAAAAAABIAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							50,
+							1,
+							"insert",
+							{
+								"characters": " do"
+							},
+							"AwAAAEcBAAAAAAAASAEAAAAAAAAAAAAASAEAAAAAAABJAQAAAAAAAAAAAABJAQAAAAAAAEoBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAARwEAAAAAAABHAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							51,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AwAAAEoBAAAAAAAASwEAAAAAAAAAAAAASwEAAAAAAABNAQAAAAAAAAAAAABNAQAAAAAAAE8BAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAASgEAAAAAAABKAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							54,
+							1,
+							"insert",
+							{
+								"characters": "get"
+							},
+							"AwAAAE8BAAAAAAAAUAEAAAAAAAAAAAAAUAEAAAAAAABRAQAAAAAAAAAAAABRAQAAAAAAAFIBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAATwEAAAAAAABPAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							55,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAFIBAAAAAAAAUwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAUgEAAAAAAABSAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							56,
+							1,
+							"insert_snippet",
+							{
+								"contents": "'$0'"
+							},
+							"AQAAAFMBAAAAAAAAVQEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAUwEAAAAAAABTAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							57,
+							1,
+							"insert",
+							{
+								"characters": "signin"
+							},
+							"BgAAAFQBAAAAAAAAVQEAAAAAAAAAAAAAVQEAAAAAAABWAQAAAAAAAAAAAABWAQAAAAAAAFcBAAAAAAAAAAAAAFcBAAAAAAAAWAEAAAAAAAAAAAAAWAEAAAAAAABZAQAAAAAAAAAAAABZAQAAAAAAAFoBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAVAEAAAAAAABUAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							59,
+							1,
+							"insert",
+							{
+								"characters": ","
+							},
+							"AQAAAFsBAAAAAAAAXAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAWwEAAAAAAABbAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							60,
+							1,
+							"insert",
+							{
+								"characters": " to:"
+							},
+							"BAAAAFwBAAAAAAAAXQEAAAAAAAAAAAAAXQEAAAAAAABeAQAAAAAAAAAAAABeAQAAAAAAAF8BAAAAAAAAAAAAAF8BAAAAAAAAYAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAXAEAAAAAAABcAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							61,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAGABAAAAAAAAYQEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYAEAAAAAAABgAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							63,
+							1,
+							"insert_snippet",
+							{
+								"contents": "'$0'"
+							},
+							"AQAAAGEBAAAAAAAAYwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYQEAAAAAAABhAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							65,
+							1,
+							"insert",
+							{
+								"characters": "users/sessions"
+							},
+							"DgAAAGIBAAAAAAAAYwEAAAAAAAAAAAAAYwEAAAAAAABkAQAAAAAAAAAAAABkAQAAAAAAAGUBAAAAAAAAAAAAAGUBAAAAAAAAZgEAAAAAAAAAAAAAZgEAAAAAAABnAQAAAAAAAAAAAABnAQAAAAAAAGgBAAAAAAAAAAAAAGgBAAAAAAAAaQEAAAAAAAAAAAAAaQEAAAAAAABqAQAAAAAAAAAAAABqAQAAAAAAAGsBAAAAAAAAAAAAAGsBAAAAAAAAbAEAAAAAAAAAAAAAbAEAAAAAAABtAQAAAAAAAAAAAABtAQAAAAAAAG4BAAAAAAAAAAAAAG4BAAAAAAAAbwEAAAAAAAAAAAAAbwEAAAAAAABwAQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYgEAAAAAAABiAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							66,
+							1,
+							"insert",
+							{
+								"characters": "s"
+							},
+							"AQAAAHABAAAAAAAAcQEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAcAEAAAAAAABwAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							67,
+							1,
+							"left_delete",
+							null,
+							"AQAAAHABAAAAAAAAcAEAAAAAAAABAAAAcw",
+							"AQAAAAAAAAABAAAAcQEAAAAAAABxAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							68,
+							1,
+							"insert",
+							{
+								"characters": "#new"
+							},
+							"BAAAAHABAAAAAAAAcQEAAAAAAAAAAAAAcQEAAAAAAAByAQAAAAAAAAAAAAByAQAAAAAAAHMBAAAAAAAAAAAAAHMBAAAAAAAAdAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAcAEAAAAAAABwAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							71,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAHUBAAAAAAAAdgEAAAAAAAAAAAAAdgEAAAAAAAB6AQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAdQEAAAAAAAB1AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							74,
+							1,
+							"insert",
+							{
+								"characters": "get"
+							},
+							"AwAAAHoBAAAAAAAAewEAAAAAAAAAAAAAewEAAAAAAAB8AQAAAAAAAAAAAAB8AQAAAAAAAH0BAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAegEAAAAAAAB6AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							75,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAH0BAAAAAAAAfgEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAfQEAAAAAAAB9AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							76,
+							1,
+							"insert_snippet",
+							{
+								"contents": "'$0'"
+							},
+							"AQAAAH4BAAAAAAAAgAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAfgEAAAAAAAB+AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							77,
+							1,
+							"insert",
+							{
+								"characters": "signout"
+							},
+							"BwAAAH8BAAAAAAAAgAEAAAAAAAAAAAAAgAEAAAAAAACBAQAAAAAAAAAAAACBAQAAAAAAAIIBAAAAAAAAAAAAAIIBAAAAAAAAgwEAAAAAAAAAAAAAgwEAAAAAAACEAQAAAAAAAAAAAACEAQAAAAAAAIUBAAAAAAAAAAAAAIUBAAAAAAAAhgEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAfwEAAAAAAAB/AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							80,
+							1,
+							"insert",
+							{
+								"characters": ","
+							},
+							"AQAAAIcBAAAAAAAAiAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAhwEAAAAAAACHAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							81,
+							1,
+							"insert",
+							{
+								"characters": " to"
+							},
+							"AwAAAIgBAAAAAAAAiQEAAAAAAAAAAAAAiQEAAAAAAACKAQAAAAAAAAAAAACKAQAAAAAAAIsBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAiAEAAAAAAACIAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							82,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAIsBAAAAAAAAjAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAiwEAAAAAAACLAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							83,
+							1,
+							"left_delete",
+							null,
+							"AQAAAIsBAAAAAAAAiwEAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAAjAEAAAAAAACMAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							84,
+							1,
+							"insert",
+							{
+								"characters": ":"
+							},
+							"AQAAAIsBAAAAAAAAjAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAiwEAAAAAAACLAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							85,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAIwBAAAAAAAAjQEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAjAEAAAAAAACMAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							86,
+							1,
+							"insert_snippet",
+							{
+								"contents": "'$0'"
+							},
+							"AQAAAI0BAAAAAAAAjwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAjQEAAAAAAACNAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							87,
+							1,
+							"insert",
+							{
+								"characters": "users/session"
+							},
+							"DQAAAI4BAAAAAAAAjwEAAAAAAAAAAAAAjwEAAAAAAACQAQAAAAAAAAAAAACQAQAAAAAAAJEBAAAAAAAAAAAAAJEBAAAAAAAAkgEAAAAAAAAAAAAAkgEAAAAAAACTAQAAAAAAAAAAAACTAQAAAAAAAJQBAAAAAAAAAAAAAJQBAAAAAAAAlQEAAAAAAAAAAAAAlQEAAAAAAACWAQAAAAAAAAAAAACWAQAAAAAAAJcBAAAAAAAAAAAAAJcBAAAAAAAAmAEAAAAAAAAAAAAAmAEAAAAAAACZAQAAAAAAAAAAAACZAQAAAAAAAJoBAAAAAAAAAAAAAJoBAAAAAAAAmwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAjgEAAAAAAACOAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							88,
+							1,
+							"insert",
+							{
+								"characters": "s"
+							},
+							"AQAAAJsBAAAAAAAAnAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAmwEAAAAAAACbAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							90,
+							1,
+							"insert",
+							{
+								"characters": "#"
+							},
+							"AQAAAJwBAAAAAAAAnQEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAnAEAAAAAAACcAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							92,
+							1,
+							"insert",
+							{
+								"characters": "d"
+							},
+							"AQAAAJ0BAAAAAAAAngEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAnQEAAAAAAACdAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							94,
+							1,
+							"insert",
+							{
+								"characters": "estroy"
+							},
+							"BgAAAJ4BAAAAAAAAnwEAAAAAAAAAAAAAnwEAAAAAAACgAQAAAAAAAAAAAACgAQAAAAAAAKEBAAAAAAAAAAAAAKEBAAAAAAAAogEAAAAAAAAAAAAAogEAAAAAAACjAQAAAAAAAAAAAACjAQAAAAAAAKQBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAngEAAAAAAACeAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							96,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAKUBAAAAAAAApgEAAAAAAAAAAAAApgEAAAAAAACqAQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAApQEAAAAAAAClAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							99,
+							1,
+							"insert",
+							{
+								"characters": "get"
+							},
+							"AwAAAKoBAAAAAAAAqwEAAAAAAAAAAAAAqwEAAAAAAACsAQAAAAAAAAAAAACsAQAAAAAAAK0BAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAqgEAAAAAAACqAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							100,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAK0BAAAAAAAArgEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAArQEAAAAAAACtAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							101,
+							1,
+							"insert_snippet",
+							{
+								"contents": "'$0'"
+							},
+							"AQAAAK4BAAAAAAAAsAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAArgEAAAAAAACuAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							102,
+							1,
+							"insert",
+							{
+								"characters": "signup"
+							},
+							"BgAAAK8BAAAAAAAAsAEAAAAAAAAAAAAAsAEAAAAAAACxAQAAAAAAAAAAAACxAQAAAAAAALIBAAAAAAAAAAAAALIBAAAAAAAAswEAAAAAAAAAAAAAswEAAAAAAAC0AQAAAAAAAAAAAAC0AQAAAAAAALUBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAArwEAAAAAAACvAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							105,
+							1,
+							"insert",
+							{
+								"characters": ","
+							},
+							"AQAAALYBAAAAAAAAtwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAtgEAAAAAAAC2AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							106,
+							1,
+							"insert",
+							{
+								"characters": " to:"
+							},
+							"BAAAALcBAAAAAAAAuAEAAAAAAAAAAAAAuAEAAAAAAAC5AQAAAAAAAAAAAAC5AQAAAAAAALoBAAAAAAAAAAAAALoBAAAAAAAAuwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAtwEAAAAAAAC3AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							107,
+							1,
+							"insert",
+							{
+								"characters": " u="
+							},
+							"AwAAALsBAAAAAAAAvAEAAAAAAAAAAAAAvAEAAAAAAAC9AQAAAAAAAAAAAAC9AQAAAAAAAL4BAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAuwEAAAAAAAC7AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							108,
+							2,
+							"left_delete",
+							null,
+							"AgAAAL0BAAAAAAAAvQEAAAAAAAABAAAAPbwBAAAAAAAAvAEAAAAAAAABAAAAdQ",
+							"AQAAAAAAAAABAAAAvgEAAAAAAAC+AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							109,
+							1,
+							"insert_snippet",
+							{
+								"contents": "'$0'"
+							},
+							"AQAAALwBAAAAAAAAvgEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAvAEAAAAAAAC8AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							110,
+							1,
+							"insert",
+							{
+								"characters": "users/"
+							},
+							"BgAAAL0BAAAAAAAAvgEAAAAAAAAAAAAAvgEAAAAAAAC/AQAAAAAAAAAAAAC/AQAAAAAAAMABAAAAAAAAAAAAAMABAAAAAAAAwQEAAAAAAAAAAAAAwQEAAAAAAADCAQAAAAAAAAAAAADCAQAAAAAAAMMBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAvQEAAAAAAAC9AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							111,
+							1,
+							"insert",
+							{
+								"characters": "regist"
+							},
+							"BgAAAMMBAAAAAAAAxAEAAAAAAAAAAAAAxAEAAAAAAADFAQAAAAAAAAAAAADFAQAAAAAAAMYBAAAAAAAAAAAAAMYBAAAAAAAAxwEAAAAAAAAAAAAAxwEAAAAAAADIAQAAAAAAAAAAAADIAQAAAAAAAMkBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAwwEAAAAAAADDAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							112,
+							1,
+							"insert",
+							{
+								"characters": "rations"
+							},
+							"BwAAAMkBAAAAAAAAygEAAAAAAAAAAAAAygEAAAAAAADLAQAAAAAAAAAAAADLAQAAAAAAAMwBAAAAAAAAAAAAAMwBAAAAAAAAzQEAAAAAAAAAAAAAzQEAAAAAAADOAQAAAAAAAAAAAADOAQAAAAAAAM8BAAAAAAAAAAAAAM8BAAAAAAAA0AEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAyQEAAAAAAADJAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							113,
+							1,
+							"insert",
+							{
+								"characters": "#new"
+							},
+							"BAAAANABAAAAAAAA0QEAAAAAAAAAAAAA0QEAAAAAAADSAQAAAAAAAAAAAADSAQAAAAAAANMBAAAAAAAAAAAAANMBAAAAAAAA1AEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA0AEAAAAAAADQAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							116,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAANUBAAAAAAAA1gEAAAAAAAAAAAAA1gEAAAAAAADaAQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA1QEAAAAAAADVAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							119,
+							1,
+							"insert",
+							{
+								"characters": "end"
+							},
+							"BQAAANoBAAAAAAAA2wEAAAAAAAAAAAAA2wEAAAAAAADcAQAAAAAAAAAAAADcAQAAAAAAAN0BAAAAAAAAAAAAANYBAAAAAAAA1gEAAAAAAAAEAAAAICAgINYBAAAAAAAA2AEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA2gEAAAAAAADaAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							130,
+							1,
+							"insert",
+							{
+								"characters": ","
+							},
+							"AQAAAKUBAAAAAAAApgEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAApQEAAAAAAAClAQAAAAAAAAAAAAAAcHpA"
+						],
+						[
+							134,
+							1,
+							"insert",
+							{
+								"characters": ","
+							},
+							"AQAAAHUBAAAAAAAAdgEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAdQEAAAAAAAB1AQAAAAAAAAAAAAAAAHtA"
+						],
+						[
+							144,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAEoBAAAAAAAASwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAASgEAAAAAAABKAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							146,
+							1,
+							"insert_snippet",
+							{
+								"contents": "{$0}"
+							},
+							"AQAAAEsBAAAAAAAATQEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAASwEAAAAAAABLAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							149,
+							1,
+							"left_delete",
+							null,
+							"AQAAAEwBAAAAAAAATAEAAAAAAAABAAAAfQ",
+							"AQAAAAAAAAABAAAATQEAAAAAAABNAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							155,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAANwBAAAAAAAA3QEAAAAAAAAAAAAA3QEAAAAAAADfAQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA3AEAAAAAAADcAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							158,
+							1,
+							"insert",
+							{
+								"characters": "}"
+							},
+							"AQAAANwBAAAAAAAA3QEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA3AEAAAAAAADcAQAAAAAAAAAAAAAAADJA"
+						],
+						[
+							171,
+							1,
+							"insert",
+							{
+								"characters": "s"
+							},
+							"AQAAAEcBAAAAAAAASAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAARwEAAAAAAABHAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							181,
+							1,
+							"left_delete",
+							null,
+							"AQAAAHgBAAAAAAAAeAEAAAAAAAABAAAALA",
+							"AQAAAAAAAAABAAAAeQEAAAAAAAB5AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							185,
+							1,
+							"left_delete",
+							null,
+							"AQAAAKgBAAAAAAAAqAEAAAAAAAABAAAALA",
+							"AQAAAAAAAAABAAAAqQEAAAAAAACpAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							201,
+							1,
+							"insert",
+							{
+								"characters": "a"
+							},
+							"AgAAADIBAAAAAAAAMwEAAAAAAAAAAAAAMwEAAAAAAAAzAQAAAAAAALEAAAAKICBkZXZpc2Vfc2NvcGUgOnVzZXJzIGRvIHsKICAgIGdldCAnc2lnbmluJywgdG86ICd1c2Vycy9zZXNzaW9ucyNuZXcnCiAgICBnZXQgJ3NpZ25vdXQnLCB0bzogJ3VzZXJzL3Nlc3Npb25zI2Rlc3Ryb3knCiAgICBnZXQgJ3NpZ251cCcsIHRvOiAndXNlcnMvcmVnaXN0cmF0aW9ucyNuZXcnCiAgfQogIGVuZAo",
+							"AQAAAAAAAAABAAAAMgEAAAAAAADjAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							204,
+							1,
+							"left_delete",
+							null,
+							"AQAAADIBAAAAAAAAMgEAAAAAAAABAAAAYQ",
+							"AQAAAAAAAAABAAAAMwEAAAAAAAAzAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							206,
+							1,
+							"insert",
+							{
+								"characters": "  "
+							},
+							"AgAAADIBAAAAAAAAMwEAAAAAAAAAAAAAMwEAAAAAAAA0AQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMgEAAAAAAAAyAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							208,
+							1,
+							"insert",
+							{
+								"characters": "end"
+							},
+							"AwAAADQBAAAAAAAANQEAAAAAAAAAAAAANQEAAAAAAAA2AQAAAAAAAAAAAAA2AQAAAAAAADcBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANAEAAAAAAAA0AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							218,
+							3,
+							"left_delete",
+							null,
+							"AwAAADYBAAAAAAAANgEAAAAAAAABAAAAZDUBAAAAAAAANQEAAAAAAAABAAAAbjQBAAAAAAAANAEAAAAAAAABAAAAZQ",
+							"AQAAAAAAAAABAAAANwEAAAAAAAA3AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							219,
+							1,
+							"trim_trailing_white_space",
+							null,
+							"AQAAADIBAAAAAAAAMgEAAAAAAAACAAAAICA",
+							"AQAAAAAAAAABAAAANAEAAAAAAAA0AQAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/adam/c/code/rails/b/app/controllers/Users/sessions_controller.rb",
+					"settings":
+					{
+						"buffer_size": 533,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							12,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"EwAAABsCAAAAAAAAHQIAAAAAAAAAAAAAEwIAAAAAAAAVAgAAAAAAAAAAAADNAQAAAAAAAM8BAAAAAAAAAAAAAKwBAAAAAAAArgEAAAAAAAAAAAAAZgEAAAAAAABoAQAAAAAAAAAAAABXAQAAAAAAAFkBAAAAAAAAAAAAAE4BAAAAAAAAUAEAAAAAAAAAAAAAQgEAAAAAAABEAQAAAAAAAAAAAAAyAQAAAAAAADQBAAAAAAAAAAAAABQBAAAAAAAAFgEAAAAAAAAAAAAACwEAAAAAAAANAQAAAAAAAAAAAAD/AAAAAAAAAAEBAAAAAAAAAAAAAPAAAAAAAAAA8gAAAAAAAAAAAAAA1QAAAAAAAADXAAAAAAAAAAAAAADMAAAAAAAAAM4AAAAAAAAAAAAAAMAAAAAAAAAAwgAAAAAAAAAAAAAAtAAAAAAAAAC2AAAAAAAAAAAAAACaAAAAAAAAAJwAAAAAAAAAAAAAAFwAAAAAAAAAXgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAXAAAAAAAAAAfAgAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							14,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"EwAAAD8CAAAAAAAAPwIAAAAAAAACAAAAIyA1AgAAAAAAADUCAAAAAAAAAgAAACMg7QEAAAAAAADtAQAAAAAAAAIAAAAjIMoBAAAAAAAAygEAAAAAAAACAAAAIyCCAQAAAAAAAIIBAAAAAAAAAgAAACMgcQEAAAAAAABxAQAAAAAAAAIAAAAjIGYBAAAAAAAAZgEAAAAAAAACAAAAIyBYAQAAAAAAAFgBAAAAAAAAAgAAACMgRgEAAAAAAABGAQAAAAAAAAIAAAAjICYBAAAAAAAAJgEAAAAAAAACAAAAIyAbAQAAAAAAABsBAAAAAAAAAgAAACMgDQEAAAAAAAANAQAAAAAAAAIAAAAjIPwAAAAAAAAA/AAAAAAAAAACAAAAIyDfAAAAAAAAAN8AAAAAAAAAAgAAACMg1AAAAAAAAADUAAAAAAAAAAIAAAAjIMYAAAAAAAAAxgAAAAAAAAACAAAAIyC4AAAAAAAAALgAAAAAAAAAAgAAACMgnAAAAAAAAACcAAAAAAAAAAIAAAAjIFwAAAAAAAAAXAAAAAAAAAACAAAAIyA",
+							"AQAAAAAAAAABAAAAXgAAAAAAAABFAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							17,
+							1,
+							"",
+							null,
+							"EwAAABUCAAAAAAAAFQIAAAAAAAABAAAAI88BAAAAAAAAzwEAAAAAAAABAAAAI64BAAAAAAAArgEAAAAAAAABAAAAI2gBAAAAAAAAaAEAAAAAAAABAAAAI1kBAAAAAAAAWQEAAAAAAAABAAAAI1ABAAAAAAAAUAEAAAAAAAABAAAAI0QBAAAAAAAARAEAAAAAAAABAAAAIzQBAAAAAAAANAEAAAAAAAABAAAAIxYBAAAAAAAAFgEAAAAAAAABAAAAIw0BAAAAAAAADQEAAAAAAAABAAAAIwEBAAAAAAAAAQEAAAAAAAABAAAAI/IAAAAAAAAA8gAAAAAAAAABAAAAI9cAAAAAAAAA1wAAAAAAAAABAAAAI84AAAAAAAAAzgAAAAAAAAABAAAAI8IAAAAAAAAAwgAAAAAAAAABAAAAI7YAAAAAAAAAtgAAAAAAAAABAAAAI5wAAAAAAAAAnAAAAAAAAAABAAAAI14AAAAAAAAAXgAAAAAAAAABAAAAIwAAAAAAAAAAAAAAAAAAAAABAAAAIw",
+							"AQAAAAAAAAABAAAAXgAAAAAAAABfAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							23,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AQAAAAEAAAAAAAAAAwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							26,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							35,
+							1,
+							"insert",
+							{
+								"characters": "?"
+							},
+							"AQAAAJkAAAAAAAAAmgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAmQAAAAAAAACZAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							37,
+							1,
+							"left_delete",
+							null,
+							"AQAAAJkAAAAAAAAAmQAAAAAAAAABAAAAPw",
+							"AQAAAAAAAAABAAAAmgAAAAAAAACaAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							39,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AQAAAJwAAAAAAAAAngAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAmQAAAAAAAACZAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							45,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AQAAANUAAAAAAAAA1wAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA0gAAAAAAAADSAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							49,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AQAAABIBAAAAAAAAFAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAADwEAAAAAAAAPAQAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							55,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AQAAAGEBAAAAAAAAYwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAXgEAAAAAAABeAQAAAAAAAAAAAAAAAAAA"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"haml",
+						"Set Syntax: Ruby Haml"
+					],
+					[
+						"",
+						"ANF: New File"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"package control",
+						"Package Control: Install Package"
+					],
+					[
+						"package control add",
+						"Package Control: Add Channel"
+					],
+					[
+						"packagin",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 124.0,
+				"history":
+				[
+					"cd ~\nsublime",
+					"exit",
+					"cd ~",
+					"cd !",
+					"help",
+					"?",
+					"whoami",
+					"fish",
+					"exit",
+					"ruby",
+					"class API",
+					"require 'blanket'",
+					"exit",
+					"irb",
+					"require blanket",
+					"require 'blanket'",
+					"pry",
+					"shell",
+					"fish"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/adam/c/code/rails/b",
+				"/home/adam/c/code/rails/b/app",
+				"/home/adam/c/code/rails/b/app/controllers",
+				"/home/adam/c/code/rails/b/app/controllers/Users",
+				"/home/adam/c/code/rails/b/app/views",
+				"/home/adam/c/code/rails/b/app/views/layouts",
+				"/home/adam/c/code/rails/b/app/views/layouts/navigation",
+				"/home/adam/c/code/rails/b/app/views/users",
+				"/home/adam/c/code/rails/b/app/views/users/sessions",
+				"/home/adam/c/code/rails/b/config"
+			],
+			"file_history":
+			[
+				"/home/adam/c/code/rails/b/app/views/layouts/navigation/_top_navbar.html.erb",
+				"/home/adam/c/code/rails/to/app/controllers/users_controller.rb",
+				"/home/adam/c/code/rails/to/app/models/user.rb",
+				"/home/adam/c/code/rails/co/app/views/layouts/navigation/_pages.html.erb",
+				"/home/adam/c/code/rails/my/app/views/welcome/index.html.erb",
+				"/home/adam/c/code/rails/my/config/routes.rb",
+				"/home/adam/c/code/rails/my/Gemfile",
+				"/home/adam/c/code/rails/my/config/environments/development.rb",
+				"/home/adam/c/code/rails/my/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/my/db/migrate/20211014114105_devise_create_users.rb",
+				"/home/adam/c/code/rails/to/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/to/Gemfile",
+				"/home/adam/c/code/rails/to/config/environments/development.rb",
+				"/home/adam/c/code/rails/to/config/routes.rb",
+				"/home/adam/c/code/rails/to/app/views/layouts/_navigation.html.erb",
+				"/home/adam/c/code/rails/reference/rails_6_devise_example/app/views/users/unlocks/new.html.erb",
+				"/home/adam/c/code/rails/reference/rails_6_devise_example/app/views/application/home.html.erb",
+				"/home/adam/c/code/rails/to/app/views/pages/index.html.erb",
+				"/home/adam/c/code/rails/c/config/routes.rb",
+				"/home/adam/c/code/rails/c/app/views/pages/index.html.erb",
+				"/home/adam/c/code/rails/c/app/assets/stylesheets/application.scss",
+				"/home/adam/c/code/rails/c/app/javascript/application.js",
+				"/home/adam/c/code/rails/c/app/views/layouts/_navigation.html.erb",
+				"/home/adam/c/code/rails/c/app/assets/stylesheets/partials/layout/navigation.scss",
+				"/home/adam/c/code/rails/c/Gemfile",
+				"/home/adam/c/code/rails/c/config/environments/development.rb",
+				"/home/adam/c/code/rails/c/app/assets/stylesheets/base/variables.scss",
+				"/home/adam/c/code/rails/c/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/to/db/migrate/20211012132740_add_fields_to_user.rb",
+				"/home/adam/c/code/rails/to/app/views/notes/show.html.erb",
+				"/home/adam/c/code/rails/to/app/controllers/notes_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/registrations_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/bookmarks_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/contacts_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/lists_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/pages_controller.rb",
+				"/home/adam/c/code/rails/to/app/controllers/posts_controller.rb",
+				"/home/adam/c/code/rails/co/app/controllers/users_controller.rb",
+				"/home/adam/c/code/rails/co/app/controllers/sessions_controller.rb",
+				"/home/adam/c/code/rails/co/app/views/users/new.html.erb",
+				"/home/adam/c/code/rails/co/app/views/sessions/new.html.erb",
+				"/home/adam/c/code/rails/co/app/controllers/application_controller.rb",
+				"/home/adam/c/code/rails/co/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/co/app/views/users/show.html.erb",
+				"/home/adam/c/code/rails/so_/app/assets/stylesheets/application.scss",
+				"/home/adam/c/code/rails/so_/Gemfile",
+				"/home/adam/c/code/rails/so_/app/javascript/packs/application.js",
+				"/home/adam/c/code/rails/so_/app/views/layouts/_navigation.html.erb",
+				"/home/adam/c/code/rails/so_/config/environments/development.rb",
+				"/home/adam/c/code/rails/so_/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/so_/app/views/pages/index.html.erb",
+				"/home/adam/c/code/rails/so_/app/controllers/pages_controller.rb",
+				"/home/adam/c/code/rails/so_/app/helpers/application_helper.rb",
+				"/home/adam/c/code/rails/so_/config/routes.rb",
+				"/home/adam/c/code/rails/so_/app/views/devise/sessions/new.html.erb",
+				"/home/adam/c/code/rails/so_/app/views/pages/about.html.erb",
+				"/home/adam/c/code/rails/so_/app/views/pages/contact.html.erb",
+				"/home/adam/c/code/rails/so_/db/migrate/20211011180755_devise_create_users.rb",
+				"/home/adam/c/code/rails/co/app/assets/stylesheets/application.scss",
+				"/home/adam/c/code/rails/co/Gemfile",
+				"/home/adam/c/code/rails/co/app/javascript/packs/application.js",
+				"/home/adam/c/code/rails/co/config/routes.rb",
+				"/home/adam/c/code/rails/co/app/models/user.rb",
+				"/home/adam/c/code/rails/co/app/views/layouts/_navigation.html.erb",
+				"/home/adam/c/code/rails/co/config/initializers/devise.rb",
+				"/home/adam/c/code/rails/co/config/environments/development.rb",
+				"/home/adam/c/code/rails/co/app/controllers/pages_controller.rb",
+				"/home/adam/c/code/rails/co/app/views/pages/index.html.erb",
+				"/home/adam/c/code/rails/co/app/javascript/application.js",
+				"/home/adam/c/code/rails/notes/Gemfile.lock",
+				"/home/adam/c/code/rails/notes/config.ru",
+				"/home/adam/c/code/rails/taski/app/views/pages/home.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/taski/config/routes.rb",
+				"/home/adam/c/code/rails/taski/app/controllers/projects_controller.rb",
+				"/home/adam/c/code/rails/taski/app/views/pages/about.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/shared/_projects.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/shared/_headers.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/layouts/_headers.html.erb",
+				"/home/adam/c/code/rails/taski/app/views/pages/errors.html.erb",
+				"/home/adam/c/code/rails/taski/app/controllers/pages_controller.rb",
+				"/home/adam/c/code/rails/ozone/app/assets/stylesheets/application.css",
+				"/home/adam/c/code/rails/co/db/migrate/user.rb",
+				"/home/adam/c/code/rails/co/app/views/layouts/_header.html.erb",
+				"/home/adam/c/code/rails/co/app/views/layouts/_alerts.html.erb",
+				"/home/adam/c/code/rails/co/app/views/people/_form.html.erb",
+				"/home/adam/c/code/rails/co/app/views/people/index.html.erb",
+				"/home/adam/c/code/rails/co/app/views/people/show.html.erb",
+				"/home/adam/d/bootstrap-5.0.2-examples/grid/index.html",
+				"/home/adam/c/code/rails/co/db/migrate/user_controller.rb",
+				"/home/adam/c/code/rails/portfolio/db/schema.rb",
+				"/home/adam/c/code/rails/portfolio/app/controllers/posts_controller.rb",
+				"/home/adam/c/code/rails/portfolio/app/controllers/projects_controller.rb",
+				"/home/adam/c/code/rails/portfolio/db/seeds.rb",
+				"/home/adam/c/code/rails/portfolio/db/migrate/20211006202141_add_status_to_posts.rb",
+				"/home/adam/c/code/rails/portfolio/app/models/post.rb",
+				"/home/adam/c/code/rails/portfolio/app/models/topic.rb",
+				"/home/adam/c/code/rails/portfolio/db/migrate/20211006220813_add_topic_reference_to_posts.rb",
+				"/home/adam/c/code/rails/portfolio/app/models/skill.rb",
+				"/home/adam/c/code/rails/portfolio/app/models/project.rb",
+				"/home/adam/c/code/rails/portfolio/app/views/skills/index.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/show.html.erb",
+				"/home/adam/c/code/rails/portfolio/config/routes.rb",
+				"/home/adam/c/code/rails/portfolio/app/views/projects/index.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/index.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/skills/show.html.erb",
+				"/home/adam/c/code/rails/portfolio/db/migrate/20211006175925_create_skills.rb",
+				"/home/adam/c/code/rails/portfolio/Gemfile",
+				"/home/adam/c/code/rails/portfolio/app/views/projects/new.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/assets/stylesheets/posts.scss",
+				"/home/adam/c/code/rails/portfolio/app/views/layouts/application.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/edit.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/new.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/posts/_form.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/skills/_form.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/projects/_form.html.erb",
+				"/home/adam/c/code/rails/portfolio/db/posts_edit_form.rb",
+				"/home/adam/c/code/rails/portfolio/app/helpers/posts_helper.rb",
+				"/home/adam/c/code/rails/portfolio/app/assets/stylesheets/application.css",
+				"/home/adam/c/code/rails/portfolio/app/views/layouts/_navbar.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/views/projects/show.html.erb",
+				"/home/adam/c/code/rails/portfolio/app/forms/posts_new_form.rb",
+				"/home/adam/c/code/rails/portfolio/app/assets/stylesheets/skills.scss",
+				"/home/adam/c/code/rails/portfolio/app/assets/stylesheets/projects.scss",
+				"/home/adam/c/code/rails/portfolio/app/javascript/packs/application.js",
+				"/home/adam/c/code/rails/portfolio/20211005045055_create_blogs.rb",
+				"/home/adam/c/code/rails/portfolio/app/javascript/channels/index.js",
+				"/home/adam/c/code/rails/portfolio/config/application.rb"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 175.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"#"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/adam/c/code/rails/b"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/adam/c/code/rails/b/app/views/layouts/application.html.erb",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 439,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										404,
+										404
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/adam/c/code/rails/b/app/views/layouts/navigation/_top_navbar.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 275,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										275,
+										275
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/adam/c/code/rails/b/config/routes.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 314,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										306,
+										306
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/Rails/Ruby on Rails.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/adam/c/code/rails/b/app/controllers/Users/sessions_controller.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 533,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										210,
+										210
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/Rails/Ruby on Rails.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 61.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 168.0
+			},
+			"output.exec":
+			{
+				"height": 108.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 30.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,800,600,3840,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 84.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"ozone/app/javascript/packs/application.js"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 253.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			},
+			"window_id": 197,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/adam/ozone.sublime-workspace",
+			"/home/adam/c/code/rails/co/db/migrate/co.sublime-workspace",
+			"/home/adam/c/code/rails/auth/config/auth.sublime-workspace",
+			"/home/adam/c/code/rails/co.sublime-workspace"
+		]
+	}
+}

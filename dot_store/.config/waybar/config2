@@ -1,0 +1,131 @@
+[{
+    "layer": "top",
+    "position": "top",
+    "height": 20,
+    "output": "DP-3",
+    "modules-left": ["sway/window", "sway/workspaces", "sway/mode"],
+    "modules-center": ["idle_inhibitor", "backlight#bl2", "battery#batt2", "network#nw2", "pulseaudio#pa2"],
+    "modules-right": ["cpu", "memory", tray", "clock"]
+}, {
+    "layer": "top"
+    "position": "top",
+    "height": 20,,
+    "output": "DP-4",
+    "modules-left": ["backlight", "battery", "network", "pulseaudio"],
+    "modules-center": ["idle_inhibitor", "backlight#bl2", "battery#batt2", "network#nw2", "pulseaudio#pa2"],
+    "modules-right": ["sway/window", "sway/workspaces", "sway/mode"],
+    "sway/mode": {
+        "format": "<span style=\"italic\">{}</span>"
+    },
+    "idle_inhibitor": {
+        "format": "{icon}",
+        "format-icons": {
+            "activated": "",
+            "deactivated": ""
+        }
+    },
+    "tray": {
+        "icon-size": 21,
+        "spacing": 10
+    },
+    "clock": {
+        "timezone": "America/Chicago",
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+        "format-alt": "{:%Y-%m-%d}"
+    },
+    "cpu": {
+        "format": "{usage}%",
+        "tooltip": false
+    },
+    "memory": {
+        "format": "{percent}%",
+    },
+    "backlight": {
+        // "device": "acpi_video1",
+        "format": "{percent}%",
+    },
+    "battery": {
+        "states": {
+            "good": 95,
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{capacity}%",
+        "format-charging": "{capacity}%",
+        "format-plugged": "{capacity}%",
+        "format-alt": "{time}",
+        "format-good": "{capacity}%",
+        "format-full": "{capacity}%",
+    },
+    "network": {
+        "interface": "wlan0",
+        "format": "{ifname}",
+        "format-wifi": "{essid} ({signalStrength}%)",
+        "format-ethernet": "{ifname}",
+        "format-disconnected": "Disconnected",
+        "tooltip-format": "{ifname}",
+        "tooltip-format-wifi": "{essid} ({signalStrength}%)",
+        "tooltip-format-ethernet": "{ifname}",
+        "tooltip-format-disconnected": "Disconnected",
+        "max-length": 50
+    },
+    "pulseaudio": {
+        "format": "{volume}% {format_source}",
+        "format-bluetooth": "{volume} {format_source}",
+        "format-bluetooth-muted": " {format_source}",
+        "format-muted": " {format_source}",
+        "format-source": "{volume}%",
+        "format-source-muted": "muted",
+        "on-click": "pavucontrol"
+    },
+    "backlight#bl2": {
+        // "device": "acpi_video1",
+        "format": "{icon}",
+        "format-icons": ["", ""]
+    },
+    "battery#batt2": {
+        "states": {
+            // "good": 95,
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{icon}",
+        "format-charging": "",
+        "format-plugged": "",
+        "format-alt": "{icon}",
+        "format-icons": ["", "", "", "", ""]
+    },
+    "network#nw2": {
+        "interface": "wlan0",
+        "format": "{ifname}",
+        "format-wifi": "",
+        "format-ethernet": "",
+        "format-disconnected": "",
+        "format-disconnected": "",
+        "tooltip-format": "{ifname}",
+        "tooltip-format-wifi": "",
+        "tooltip-format-ethernet": "",
+        "tooltip-format-disconnected": "Disconnected",
+        "max-length": 50
+    },
+    "pulseaudio#pa2": {
+        // "scroll-step": 1, // %, can be a float
+        "format": "{icon} {format_source}",
+        "format-bluetooth": "{icon} {format_source}",
+        "format-bluetooth-muted": " {icon} {format_source}",
+        "format-muted": " {format_source}",
+        "format-source": "",
+        "format-source-muted": "",
+        "format-icons": {
+            "headphone": "",
+            "hands-free": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
+            "default": ["", "", ""]
+        },
+        "on-click": "pavucontrol"
+    }
+]
+    

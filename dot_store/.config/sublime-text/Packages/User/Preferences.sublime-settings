@@ -1,0 +1,26 @@
+{
+	/*"font_size": 10,*/
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"ignored_packages":[
+		"Vintage",
+       ],
+  "font_face": "M+ 1mn",
+	"font_size": 13,
+	"theme": "Adaptive.sublime-theme",
+  "dark_theme": "Default Dark.sublime-theme",
+  "auto_complete": true,
+  "auto_complete_commit_on_tab": true,
+  "copy_with_empty_selection": false,
+  "ensure_newline_at_eof_on_save": true,
+  "index_files": true,
+  "rulers": false,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "spell_check": true,
+  "word_wrap": true,
+  "highlight_line": true,
+  "auto_hide_status_bar": true,
+  /*"copy_with_empty_selection": false,*/
+  "allow_git_home_dir": true,
+}
